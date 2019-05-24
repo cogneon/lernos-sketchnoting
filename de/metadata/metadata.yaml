@@ -1,0 +1,17 @@
+---
+title: "lernOS Sketchnoting Leitfaden (CC BY)"
+subtitle: "... Untertitel ..."
+author: [Karl Damke et.al.]
+date: "Version 0.1 (dd.mm.2019)"
+titlepage: true
+titlepage-color: "ff6600"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
+links-as-notes: true
+lof: false
+toc: true
+toc-own-page: true
+toc-depth: 2
+logo: images/lernOS-logo-white-4000px.png
+logo-width: 300
+---

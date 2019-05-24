@@ -1,1 +1,1 @@
-# barcamp
+# lernOS Sketchnoting Guide

@@ -720,7 +720,7 @@ Submitted by Sabine Erkens @Sabine_Erkens on Twitter
 
 Bereite eine Sketchnote in Schwarz vor. Mach mehrere Kopien davon und bereite deine Farbstifte vor. Im Weekly koloriert ihr gemeinsam eure Sketchnotes auf unterschiedliche Art und Weisen. 
 
-Vorschläge dafür: 
+**Vorschläge dafür:** 
 
 - wie immer
 - totales Gegenteil vom typischen Stil
@@ -731,7 +731,7 @@ Vorschläge dafür:
 
 ### Kata 13: Layouts für Sketchnotes
 
-Vorbereitung:
+**Vorbereitung:**
 
 \#cheat sheet anschauen – überlegen, welches Layout wofür geeignet ist
 
@@ -751,7 +751,7 @@ Ressource: Cheat Sheet maccymax
 
 Einigt euch auf ein Video, dass ihr gemeinsam live sketchnoten wollt. Wir empfehlen etwas unter 10 Minuten, vielleicht eine Sendung mit der Maus. Wenn ihr euch online trefft, schaut, ob ihr eure Kameras so aufstellen könnt, dass sie eure Sketchnote zeigt.
 
-Im Weekly:
+**Im Weekly:**
 
 Schaut gemeinsam das Video und sketcht den Inhalt. Vergleicht danach die Sketchnotes miteinander.  -  welches Layout habt ihr warum gewählt?
 
@@ -786,7 +786,7 @@ Sehen die anderen Circle-Member Unterschiede?
 
 Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet) . Teil dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.
 
-Leitfragen für die Analyse und das Feedback:
+**Leitfragen für die Analyse und das Feedback:**
 
 Wie lesbar ist die Sketchnote?
 

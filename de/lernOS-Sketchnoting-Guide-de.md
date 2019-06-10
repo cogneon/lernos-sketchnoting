@@ -577,7 +577,7 @@ Check out (1 Minute pro Member)
 
 
 
-# **6 Kata-Log**
+# **Kata-Log**
 
 ### Kata1: Sketchnote-Selfie
 

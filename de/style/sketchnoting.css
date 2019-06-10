@@ -1,0 +1,6 @@
+body{
+	background-color:blue;
+}
+img[src*="#cards"] {
+   width:150px;
+}

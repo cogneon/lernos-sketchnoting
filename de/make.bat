@@ -13,20 +13,32 @@ REM Variables
 set filename="lernOS-Sketchnoting-Guide-de"
 
 REM Delete Old Versions
+echo -- Delete old files
 del %filename%.docx %filename%.epub %filename%.mobi %filename%.html %filename%.pdf images\ebook-cover.png
+echo -- Old files deleted
 
 REM Create Microsoft Word Version (docx)
-pandoc -s -o %filename%.docx %filename%.md
+echo -- Create Word document
+pandoc -s -o %filename%.docx %filename%.md --metadata-file metadata/metadata.yaml
+echo -- Word document created
 
 REM Create Web Version (html)
-pandoc -s --toc -o %filename%.html %filename%.md
+echo -- Create HTML document
+pandoc -s --toc -o %filename%.html %filename%.md --metadata-file metadata/metadata.yaml
+echo -- HTML document created
 
 REM Create PDF Version (pdf)
-pandoc %filename%.md metadata/metadata.yaml -o %filename%.pdf --from markdown --template lernOS --number-sections -V lang=de-de
+echo -- Create PDF document
+pandoc %filename%.md metadata/metadata.yaml -o %filename%.pdf --from markdown --template sketchnotes --number-sections -V lang=de-de
+echo -- PDF document created
 
 REM Create eBook Versions (epub, mobi)
+echo -- Create eBook dokuments
+echo - Create cover
 magick -density 300 %filename%.pdf[0] images/ebook-cover.png
-pandoc -s --epub-cover-image=images/ebook-cover.png -o %filename%.epub %filename%.md
+echo - Create epub-document
+pandoc -s --epub-cover-image=images/ebook-cover.png -o %filename%.epub %filename%.md --metadata-file metadata/metadata.yaml
+echo - Convert epub-document to epub-document
 ebook-convert %filename%.epub %filename%.mobi
 
 pause

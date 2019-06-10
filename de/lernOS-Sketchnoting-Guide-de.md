@@ -1,12 +1,12 @@
-# **1 Vorwort**
+# **Vorwort**
 
-Wird als letztes geschrieben :)
+Wird als letztes geschrieben :-)
 
-# **2 Danksagung**
+# **Danksagung**
 
 Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: Marjukka Zsagar-Renneberg, Raffaelina Rossetti, Benjamin Krüger, Lars Bartschat und Karl Damke
 
-Geholfen haben dabei: (Hier werden **alle** Beteiligten wie folgt genannt:)
+Geholfen haben dabei: (Hier werden **alle** Beteiligten wie folgt genannt :-)
 
 Natalia Zlateva (Kata 7: Einkaufszettel) …. 
 
@@ -14,7 +14,7 @@ Mike Meister (Warm Up Kritzelvögel) …
 
 Dein Name im Kommentar einfügen (Feedback) ....
 
-# **3 Einleitung**
+# **Einleitung**
 
 Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. lernOS ist eine Toolbox für lebenslanges Lernen, die Elemente aus Systemen wie Working Out Loud, Getting Things Done und Objective Key Results miteinander kombiniert. Dazu das wichtigste in einer Sketchnote:
 
@@ -38,11 +38,11 @@ c) Ressourcen zum weiterlernen, vernetzen und inspirieren lassen
 
 Der Lernpfad soll für alle “Level” funktionieren, egal ob du seit 5 Minuten oder 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 3 dabei helfen den Einstieg zu schaffen.  
 
-# **4 Sketchnote-Grundlagen**
+# **Sketchnote-Grundlagen**
 
 ...
 
-## **4.1 Was sind Sketchnotes ?**
+## **Was sind Sketchnotes ?**
 
 *"Sketchnotes sind visuelle Notizen, die aus einer Mischung aus Handschrift, Zeichnungen, handgezeichneter Typografie, Formen und grafischen Elementen wie Pfeilen, Kästen & Linien bestehen."*, *- Mike Rohde, Autor des* [*Sketchnote Handbuchs*](http://rohdesign.com/) *und "Erfinder" des Begriffs Sketchnote*
 
@@ -62,7 +62,7 @@ Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im 
 
 **Sketchnote science by @Bartschat, CC BY 4.0**
 
-## **4.2 Was kann ich denn Sketchnoten?**
+## **Was kann ich denn Sketchnoten?**
 
 Du kannst fast alles Sketchnoten:
 
@@ -89,7 +89,7 @@ Du kannst mit Sketchnotes also:
 - Besser zusammenarbeiten
 - Dein Wissen teilen!
 
-## **4.3 Was brauche ich zum Sketchnoting?**
+## **Was brauche ich zum Sketchnoting?**
 
 Das klingt ja alles ganz nett, aber was brauche ich denn um mit dem Sketchnoten anfangen zu können? Ist das nicht alles total kompliziert und komplex? Zum Glück nicht! Das einzige was Du tatsächlich brauchst, sind ein Stift und eine Unterlage auf der du Sketchnoten kannst, das kann ein Block, ein Notizbuch oder auch eine Serviette sein. Natürlich kannst du heute auch digital auf deinem Tablet Sketchnoten.
 
@@ -141,7 +141,7 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 - Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an.
 - Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest
 
-## **4.4 Sketchnote Elemente**
+## **Sketchnote Elemente**
 
 Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleichen Elemente. Wenn du diese grundlegend trainieren willst, oder mal wieder etwas Inspiration und Abwechslung brauchst, empfehlen wir dir “Sketch it - Das Kartenspiel” von Wibke Tiedmann und Stefanie Maurer, dass du [hier herunterladen kannst](https://sketchnotegame.wordpress.com/download-kartenspiel/) und unter CC BY SA 4.0 verwenden darfst.  Alle folgenden Beispiele zu den Sketchnote Elementen stammen aus diesem Spiel.
 
@@ -211,7 +211,7 @@ Welcher Workflow der richtige ist? Das hängt von vielen Dingen ab:
 
 Hier gibt es kein Richtig oder Falsch, Sketchnote wie du es brauchst!
 
-# **5 Der Sketchnote Lernpfad**
+# **Der Sketchnote Lernpfad**
 
 Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger als auch für Fortgeschrittene geeignet sind. Nehmt euch vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen.
 
@@ -233,7 +233,7 @@ CC BY: Karl Damke
 
 ++++sketchnote Kata Overview ganzseitig ++++
 
-Hier wird es eine a4 Sketchnote als Poster mit allen Katas als Übersicht geben - die wir aber erst am Ende einfügen :)
+Hier wird es eine a4 Sketchnote als Poster mit allen Katas als Übersicht geben - die wir aber erst am Ende einfügen :-)
 
 ## **Circle Organisatoren Checkliste**
 
@@ -619,8 +619,6 @@ Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dic
 
 Um einen optimalen Lernerfolg zu bekommen ist es dennoch sehr  wichtig, dir selbst Ziele zu setzen, die dich motivieren und mit denen du deine Fortschritte greifbar und sichtbar machen kannst. Überlege ob du vielleicht auf ein konkretes Produkt hinarbeiten möchtest. Das könnte zum Beispiel ein Sketchnote Workshop für deine Kolleg*innen sein, oder dein erstes Graphic Recording, oder, oder, oder...
 
- 
-
 Überlegt euch, wie ihr euren Fortschritt in euren OKRs teilen wollt. Allein im Check-In ist ein bisschen wenig. Gibt es in eurem Dokumentations-Tool eine Möglichkeit dafür, euren Fortschritt zu protokollieren?
 
 **Weitere Informationen:**
@@ -640,15 +638,15 @@ Nimmst Du Dir ausreichend Zeit für Deine persönliche Entwicklung und für die 
 
 Überprüfe Deinen Kalender und suche nach möglichen Terminen mit Dir selbst. Eine Stunde oder sogar 30 Minuten pro Woche ist ein guter Ausgangspunkt. Trage Dir einen Termin mit Dir selbst in den Kalender ein. Mache ihn nach Möglichkeit zu einem wiederkehrenden Termin, damit diese Zeit für Dich zur Gewohnheit wird. Finde mindestens fünf Termine:
 
-\1.          …
+1. …
 
-\2.          …
+2. …
 
-\3.          …
+3. …
 
-\4.          …
+4. …
 
-\5.          …
+5. …
 
 Besprecht Eure Ansätze im Circle.
 
@@ -846,7 +844,7 @@ von Susanne Speer
 
 Vorlage im Anhang: Spinnennetz und OKR Tracking Grafik
 
-# **7 Warm-Ups**
+# **Warm-Ups**
 
 ### **Kringel-Vögel (Woche 0)**
 
@@ -909,17 +907,15 @@ Added from: Mike Meister @mm_mikemeister
 
 #### **Warm Up (Woche 10)**
 
-fällt dir was ein? :)
+fällt dir was ein? :-)
 
 #### **Warm Up (Woche 11)**
 
 #### **Warm Up (Woche 12)**
 
-# 
+# **Ressourcen**
 
-# **8 Ressourcen**
-
-## 8.1 Videos
+## Videos
 
 Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en) -
 Studies show that sketching and doodling improve our comprehension -- and our creative thinking. So why do we still feel embarrassed when we're caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She makes the case for unlocking your brain via pad and pen.
@@ -959,7 +955,7 @@ Scriberia - [What is visual thinking?
 Brandy Agerbeck - [what is visual thinking?
 ](https://www.youtube.com/watch?v=Yr6DN20NHvs)What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
 
-## 8.2 Bücher 
+## Bücher 
 
 Mike Rohde - The sketchnote handbook - The classic!
 
@@ -995,13 +991,13 @@ Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und
 
 Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization) A visual Journal - discover the patterns in your everyday life
 
-## 8.3 Communities of practice, user groups
+## Communities of practice, user groups
 
 Sketchnote Army Slack channel 
 
 Sketchnotes Germany auf XING und facebook
 
-## 8.4 Inspiring people / newsletters / social media accounts
+## Inspiring people / newsletters / social media accounts
 
 Malte von Tiesenhausen [Instagram](https://www.instagram.com/malte_von_tiesenhausen/)
 

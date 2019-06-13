@@ -12,11 +12,11 @@ Natalia Zlateva (Kata 7: Einkaufszettel) ….
 
 Mike Meister (Warm Up Kritzelvögel) … 
 
-Dein Name im Kommentar einfügen (Feedback) ....
+Feedback und Korrekturen: Anke Stettner, Katrin Mäntele, Katja Klaußner, Ralf Schramm, Susanne Kitlinski, Wibke Tiedmann
 
 # **Einleitung**
 
-Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. lernOS ist eine Toolbox für lebenslanges Lernen, die Elemente aus Systemen wie Working Out Loud, Getting Things Done und Objective Key Results miteinander kombiniert. Dazu das wichtigste in einer Sketchnote:
+Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. lernOS ist eine Toolbox für lebenslanges Lernen, die Elemente aus Methoden wie Working Out Loud, Getting Things Done und Objective Key Results miteinander kombiniert. Dazu das Wichtigste in einer Sketchnote:
 
 ![img](sketchnotes/lernos_in_a_nutshell.png)
 
@@ -28,19 +28,19 @@ Wenn du mehr wissen willst, kannst alles über lernOS [hier nachlesen,](https://
 
 Na klar, Übung macht den Meister und Sketchnotes sind für jeden etwas anderes.
 
-Was aber immer hilft beim besser werden, sind Motivation, konstruktives Feedback und Zugang zu guten Ressourcen zum Thema. Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält  
+Was aber immer hilft beim besser werden, sind Motivation, konstruktives Feedback und Zugang zu guten Ressourcen zum Thema. Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
 
 a) eine Einführung ins Sketchnoting & Wissen zu Material und Grundlagen (Kapitel 4) 
 
 b) 23 Katas (Übungen) zu den wichtigsten Bereichen des Sketchnotens (Kapitel 5)
 
-c) Ressourcen zum weiterlernen, vernetzen und inspirieren lassen
+c) Ressourcen zum Weiterlernen, Vernetzen und Inspirieren lassen
 
-Der Lernpfad soll für alle “Level” funktionieren, egal ob du seit 5 Minuten oder 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 3 dabei helfen den Einstieg zu schaffen.  
+Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 3 dabei helfen den Einstieg zu schaffen.
 
 # **Sketchnote-Grundlagen**
 
-...
+Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die Basics des Sketchnotens eingehen.
 
 ## **Was sind Sketchnotes ?**
 
@@ -54,7 +54,7 @@ Der Lernpfad soll für alle “Level” funktionieren, egal ob du seit 5 Minuten
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
-Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual Encoding Theorie](https://en.wikipedia.org/wiki/Dual-coding_theory)" gestützt. Diese beschreibt, dass Informationen die doppelt, also in unserem Fall als Text und Bild, kodiert und abgespeichert werden, stärker verankert werden. Sie lassen sich später schneller und genauer wieder erinnern, als "einfache" Textnotizen. Das Nutzen von Stift und Papier, oder auch digitalem Stylus und Tablet, hat also immense Vorteile gegenüber bspw. dem Mittippen am Laptop in einer Vorlesung oder einem Meeting. (s. Artikel von [Oppenheimer und Mueller](https://journals.sagepub.com/doi/10.1177/0956797614524581)) Das tiefe Verständnis von Konzepten und Ideen erschließt sich dem Sketchnoter also viel schneller und einfacher als dem "Mitschreiber", der Wort für Wort alles zu Papier bringt oder in sein Notebook hackt.
+Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual Encoding Theorie](https://en.wikipedia.org/wiki/Dual-coding_theory)" gestützt. Diese beschreibt, dass Informationen die doppelt, also in unserem Fall als Text und Bild, kodiert und abgespeichert werden, stärker verankert werden. Sie lassen sich später schneller und genauer wieder erinnern, als "einfache" Textnotizen. Das Nutzen von Stift und Papier, oder auch digitalem Stylus und Tablet, hat also immense Vorteile gegenüber z. B. dem Mittippen am Laptop in einer Vorlesung oder einem Meeting. (s. Artikel von [Oppenheimer und Mueller](https://journals.sagepub.com/doi/10.1177/0956797614524581)) Das tiefe Verständnis von Konzepten und Ideen erschließt sich dem Sketchnoter also viel schneller und einfacher als dem "Mitschreiber", der Wort für Wort alles zu Papier bringt oder in sein Notebook hackt.
 
 Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.
 
@@ -64,7 +64,7 @@ Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im 
 
 ## **Was kann ich denn Sketchnoten?**
 
-Du kannst fast alles Sketchnoten:
+Du kannst pratisch alles Sketchnoten. Hier nur ein paar Beispiele:
 
 - Rezepte
 - Prozesse
@@ -81,51 +81,49 @@ Du kannst fast alles Sketchnoten:
 
 Du kannst mit Sketchnotes also:
 
-- Probleme lösen
+- Problemlösungen skizzieren
 - Ideen finden
 - Geschichten erzählen
-- Reich werden (vielleicht...)
+- Reichtum anhäufen (vielleicht...)
 - Spaß haben
-- Besser zusammenarbeiten
-- Dein Wissen teilen!
+- Zusammenarbeit verbessern
+- Wissen mit anderen Menschen teilen!
+- Partizipation und Verständnis schaffen
+- Barrieren abbauen
 
 ## **Was brauche ich zum Sketchnoting?**
 
-Das klingt ja alles ganz nett, aber was brauche ich denn um mit dem Sketchnoten anfangen zu können? Ist das nicht alles total kompliziert und komplex? Zum Glück nicht! Das einzige was Du tatsächlich brauchst, sind ein Stift und eine Unterlage auf der du Sketchnoten kannst, das kann ein Block, ein Notizbuch oder auch eine Serviette sein. Natürlich kannst du heute auch digital auf deinem Tablet Sketchnoten.
+Das klingt ja alles ganz nett, aber was brauche ich denn um mit dem Sketchnoten anfangen zu können? Ist das nicht alles total kompliziert? Zum Glück nicht! Das einzige was du tatsächlich brauchst, sind ein Stift und eine Unterlage auf der du Sketchnoten kannst, das kann ein Block, ein Notizbuch oder auch eine Serviette sein. Natürlich kannst du heute auch digital auf deinem Tablet Sketchnoten.
 
 ### **Sketchnotes mit Stift und Papier**
 
-Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der Visuellen Notizen, du kannst sie jederzeit und überall anfertigen, solange du etwas Papier und einen Stift hast. Diese "analoge" Vorgehen hat viele Vorteile. Einige sind sehr subjektiv, am besten du bildest dir deine eigene Meinung:
+Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Notizen, du kannst sie jederzeit und überall anfertigen, solange du etwas Papier und einen Stift hast. Dieses "analoge" Vorgehen hat viele Vorteile. Einige sind sehr subjektiv, am besten du bildest dir deine eigene Meinung:
 
-- Dein Papier hat keinen Akku, der genau dann leer ist, wenn du grad Sketchnoten willst...
-- Stift und Papier schicken dir nicht ständig Notifications und lenken dich mit deinem Insta-Feed ab...
-- Wenn dein Notizbuch nass wirst, kannst du es trocknen und es wird danach vermutlich noch lesbar sein. Wirf mal dein Tablet in die Badewanne....
-- Auf Papier zu schreiben und zu zeichnen fühlt sich einfach "richtig" an...
+- Dein Papier hat keinen Akku, der genau dann leer ist, wenn du gerade Sketchnoten willst ...
+- Stift und Papier schicken dir nicht ständig Notifications und lenken dich mit deinem Insta-Feed ab ...
+- Wenn dein Notizbuch nass wirst, kannst du es trocknen und es wird danach vermutlich noch lesbar sein. Wirf mal dein Tablet in die Badewanne ...
+- Auf Papier zu schreiben und zu zeichnen fühlt sich einfach "richtig" an ...
 - Stift und Papier haben ein sehr intuitives Benutzer-Interface
-- In einem digitalen Zeitalter bist du mit Stift und Papier fast schon ein Rebell...
+- In einem digitalen Zeitalter bist du mit Stift und Papier fast schon ein Rebell ...
 - Eine Sketchnote auf Papier kannst du jemanden in die Hand geben, du kannst sie anfassen und haptisch erleben.
 - Stift und Papier sind die günstigste Art zu Sketchnoten!
 
 Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papier nicht so gut:
 
-- Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren.
+- Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigends die Apps CamScanner oder Office Lens).
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!
-- Elemente vergrößern und verkleinern ist auch nicht so wirklich drin...
-- ...
+- Korrekturen sind nicht so einfach bzw. “stören” das Gesamtbild
+- Elemente vergrößern und verkleinern ist auch nicht so wirklich drin ...
 
 Auch wenn dir viele Webseiten etwas anderes erzählen, du brauchst weder spezielles Papier oder besonders teure Notizbücher, noch sind teure Stifte notwendig. Für den Anfang nimmst du einfach ein Blatt Papier aus dem Drucker und den erstbesten Stift, der auf deinem Schreibtisch liegt.
 
-#### **Stift-Empfehlungen**
+#### **Papier- und Stift-Empfehlungen**
 
-Verweis auf <https://sketchnotehangout.com/resources/> ?
-
-#### **Papier-Empfehlungen (Notizbücher usw.)**
-
-Verweis auf <https://sketchnotehangout.com/resources/> ?
+Eine umfangreiche Liste findest du auf der Website von [Sketchnote Hangouts](https://sketchnotehangout.com/resources/).
 
 ### **Sketchnotes Digital**
 
-Mittlerweile kannst du auch super digital sketchnoten. Dafür empfiehlt sich in der Regel ein Tablet Computer, die meisten Smartphones sind noch zu klein. (Ein Samsung Galaxy Note könnte aber schon reichen, wie es Opels Art[ hier](https://www.youtube.com/watch?v=Lai-GBlRq9Y) zeigt...) Etwas komfortabler sind die meisten Tablets, wie bspw. das Apple iPad (Pro), das Samsung Galaxy Tab oder die Microsoft Surface Reihe.
+Mittlerweile kannst du auch super digital sketchnoten. Dafür empfiehlt sich in der Regel ein Tabletcomputer, die meisten Smartphones sind noch zu klein. (Ein Samsung Galaxy Note könnte aber schon reichen, wie es Opels Art[ hier](https://www.youtube.com/watch?v=Lai-GBlRq9Y) zeigt...) Etwas komfortabler sind die meisten Tablets, wie z. B. das Apple iPad (Pro), das Samsung Galaxy Tab oder die Microsoft Surface Reihe.
 
 Das digitale Sketchnoten bringt einige immense Vorteile mit sich:
 
@@ -135,7 +133,7 @@ Das digitale Sketchnoten bringt einige immense Vorteile mit sich:
 
 Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nachteile:
 
-- Mit einem leeren Akku guckst du echt in die Tonne...
+- Mit einem leeren Akku guckst du echt in die Röhre.
 - Lass das Tablet lieber nicht fallen, weder in die Badewanne noch auf den Fußboden!
 - So ein Tablet mit einem Stylus (Stift) ist nicht wirklich günstig...
 - Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an.
@@ -169,13 +167,13 @@ Deine Sketchnote besteht aus Text und grafischen Elementen, wobei auch die Texte
 
 ### **Symbole und Icons**
 
-Symbole und Icons kannst du auf unterschiedliche Arten und Weisen beim Sketchnoten einsetzen. Du kannst dir bspw. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.
+Symbole und Icons kannst du auf unterschiedliche Art und Weise beim Sketchnoten einsetzen. Du kannst dir z. B. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.
 
 ![img](sketchnotes/connectors.png)
 
 ### **Verbinder und Pfeile**
 
-Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, bspw. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen.
+Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, z. B. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen.
 
 ### **Diagramme**
 
@@ -187,13 +185,13 @@ Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sin
 
 **Sketchnote Workflows**
 
-### **"One and Done" und Iteratives Sketchnoten**
+### **"One and Done" und iteratives Sketchnoten**
 
 Ein "One and Done"-Sketchnoter erstellt seine Sketchnote zum Beispiel bei einem Talk auf einer Konferenz oder während eines Meetings. "One and Done" bedeutet, dass er mit der Sketchnote fertig ist, sobald das Ereignis beendet ist. Vielleicht wird am Schluss nochmal das ein oder andere kleine Detail korrigiert oder ergänzt, aber "One and Done" ist quasi "Live".
 
-Beim Iterativen Sketchnoten arbeitest du in mehreren, meist zwei, Stufen. Während des Events erstellst du eine grobe Entwurfsversion deiner Sketchnote, die anschließend nach dem Event überarbeitet und finalisiert wird. So kannst du detaillierter und genauer arbeiten als beim "One and Done" Ansatz, brauchst allerdings auch deutlich mehr Zeit bis das endgültige Produkt fertig ist.
+Beim Iterativen Sketchnoten arbeitest du in mehreren, meist zwei, Stufen. Während des Events erstellst du eine grobe Entwurfsversion deiner Sketchnote, die anschließend nach dem Event überarbeitet und finalisiert wird. So kannst du detaillierter und genauer arbeiten als beim "One and Done" Ansatz, brauchst allerdings auch deutlich mehr Zeit, bis das endgültige Produkt fertig ist.
 
-Einen noch tiefergehenden Prozess beschreibt Mauro Toselli, bekannt als[ @xLontrax](https://twitter.com/xlontrax), in seinem Buch "[The xLontrax Theory of the Sketchnote](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html)":
+Einen noch tiefergehenden Prozess beschreibt Mauro Toselli, bekannt als [@xLontrax](https://twitter.com/xlontrax), in seinem Buch "[The xLontrax Theory of the Sketchnote](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html)":
 
 - Mauro sammelt das Material und erstellt die erste Sketchnote
 - Anschließend lässt sie bis zur nächsten Session liegen und "reifen"
@@ -223,21 +221,15 @@ Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine in
 
 CC BY: Karl Damke
 
-Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z.B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt u
-
-nd dazu ein großartiges [Buch geschrieben](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html). Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. Im Anhang findest du dazu vier Seiten aus Mauros Buch dazu, die unter CC BY ND SA genutzt werden können.
+Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt und dazu ein großartiges [Buch geschrieben](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html). Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. Im Anhang findest du dazu vier Seiten aus Mauros Buch dazu, die unter CC BY ND SA genutzt werden können.
 
 ![img](sketchnotes/sketchnote_learning_path_02.png)
 
 CC BY: Karl Damke
 
-++++sketchnote Kata Overview ganzseitig ++++
-
-Hier wird es eine a4 Sketchnote als Poster mit allen Katas als Übersicht geben - die wir aber erst am Ende einfügen :-)
-
 ## **Circle Organisatoren Checkliste**
 
-**#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen[ daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jeden Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass Ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
+**#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
 Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.
 
@@ -255,7 +247,7 @@ Check in (2 Minuten pro Member)
 
 Warm Up: Kringel-Vögel (5 Minuten)
 
-Vorstellung (5 Minuten pro Member)
+Vorstellung: Wer bist du? Stell Dich vor. Hier solltest du natürlich anhand deines Sketchnote-Selfie vorgehen.  (5 Minuten pro Member)
 
 **Leitfragen**:
 
@@ -276,7 +268,7 @@ Check Out (1 Minute pro Member)
 
 ### Woche 1: Ziele festlegen
 
-In dieser Woche wählst Du Dein Ziel für den Sprint. 
+In dieser Woche wählst du Dein Ziel für den Sprint. 
 
 **Als Vorbereitung**
 
@@ -368,7 +360,7 @@ Austausch über die Kata(s) (40 Minuten)
 
 **Leitfragen**: 
 
-- Wie gut ist euer Visuelles Vokabular? 
+- Wie gut ist euer visuelles Vokabular? 
 
 - Wie sammelt/dokumentiert ihr eure Icons?
 
@@ -376,7 +368,7 @@ Austausch über die Kata(s) (40 Minuten)
 
 - Wollt ihr weiter Icons sammeln und wie wollt ihr sie teilen? 
 
-- Welche Icons sind eure Top 5 - Icons , die ihr immer wieder in Sketchnotes verwendet?
+- Welche Icons sind eure Top-5-Icons , die ihr immer wieder in Sketchnotes verwendet?
 
 - Wie zufrieden seid ihr mit Ihnen? 
 
@@ -468,11 +460,7 @@ Austausch über die Kata
 **Leitfragen**:
 
 - Was hat besonders gut funktioniert?
-
-
-…
-
-…
+- Wo gab es Schwierigkeiten?
 
 Check out (1 Minute pro Member)
 
@@ -549,7 +537,7 @@ Check out (1 Minute pro Member)
 
 **Als Vorbereitung**
 
-Kata 23: Miß & zeig deinen Erfolg 
+Kata 23: Miss & zeig deinen Erfolg 
 
 **Im Weekly**
 
@@ -581,16 +569,11 @@ Check out (1 Minute pro Member)
 
 ### Kata1: Sketchnote-Selfie
 
-Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über dich. Bau die wichtigsten Fakten über dich ein, erwähne Dinge die du (nicht) magst, zwei Fakten über dich, der nicht offensichtlich sind und einen praktischen Sketchnote-Tipp. Versuch auch die Frage zu beantworten, warum du visualisierst. Wenn du fertig bist, teile deinen Sketchnote-Selfie mit den anderen.
+Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über dich. Bau die wichtigsten Fakten über dich ein, erwähne Dinge, die du (nicht) magst, zwei Fakten über dich, die nicht offensichtlich sind und einen praktischen Sketchnote-Tipp. Versuch auch die Frage zu beantworten, warum du visualisierst. Wenn du fertig bist, teile deinen Sketchnote-Selfie mit den anderen.
 
 ### Kata 2: Circle Setup 
 
 Wenn Ihr Euch im Circle noch nicht kennt, lernt Euch in der Woche 0 kennen. Plant, wann Ihr Euch trefft, welche Tools Ihr nutzt und wer der Moderator ist.
-
-- **Check-in:** Herzlich willkommen! (5 Minuten)
-- **Get together**: Wer bist du? Stell Dich vor. Hier solltest Du natürlich anhand deines Sketnote-Selfie vorgehen. (Fünf-Minuten-Timebox pro Circle-Mitglied)
-- **Sprint Planung** siehe unten (25 Minuten)
-- **Check-out**: Das nächste Treffen bestätigen. (5 Minuten)
 
 Definiert einen Circle-Moderator, der sich um Event- und Zeitmanagement kümmert. Eines der größten Hindernisse für erfolgreiche Circle ist Disziplin und Zeitmanagement. Der Moderator ist nicht der "Chef" des Circle, sondern ein normales Circle-Mitglied, das sich um einen reibungslosen Ablauf kümmert. Definiert Tag und Uhrzeit des wöchentlichen Treffens. Definiert, ob Ihr Euch persönlich oder virtuell trefft. Definiert die Tools, die Ihr für Kommunikation und Dokumentation im Circle verwendet. Entscheidet, welche der vorgeschlagenen Übungen Ihr im Kreis machen wollt. 
 
@@ -615,11 +598,11 @@ Video: Doug Neill: [How to critique your sketchnote](https://www.youtube.com/wat
 
 ### Kata 4: Meine Ziele für die nächsten 4 Wochen
 
-Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem Du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Besonders für Sketchnote-Einsteiger ist es nicht oberste Priorität, das Ziel zu erreichen.  Im Fokus steht neben dem Erlernen des Basiswissen wie zum Beispiel das Aneignen eines eigenen visuellen ABCs natürlich ganz besonders das regelmäßige Üben der neu gewonnenen Fähigkeiten und zu guter Letzt die Hauptsache:  ganz viel Spaß :-)
+Was willst du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das dir wirklich, wirklich wichtig ist und bei dem du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Besonders für Sketchnote-Einsteiger ist es nicht oberste Priorität, das Ziel zu erreichen.  Im Fokus steht neben dem Erlernen des Basiswissen, wie zum Beispiel das Aneignen eines eigenen visuellen ABCs, natürlich ganz besonders das regelmäßige Üben der neu gewonnenen Fähigkeiten und zu guter Letzt die Hauptsache:  ganz viel Spaß :-)
 
-Um einen optimalen Lernerfolg zu bekommen ist es dennoch sehr  wichtig, dir selbst Ziele zu setzen, die dich motivieren und mit denen du deine Fortschritte greifbar und sichtbar machen kannst. Überlege ob du vielleicht auf ein konkretes Produkt hinarbeiten möchtest. Das könnte zum Beispiel ein Sketchnote Workshop für deine Kolleg*innen sein, oder dein erstes Graphic Recording, oder, oder, oder...
+Um einen optimalen Lernerfolg zu bekommen, ist es dennoch sehr  wichtig, dir selbst Ziele zu setzen, die dich motivieren und mit denen du deine Fortschritte greifbar und sichtbar machen kannst. Überlege ob du vielleicht auf ein konkretes Produkt hinarbeiten möchtest. Das könnte zum Beispiel ein Sketchnote Workshop für deine Kolleg*innen sein, oder dein erstes Graphic Recording, oder, oder, oder...
 
-Überlegt euch, wie ihr euren Fortschritt in euren OKRs teilen wollt. Allein im Check-In ist ein bisschen wenig. Gibt es in eurem Dokumentations-Tool eine Möglichkeit dafür, euren Fortschritt zu protokollieren?
+Überlegt euch, wie ihr euren Fortschritt in euren OKRs im Circle teilen wollt. Allein im Check-In ist ein bisschen wenig. Gibt es in eurem Dokumentations-Tool eine Möglichkeit dafür, euren Fortschritt zu protokollieren?
 
 **Weitere Informationen:**
 
@@ -632,7 +615,7 @@ Um einen optimalen Lernerfolg zu bekommen ist es dennoch sehr  wichtig, dir selb
 
 ### Kata 5: Ein Termin mit Dir selbst
 
-Nimmst Du Dir ausreichend Zeit für Deine persönliche Entwicklung und für die Arbeit an Deinen Zielen? Viele Menschen sind mit ihren täglichen Aufgaben beschäftigt und kümmern sich nicht genug um Ihre Entwicklung und Ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin mit sich selbst zu vereinbaren und sich diese Zeit im Kalender zu reservieren.
+Nimmst du Dir ausreichend Zeit für Deine persönliche Entwicklung und für die Arbeit an Deinen Zielen? Viele Menschen sind mit ihren täglichen Aufgaben beschäftigt und kümmern sich nicht genug um ihre Entwicklung und ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin mit sich selbst zu vereinbaren und sich diese Zeit im Kalender zu reservieren.
 
 **Übung (15 Minuten):**
 
@@ -652,9 +635,9 @@ Besprecht Eure Ansätze im Circle.
 
 ### Kata 6: Letter deinen Lieblingsspruch 
 
-Eine Sketchnote lässt sich sehr gut mit verschiedenen Schriftarten und -größen gestalten und gliedern. Doch oft fallen wir beim Sketchnoten wieder zurück in unseren Gewohnheiten und nutzen immer nur die selben, alten Lettern.
+Eine Sketchnote lässt sich sehr gut mit verschiedenen Schriftarten und -größen gestalten und gliedern. Doch oft fallen wir beim Sketchnoten wieder zurück in unseren Gewohnheiten und nutzen immer nur dieselben, alten Lettern.
 
-Nimm dir für diese Kata ein Din A 5 Blatt und einen nicht zu langen Spruch deiner Wahl. Überlege dir, welche Wörter du in welcher Schrift und in welcher Größe schreiben möchtest. Was ist besonders wichtig, wo schwingt welche Emotion mit? Vielleicht machst du auch erst einmal eine kleine Bleistiftskizze für die Größenverhältnisse und zeichnest dann in sauber nach. Wenn du Inspiration für Schriften brauchst, schau dir doch die entsprechenden Karten im Sketchnote Game an. 
+Nimm dir für diese Kata ein DIN-A5-Blatt und einen nicht zu langen Spruch deiner Wahl. Überlege dir, welche Wörter du in welcher Schrift und in welcher Größe schreiben möchtest. Was ist besonders wichtig, wo schwingt welche Emotion mit? Vielleicht machst du auch erst einmal eine kleine Bleistiftskizze für die Größenverhältnisse und zeichnest dann in sauber nach. Wenn du Inspiration für Schriften brauchst, schau dir doch die entsprechenden Karten im Sketchnote Game an. 
 
 **Weitere Informationen:**
 
@@ -664,7 +647,7 @@ Videos: [How to Write Neatly + Improve Your Handwriting
 
 ### Kata 7: Nimm Dir Zeit beim Schreiben 
 
-Ein Killer-Kriterium für eine gute Sketchnote ist ihre Lesbarkeit. Vor allem wenn wir oft viel zu viel auf Tastaturen herumtippen und im Alltag nicht viel mit der Hand schreiben, ist die antrainierte  Schönschrift aus der Grundschule oft nur noch eine blasse Erinnerung.
+Ein Killer-Kriterium für eine gute Sketchnote ist ihre Lesbarkeit. Vor allem, wenn wir oft viel zu viel auf Tastaturen herumtippen und im Alltag nicht viel mit der Hand schreiben, ist die antrainierte  Schönschrift aus der Grundschule oft nur noch eine blasse Erinnerung.
 
 Im Anhang findest du ein Übungsblatt zur “Architects Handwriting”, die für ihre sehr gute Lesbarkeit bekannt  ist. Wenn du deine eigene Handschrift oft kaum lesen kannst, solltest du dir vielleicht regelmäßig etwas Zeit nehmen um diese Schrift zu trainieren.
 
@@ -672,13 +655,15 @@ Eine andere Herangehensweise ist es, dir einmal deutlich mehr Zeit fürs Schreib
 
 ### Kata 8: Einkaufszettel
 
-Erstelle dein Einkaufszettel statt mit Wörtern mit Sketchnotes. Übe auf dieser Weise unterschiedlichen Symbolen für Gemüse, Obst, Tiere, Getränke, Lebensmittel und Drogerieartikel. Nach einem Monat schaue dir dein Einkaufszettel an und erstelle für jede der 6 Kategorien eine eigene visuelle Bibliothek.
+Erstelle dein Einkaufszettel statt mit Wörtern mit Sketchnotes. Übe auf diese Weise unterschiedliche Symbolen für Gemüse, Obst, Tiere, Getränke, Lebensmittel und Drogerieartikel. Nach einem Monat schaue dir deinen Einkaufszettel an und erstelle für jede der 6 Kategorien eine eigene visuelle Bibliothek.
 
 1 Einkaufszettel - 10 Minuten
 
 Dauer der Kata - 1 Monat
 
-Ergebnis - 6 Kategorien für deine visuelle Bibliothek Submitted by Natalia Zlateva @nataliaoro on instagram
+Ergebnis - 6 Kategorien für deine visuelle Bibliothek 
+
+Submitted by Natalia Zlateva @nataliaoro on instagram
 
 ### Kata 9: Bildersammlung
 
@@ -749,11 +734,13 @@ Ressource: Cheat Sheet maccymax
 
 ### Kata 14: Videosketching
 
-Einigt euch auf ein Video, dass ihr gemeinsam live sketchnoten wollt. Wir empfehlen etwas unter 10 Minuten, vielleicht eine Sendung mit der Maus. Wenn ihr euch online trefft, schaut, ob ihr eure Kameras so aufstellen könnt, dass sie eure Sketchnote zeigt.
+Einigt euch auf ein Video, das ihr gemeinsam live sketchnoten wollt. Wir empfehlen etwas unter 10 Minuten, vielleicht eine Sendung mit der Maus. Wenn ihr euch online trefft, schaut, ob ihr eure Kameras so aufstellen könnt, dass sie eure Sketchnote zeigt.
 
 **Im Weekly:**
 
-Schaut gemeinsam das Video und sketcht den Inhalt. Vergleicht danach die Sketchnotes miteinander.  -  welches Layout habt ihr warum gewählt?
+Schaut gemeinsam das Video und sketcht den Inhalt. Vergleicht danach die Sketchnotes miteinander. 
+
+-  Welches Layout habt ihr warum gewählt?
 
 - Konntet ihr das Layout wie geplant umsetzen?
 - Entspricht das Ergebnis eurem Plan?
@@ -768,7 +755,7 @@ Vorschlag Video zum live sketchen: [Julian Treasure - How to speak so others wan
 
 ### Kata 15: Zwischenstand präsentieren
 
-Bring deine OKR – Metriken mit – wenn du willst ;)
+Bring deine OKR–Metriken mit – wenn du willst ;)
 
 Machst du Fortschritte in deinen Key Results – wie schätzen das die anderen ein?
 
@@ -840,7 +827,7 @@ Text für Montagsmaler
 
 von Susanne Speer
 
-### Kata 23: Miß & zeig deinen Erfolg 
+### Kata 23: Miss & zeig deinen Erfolg 
 
 Vorlage im Anhang: Spinnennetz und OKR Tracking Grafik
 
@@ -1012,4 +999,4 @@ Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live T
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
-| 0.1 | Benjamin Krüger | Initial Commit. Texte und Bilder sind eingefügt, Verlinkungen gerade gezogen. | 2019-06-10 |
+| 0.1 | Benjamin Krüger | Initial Commit. Texte und Bilder sind eingefügt, Verlinkungen gerade gezogen. | 2019-06-10j |

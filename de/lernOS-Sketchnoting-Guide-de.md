@@ -937,7 +937,8 @@ fällt dir was ein? :-)
 
 ## Videos
 
-Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en) -
+Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en)
+
 Studies show that sketching and doodling improve our comprehension -- and our creative thinking. So why do we still feel embarrassed when we're caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She makes the case for unlocking your brain via pad and pen.
 
 Karen Bosch - [Sketchnote elements](https://www.youtube.com/watch?v=sH-sJXMQjro&feature=share)
@@ -948,20 +949,23 @@ Kate Hayward - [Draw like a child, see like a master](https://www.youtube.com/wa
 
 Instructional designer Hayward explains ways in which seemingly simple drawing techniques can allow us to communicate more clearly by building a richer visual vocabulary of child-like images.
 
-Brandy Agerbeck - [The essential 8
-](https://www.youtube.com/watch?v=3sXsXveYQtc)The thought of drawing in front of people can be intimidating. Brandy Agerbeck breaks down drawing in the context of graphic facilitation into 8 essential components. Graphic recorders, facilitators, trainers, teachers, student, managers, visual thinkers of all stripes can use this video. It will help you focus on what's most important while helping people get their ideas out of their heads on onto paper. 
+Brandy Agerbeck - [The essential 8](https://www.youtube.com/watch?v=3sXsXveYQtc)
+
+The thought of drawing in front of people can be intimidating. Brandy Agerbeck breaks down drawing in the context of graphic facilitation into 8 essential components. Graphic recorders, facilitators, trainers, teachers, student, managers, visual thinkers of all stripes can use this video. It will help you focus on what's most important while helping people get their ideas out of their heads on onto paper. 
 
 Mike Rohde - [Sketchnote mini workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&feature=share)
 
-Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays
-](https://www.youtube.com/watch?v=0O8PoYsxaT4)Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
+Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays](https://www.youtube.com/watch?v=0O8PoYsxaT4
+
+)Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
 
 Doug Neill - [Verbal to Visual youtube channel](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)
 
 Pavo und Rob - [Coffee talk rund um Sketchnotes, Lettering… youtube-Kanal](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)
 
-Willemien Brand - [VISUAL THINKING
-](https://www.youtube.com/watch?v=pUelkBYu9jU)Incorporating drawings in business communications
+Willemien Brand - [VISUAL THINKING](https://www.youtube.com/watch?v=pUelkBYu9jU)
+
+Incorporating drawings in business communications
 
 Willemien presents a webinar where she explains the purpose of Visual Thinking in business settings. With a short (life drawing) business drawing workshop included.
 
@@ -969,13 +973,17 @@ Onda - [Visual Thinking Crash Course!](https://www.youtube.com/watch?v=IdVBjZbqO
 
 This event is part of a series of workshops carried out by Onda Politica in Europa and Latin America aiming to develop capacibilities in researchers that allow them to communicate their projects to a broader audience. 
 
-Scriberia - [What is visual thinking?
-](https://www.youtube.com/watch?v=rZikhQ5w5Ck)Everything we do at Scriberia is underpinned by the fundamental belief that pictures make thinking, working and communicating easier for everyone. We're visual thinkers, and we like to help other people discover the power of visual thinking too. Why? Well, we made this little animation to explain…
+Scriberia - [What is visual thinking?](https://www.youtube.com/watch?v=rZikhQ5w5Ck)
 
-Brandy Agerbeck - [what is visual thinking?
-](https://www.youtube.com/watch?v=Yr6DN20NHvs)What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
+Everything we do at Scriberia is underpinned by the fundamental belief that pictures make thinking, working and communicating easier for everyone. We're visual thinkers, and we like to help other people discover the power of visual thinking too. Why? Well, we made this little animation to explain…
 
-Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c) Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
+Brandy Agerbeck - [what is visual thinking?](https://www.youtube.com/watch?v=Yr6DN20NHvs)
+
+What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
+
+Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c) 
+
+Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
 
 
 ## Bücher 

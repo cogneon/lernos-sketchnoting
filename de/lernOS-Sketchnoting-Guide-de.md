@@ -975,6 +975,9 @@ Scriberia - [What is visual thinking?
 Brandy Agerbeck - [what is visual thinking?
 ](https://www.youtube.com/watch?v=Yr6DN20NHvs)What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
 
+Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c) Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
+
+
 ## Bücher 
 
 Mike Rohde - The sketchnote handbook - The classic!
@@ -1022,10 +1025,63 @@ Sketchnotes Germany auf XING und facebook
 Malte von Tiesenhausen [Instagram](https://www.instagram.com/malte_von_tiesenhausen/)
 
 Eva-Lotta Lamm ([Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3)) [Instagram
-](https://www.instagram.com/evalottchen/)Tanja Wehr - sketchnotelovers [Instagram](https://www.instagram.com/sketchnotelovers/)
+](https://www.instagram.com/evalottchen/)
+
+Tanja Wehr - sketchnotelovers [Instagram](https://www.instagram.com/sketchnotelovers/)
 
 Austin Kleon ([Newsletter](https://austinkleon.com/newsletter/))
 Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Mo - Fr um 9:30 Uhr (coffee talk mit Pavo und Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
+
+Nick Sousanis [Twitter](https://twitter.com/Nsousanis)
+
+Marcel van Hove [Twitter](https://twitter.com/marcelvanhove)
+
+Linda Saukka-Rauta [Twitter](https://twitter.com/saurau))
+
+Sunni Brown [Twitter](https://twitter.com/SunniBrown)
+
+Sandra Martin [Twitter](https://twitter.com/sam_HH)
+
+Ania Staskiewicz [Twitter](https://twitter.com/AniaStaskiewicz)
+
+Der kleine Wahnsinn [Twitter](https://twitter.com/kleinerW4hnsinn)
+
+Karen Forkish [Twitter](https://twitter.com/kforkish)
+
+Ben Crothers [Twitter](https://twitter.com/bencrothers)
+
+Holger Nils Pohl [Twitter](https://twitter.com/HolgerNilsPohl)
+
+Marianne Rady [Twitter](https://twitter.com/MarianneRady)
+
+Brandy Agerbeck [Twitter](https://twitter.com/loosetooth)
+
+Gary Lau [Twitter](https://twitter.com/PastorGaryLau)
+
+Dr. Makayla Miranda Lewis [Twitter](https://twitter.com/maccymacx)
+
+Prof. Clayton [Twitter](https://twitter.com/ProfClayton)
+
+Diana Soriat [Twitter](https://twitter.com/DianaSoriat)
+
+Marc Bourguignon [Twitter](https://twitter.com/100978Marc)
+
+Doug Neill [Twitter](https://twitter.com/douglaspneill)
+
+Magalie Le Gall [Twitter](https://twitter.com/magalielegall)
+
+Nadine Roßa [Twitter](https://twitter.com/nadrosia)
+
+Katharina Theis Bröhl [Twitter](https://twitter.com/theiskbt)
+
+Rob Dimeo [Twitter](https://twitter.com/Rob_Dimeo)
+
+Mauro Tosselli [Twitter](https://twitter.com/xLontrax)
+
+Sketchnote Army [Twitter](https://twitter.com/SketchnoteArmy)
+
+Katharina Blum [Twitter](https://twitter.com/kuestenkonfetti)
+
 
 ## Keep Calm & Learn On! :-)
 

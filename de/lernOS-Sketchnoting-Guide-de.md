@@ -4,15 +4,25 @@ Wird als letztes geschrieben :-)
 
 # **Danksagung**
 
-Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: Marjukka Zsagar-Renneberg, Raffaelina Rossetti, Benjamin Krüger, Lars Bartschat und Karl Damke
+Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke)
 
-Geholfen haben dabei: (Hier werden **alle** Beteiligten wie folgt genannt :-)
+Geholfen haben dabei: 
 
-Natalia Zlateva (Kata 7: Einkaufszettel) …. 
+- Natalia Zlateva (Kata Einkaufszettel)
+- Mike Meister (Warm Up Kritzelvögel)
+- Sabine Erkens (Kata Bildersammlung, Kata Nie genug Stifte)
+- Katrin Mäntele (Kata Feedback zum Inhalt)
+- Britta Ullrich (Kata Soulshine Selfie)
+- Conni Eybisch-Klimpel (Kata Reflexionen)
+- Susanne Speer (Kata Montagsmaler)
 
-Mike Meister (Warm Up Kritzelvögel) … 
-
-Feedback und Korrekturen: Anke Stettner, Katrin Mäntele, Katja Klaußner, Ralf Schramm, Susanne Kitlinski, Wibke Tiedmann
+Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
+- Anke Stettner
+- Katrin Mäntele
+- Katja Klaußner
+- Ralf Schramm
+- Susanne Kitlinski
+- Wibke Tiedmann
 
 # **Einleitung**
 

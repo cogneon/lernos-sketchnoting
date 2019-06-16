@@ -48,9 +48,9 @@ Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die B
 
 *"Sketchnotes ist Rumkritzeln während du dir Notizen machst"* *- Kevin Thorn,* [*Nuggethead*](http://nuggethead.net/2013/01/what-are-sketch-notes/)
 
-![Sketchnote what by @Bartschat, CC BY 4.0](sketchnotes/lernos_why.png)
+![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png)
 
-**Sketchnote what by @Bartschat, CC BY 4.0**
+**What are Sketchnotes by @BartschatLars, CC BY 4.0**
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
@@ -58,9 +58,9 @@ Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual 
 
 Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.
 
-![img](sketchnotes/sketchnotes_science.png)
+![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png)
 
-**Sketchnote science by @Bartschat, CC BY 4.0**
+**Scientific Sketchnotes by @BartschatLars, CC BY 4.0**
 
 ## **Was kann ich denn Sketchnoten?**
 
@@ -105,7 +105,8 @@ Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Not
 - Auf Papier zu schreiben und zu zeichnen fühlt sich einfach "richtig" an ...
 - Stift und Papier haben ein sehr intuitives Benutzer-Interface
 - In einem digitalen Zeitalter bist du mit Stift und Papier fast schon ein Rebell ...
-- Eine Sketchnote auf Papier kannst du jemanden in die Hand geben, du kannst sie anfassen und haptisch erleben.
+- Eine Sketchnote auf Papier kannst du jemanden in die Hand geben, du kannst sie anfassen und haptisch erleben. 
+- Ein Blatt hat Grenzen - Mit der Zeit lernst du durch diese Begrenzung, dich auf das Wesentliche, die Kernaussagen, zu fokussieren!
 - Stift und Papier sind die günstigste Art zu Sketchnoten!
 
 Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papier nicht so gut:
@@ -114,6 +115,7 @@ Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papie
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!
 - Korrekturen sind nicht so einfach bzw. “stören” das Gesamtbild
 - Elemente vergrößern und verkleinern ist auch nicht so wirklich drin ...
+- Ein Blatt hat Grenzen - "Voll ist voll", beliebig erweitern kannst du analoge Sketchnotes nicht. 
 
 Auch wenn dir viele Webseiten etwas anderes erzählen, du brauchst weder spezielles Papier oder besonders teure Notizbücher, noch sind teure Stifte notwendig. Für den Anfang nimmst du einfach ein Blatt Papier aus dem Drucker und den erstbesten Stift, der auf deinem Schreibtisch liegt.
 
@@ -130,6 +132,7 @@ Das digitale Sketchnoten bringt einige immense Vorteile mit sich:
 - Du kannst (je nach App) super einfach Elemente verschieben, vergrößern und verkleinern, ausschneiden und kopieren.
 - Das online Teilen ist quasi eingebaut...
 - Deine Sketchnotes sind in einem Dateisystem abgelegt und vielleicht sogar durchsuchbar...
+- Einige Apps bieten dir unbegrenzten Platz zum Sketchnoten (z.B. der "unlimited canvas" in der Concepts App), wenn dir noch wichtige Punkte einfallen, kannst du sie jederzeit anfügen
 
 Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nachteile:
 
@@ -138,6 +141,7 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 - So ein Tablet mit einem Stylus (Stift) ist nicht wirklich günstig...
 - Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an.
 - Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest
+- Unbegrenzter Platz zum Zeichnen kann auch überfordern und du willst jeden noch so kleinen Punkt noch mit in deine Sketchnote einbauen. Manchmal ist weniger einfach mehr...
 
 ## **Sketchnote Elemente**
 
@@ -459,8 +463,9 @@ Austausch über die Kata
 
 **Leitfragen**:
 
-- Was hat besonders gut funktioniert?
-- Wo gab es Schwierigkeiten?
+- Was hat für mich besonders gut funktioniert?
+- Was war besonders herausfordernd für mich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, ...)
+- Was habe ich für meine nächsten Sketchnotes gelernt, was möchte ich beibehalten und was möchte ich anders machen?
 
 Check out (1 Minute pro Member)
 
@@ -777,7 +782,13 @@ Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interess
 
 Wie lesbar ist die Sketchnote?
 
-…..Mauros Kategorien auflisten
+Wie verständlich ist die Sketchnote?
+
+Wie fesselnd findest du die Sketchnote?
+
+Wie informativ ist die Sketchnote?
+
+Wie ist die Sketchnote strukturiert?
 
 ### Kata 17: Feedback on Content
 
@@ -797,13 +808,13 @@ Bücher / Gruppen / Videos/Youtube-Kanäle / inspirierende Vorbilder …
 
 ### Kata 19: SoulshineSelfie
 
-What are things, people & situations you are thankful for? Do you spend enough time to think about the sunny side of life? All of us have those times when we forget about those happy moments! 
+Für was bist du persönlich dankbar, dass sie in deinem Leben sind? Es können Dinge sein, Menschen, aber auch Situationen oder besondere Erinnerungen? Denkst du oft genug an die Sonnenseiten des Lebens und die schönen Dinge? Wir alle erleben es viel zu häufig, dass wir die glücklichen Momente viel zu schnell vergessen und uns nur auf unsere großen und kleinen Probleme konzentrieren?
 
 **Exercise (30 Minutes for a start ;)** 
 
-Do a sketchnote about the things you love, like & appreciate. Draw yourself in the center (e.g. of a sun) and display your „happy-drawings“ around it. Make sure to label your drawings to benefit from the dual coding theory! 
+Erstelle eine Sketchnote von all den Dingen, die du magst, liebst und von denen du einfach wertschätzt, dass sie Teil deines Lebens sind. Zeichne dich selbst in den Mittelpunkt, z.B. von einer "Sonne" und ordne deine "Glücklichmacher" darum herum an. Versieh jeden von ihnen mit einer Über-/Unterschrift oder einem kurzen Text. Damit profitierst von den "Dual-Encoding Theory" und verankerst sie tiefer in deinem Gedächtnis. 
 
-Check out the [#SoulshineSelfie examples](https://www.instagram.com/explore/tags/soulshinekalender/) on Instagram or the [story behind it](http://www.vizworks.de/soulshine-kalender/). 
+Schau dir zur Inspiration die [#SoulshineSelfie Posts](https://www.instagram.com/explore/tags/soulshinekalender/) auf Instagram oder die [Geschichte dazu](http://www.vizworks.de/soulshine-kalender/) an. 
 
 Submitted by Britta Ullrich / vizworks.de (Web & Instagram) 
 
@@ -820,6 +831,18 @@ inspired by Conni Eybisch-Klimpel @connieybisch (Instagram)
 ### Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
 
 Zeichne die in Kata 20 skizzierte Sketchnote fertig und teile sie mit den anderen.
+
+**Leitfragen für die Analyse und das Feedback:**
+
+Wiederholung: Warum hast du dich genau für diese Struktur entschieden? 
+
+Wie hast du versucht eine gut lesbare, informative und ansprechende Sketchnote zu erstellen? Hast du dich auf etwas besonders konzentriert?
+
+Was sind deine wertvollsten Lernergebnisse aus diesem Sprint?
+
+Wie möchtest du diese Ergebnisse weiter nutzen? 
+
+Gab es einen lernOS-AHA-Moment in diesem Sprint? Wenn ja, was war es und warum? 
 
 ### Kata 22: Montagsmaler
 

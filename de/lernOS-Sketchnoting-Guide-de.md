@@ -6,11 +6,14 @@ Wird als letztes geschrieben :-)
 
 Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: Marjukka Zsagar-Renneberg, Raffaelina Rossetti, Benjamin Krüger, Lars Bartschat und Karl Damke
 
-Geholfen haben dabei: (Hier werden **alle** Beteiligten wie folgt genannt :-)
+Natalia Zlateva (@nataliaoro auf instagram): Kata 8: Einkaufszettel
+Sabine Erkens (@Sabine_Erkens auf Twitter): Kata 9: Bildersammlung und Kata 11: #NieGenugStifte 
+Katrin Mäntele (@kleinerw4hnsinn auf Twitter & Instagram): Kata 17: Feedback zum Inhalt
+Britta Ullrich (vizworks.de im Web & auf Instagram): Kata 19: SoulshineSelfie
+Conni Eybisch-Klimpel (@connieybisch auf Instagram): Inspiration für Kata 20&21: Reflexions - Sketchnote 
 
-Natalia Zlateva (Kata 7: Einkaufszettel) …. 
-
-Mike Meister (Warm Up Kritzelvögel) … 
+Mike Meister (@mm_mikemeister auf Twitter) Warm Up Kritzelvögel & Warm Up Visuelle Kommunikation macht den Unterschied
+Katrin Mäntele (@kleinerw4hnsinn auf Twitter & Instagram): Warm Up Ablauf
 
 Feedback und Korrekturen: Anke Stettner, Katrin Mäntele, Katja Klaußner, Ralf Schramm, Susanne Kitlinski, Wibke Tiedmann
 
@@ -459,8 +462,12 @@ Austausch über die Kata
 
 **Leitfragen**:
 
-- Was hat besonders gut funktioniert?
-- Wo gab es Schwierigkeiten?
+- Welche Erwartungen hattest du an die Verständlichkeit deiner Sketchnote?
+- Wurden diese erfüllt?
+- Wie war das Feedback in Bezug auf Lesbarkeit, Layout, Wortwahl?
+- Was würdest du jetzt anders machen?
+
+
 
 Check out (1 Minute pro Member)
 
@@ -663,7 +670,6 @@ Dauer der Kata - 1 Monat
 
 Ergebnis - 6 Kategorien für deine visuelle Bibliothek 
 
-Submitted by Natalia Zlateva @nataliaoro on instagram
 
 ### Kata 9: Bildersammlung
 
@@ -671,7 +677,6 @@ Lege Dir für deine Themen eine Bildbibliothek an. Notiere dafür 10 Schlüsselb
 
 Stelle im Weekly deine Ideen vor und diskutiere in der Gruppe darüber. Diskutiert, wo ihr die besten Anregungen gefunden habt.
 
-Submitted by Sabine Erkens @Sabine_Erkens on Twitter 
 
 **Weitere Informationen:**
 
@@ -681,7 +686,8 @@ Video Doug Neill: [How to expand your visual language - Build up from basic icon
 
 ### Kata 10: Was bedeuten Farben für dich?
 
-Beantworte den Fragebogen (folgt) für dich
+Farben transportieren Emotionen direkter als jedes Layout. 
+Beantworte den Fragebogen (folgt) für dich.
 
 Tauscht euch über die Ergebnisse aus.
 
@@ -699,7 +705,6 @@ Ressource: Farbkreis
 
 Man kann nie genug Stifte haben ;-) Aber für den Beginn reicht ein schwarzer und ein grauer Stift und eine weitere Farbe. Schau Dir andere Sketchnotes an und plane für dich, welche Stifte du benötigst. Mit welcher Stiftstärke kannst du am besten zeichnen und schreiben? Welche Farben passen zu deinen Themen? Zeichne einzelne Motive mit unterschiedlichen Stiften und finde deinen eigenen Stil heraus. Tauscht euch mit einander aus: Wo und wie setzt ihr Schatten? Wie kann Farbe Bedeutung transportieren?
 
-Submitted by Sabine Erkens @Sabine_Erkens on Twitter 
 
 ### Kata 12: 1 Sketchnote 5 Farben
 
@@ -730,7 +735,6 @@ Trainier deine Container!
 
 ….
 
-Ressource: Cheat Sheet maccymax
 
 ### Kata 14: Videosketching
 
@@ -771,41 +775,38 @@ Sehen die anderen Circle-Member Unterschiede?
 
 ### Kata 16: Videosketching: Did you get it?
 
-Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet) . Teil dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.
+Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet) . Teilt dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.
 
 **Leitfragen für die Analyse und das Feedback:**
 
 Wie lesbar ist die Sketchnote?
 
-…..Mauros Kategorien auflisten
 
-### Kata 17: Feedback on Content
 
-While sketchnoting, active listening and capturing the most important information (core theses) e.g. of a talk is very important. 
+### Kata 17: Feedback zum Inhalt
 
-Why not reaching out to speakers or organizers to get feedback on the content of your sketchnote (is it complete? are the core theses captured?)?
+Für Sketchnotes ist aktives Zuhören und die wichtigsten Informationen (Kernthesen), beispielsweise eines Vortrags, zu erfassen, sehr wichtig. 
 
-In meetings it might be possible to ask the participants at the end of the event if one was able to capture the core theses in her or his sketchnote. If there are multiple sketchnotes of a talk the sketchnoter might compare and evaluate the captured information. 
+Warum dann nicht direkt auf die Vortragenden und Veranstaltungsorganisatoren zugehen und diese um Feedback zum Inhalt deiner Sketchnote bitten. Wurden die Informationen vollständig erfasst? Sind die Kernthesen enthalten?
+Zum Ende eines Meetings könntest du bei den Teilnehmenden Rückmeldungen zu deiner Sketchnote erfragen. Sind die Teilnehmer der Meinung, dass du die wichtigsten Punkte aus dem Meetings erfasst und entsprechend gewichtet hast?
+Wenn es von einem Vortrag mehrere Sketchnotes unterschiedlicher Sketchnoter gibt, könntest du den Informationsgehalt der Sketchnotes miteinander vergleichen und die jeweils erfassten Informationen bewerten.
+Teilt eure Erfahrungen über Möglichkeiten Feedback zum Inhalt eurer Sketchnotes zu erhalten in eurem Circle (20 Minuten). Sprecht über eure Erkenntnisse und reflektiert darüber, wie euch Feedback zum Inhalt dabei helfen kann eure Sketchnote-Fähigkeiten zu verbessern.
 
-Share your experiences on how to get feedback on the content of your sketchnote in your circle (20 minutes). Talk about learnings and reflect on how feedback on content helps you to improve your sketchnoting.
 
-Submitted by: Katrin Mäntele @kleinerw4hnsinn (Twitter & Instagram)
+### Kata 18: Top5 Ressourcen
 
-### Kata 18: Top5 Ressources
-
-Bücher / Gruppen / Videos/Youtube-Kanäle / inspirierende Vorbilder …
+Vielleicht hast du schon Zeit gehabt euch die Ressourcen-Liste am Ende des Leitfadens anzuschauen. Was hat dir besonders gefallen? Fehlt dir etwas, das dich inspiriert hat oder etwas das dich Sketchnoting aus einer ganz anderen Perspektive sehen lässt? Schreib eine Liste mit deinen Top5 auf und stellt euch eure Listen im Weekly vor. Findet eine Möglichkeit euch die Listen gegenseitig zur Verfügung zu stellen.
 
 ### Kata 19: SoulshineSelfie
 
-What are things, people & situations you are thankful for? Do you spend enough time to think about the sunny side of life? All of us have those times when we forget about those happy moments! 
+Für welche Dinge, Menschen und Situationen bist du dankbar? Verbringst du genug Zeit damit, über die schönen Dinge im Leben nachzudenken? Wir alle vergessen hin und wieder, positiv zu bleiben.
 
-**Exercise (30 Minutes for a start ;)** 
+**Übung (30 Minuten)**
 
-Do a sketchnote about the things you love, like & appreciate. Draw yourself in the center (e.g. of a sun) and display your „happy-drawings“ around it. Make sure to label your drawings to benefit from the dual coding theory! 
+Mach eine Sketchnote über die Dinge, die du liebst, magst und schätzt. Zeichne dich selbt in die Mitte (wie die Sonne) und deine schönen Momente darum herum. Vergiss nicht deine Zeichnungen zu beschriften und damit die dual coding theory zu nutzen, so dass du dich noch länger an die schönen Dinge in deinem Leben erinnerst! 
 
-Check out the [#SoulshineSelfie examples](https://www.instagram.com/explore/tags/soulshinekalender/) on Instagram or the [story behind it](http://www.vizworks.de/soulshine-kalender/). 
+Schau dir gerne [#SoulshineSelfie Beispiele](https://www.instagram.com/explore/tags/soulshinekalender/) auf Instagram an oder die [Story zum Hintergrund](http://www.vizworks.de/soulshine-kalender/). 
 
-Submitted by Britta Ullrich / vizworks.de (Web & Instagram) 
 
 ### Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken”
 
@@ -841,7 +842,7 @@ Schritt 2:Wenn ihr zu zweit arbeitet: tauscht eure Blätter, bist du allein (vor
 
 Nimm einen zweiten, andersfarbigen Stift und vervollständige die Kringel mit Schnäbeln, Beinen, Flügeln, füge Schatten und Schattierungen hinzu wenn du möchtest.
 
-Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest du sie auch später auf Twitter oder Instagram teilen? Added from: Mike Meister @mm_mikemeister
+Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest du sie auch später auf Twitter oder Instagram teilen? 
 
 ### **Weitere Informationen:**
 
@@ -890,11 +891,8 @@ Schritt 1: einer zeichnet für sich einen Kreis, ein Dreieck und ein Viereck auf
 
 Schritt 2: wie Schritt 1, nur dürfen Verständnisfragen gestellt werden.
 
-Added from: Mike Meister @mm_mikemeister
 
 #### **Warm Up (Woche 10)**
-
-fällt dir was ein? :-)
 
 #### **Warm Up (Woche 11)**
 

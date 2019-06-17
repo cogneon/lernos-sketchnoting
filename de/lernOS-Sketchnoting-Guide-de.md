@@ -826,7 +826,7 @@ Teilt eure Erfahrungen über Möglichkeiten Feedback zum Inhalt eurer Sketchnote
 
 Vielleicht hast du schon Zeit gehabt euch die Ressourcen-Liste am Ende des Leitfadens anzuschauen. Was hat dir besonders gefallen? Fehlt dir etwas, das dich inspiriert hat oder etwas das dich Sketchnoting aus einer ganz anderen Perspektive sehen lässt? Schreib eine Liste mit deinen Top5 auf und stellt euch eure Listen im Weekly vor. Findet eine Möglichkeit euch die Listen gegenseitig zur Verfügung zu stellen.
 
-### Kata 19: SoulshineSelfie
+## Kata 19: SoulshineSelfie
 
 Für was bist du persönlich dankbar, dass es in deinem Leben ist? Es können Dinge sein, Menschen, aber auch Situationen oder besondere Erinnerungen? Denkst du oft genug an die Sonnenseiten des Lebens und die schönen Dinge? Wir alle erleben es viel zu häufig, dass wir die glücklichen Momente viel zu schnell vergessen und uns nur auf unsere großen und kleinen Probleme konzentrieren?
 
@@ -898,7 +898,7 @@ Nimm einen zweiten, andersfarbigen Stift und vervollständige die Kringel mit Sc
 
 Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest du sie auch später auf Twitter oder Instagram teilen? Added from: Mike Meister @mm_mikemeister
 
-### **Weitere Informationen:**
+**Weitere Informationen:**
 
 Video [Dave Gray - Squiggle birds
 ](https://www.youtube.com/watch?v=vK3yQBouzNs)Video [Hirameki - draw what you see](https://www.youtube.com/watch?v=IrLwkyWBB7w)

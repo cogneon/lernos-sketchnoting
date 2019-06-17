@@ -4,15 +4,25 @@ Wird als letztes geschrieben :-)
 
 # **Danksagung**
 
-Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: Marjukka Zsagar-Renneberg, Raffaelina Rossetti, Benjamin Krüger, Lars Bartschat und Karl Damke
+Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke)
 
-Geholfen haben dabei: (Hier werden **alle** Beteiligten wie folgt genannt :-)
+Geholfen haben dabei: 
 
-Natalia Zlateva (Kata 7: Einkaufszettel) …. 
+- Natalia Zlateva (Kata Einkaufszettel)
+- Mike Meister (Warm Up Kritzelvögel)
+- Sabine Erkens (Kata Bildersammlung, Kata Nie genug Stifte)
+- Katrin Mäntele (Kata Feedback zum Inhalt)
+- Britta Ullrich (Kata Soulshine Selfie)
+- Conni Eybisch-Klimpel (Kata Reflexionen)
+- Susanne Speer (Kata Montagsmaler)
 
-Mike Meister (Warm Up Kritzelvögel) … 
-
-Feedback und Korrekturen: Anke Stettner, Katrin Mäntele, Katja Klaußner, Ralf Schramm, Susanne Kitlinski, Wibke Tiedmann
+Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
+- Anke Stettner
+- Katrin Mäntele
+- Katja Klaußner
+- Ralf Schramm
+- Susanne Kitlinski
+- Wibke Tiedmann
 
 # **Einleitung**
 
@@ -48,9 +58,9 @@ Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die B
 
 *"Sketchnotes ist Rumkritzeln während du dir Notizen machst"* *- Kevin Thorn,* [*Nuggethead*](http://nuggethead.net/2013/01/what-are-sketch-notes/)
 
-![Sketchnote what by @Bartschat, CC BY 4.0](sketchnotes/lernos_why.png)
+![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png)
 
-**Sketchnote what by @Bartschat, CC BY 4.0**
+**What are Sketchnotes by @BartschatLars, CC BY 4.0**
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
@@ -58,9 +68,9 @@ Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual 
 
 Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.
 
-![img](sketchnotes/sketchnotes_science.png)
+![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png)
 
-**Sketchnote science by @Bartschat, CC BY 4.0**
+**Scientific Sketchnotes by @BartschatLars, CC BY 4.0**
 
 ## **Was kann ich denn Sketchnoten?**
 
@@ -105,7 +115,8 @@ Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Not
 - Auf Papier zu schreiben und zu zeichnen fühlt sich einfach "richtig" an ...
 - Stift und Papier haben ein sehr intuitives Benutzer-Interface
 - In einem digitalen Zeitalter bist du mit Stift und Papier fast schon ein Rebell ...
-- Eine Sketchnote auf Papier kannst du jemanden in die Hand geben, du kannst sie anfassen und haptisch erleben.
+- Eine Sketchnote auf Papier kannst du jemanden in die Hand geben, du kannst sie anfassen und haptisch erleben. 
+- Ein Blatt hat Grenzen - Mit der Zeit lernst du durch diese Begrenzung, dich auf das Wesentliche, die Kernaussagen, zu fokussieren!
 - Stift und Papier sind die günstigste Art zu Sketchnoten!
 
 Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papier nicht so gut:
@@ -114,6 +125,7 @@ Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papie
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!
 - Korrekturen sind nicht so einfach bzw. “stören” das Gesamtbild
 - Elemente vergrößern und verkleinern ist auch nicht so wirklich drin ...
+- Ein Blatt hat Grenzen - "Voll ist voll", beliebig erweitern kannst du analoge Sketchnotes nicht. 
 
 Auch wenn dir viele Webseiten etwas anderes erzählen, du brauchst weder spezielles Papier oder besonders teure Notizbücher, noch sind teure Stifte notwendig. Für den Anfang nimmst du einfach ein Blatt Papier aus dem Drucker und den erstbesten Stift, der auf deinem Schreibtisch liegt.
 
@@ -130,6 +142,7 @@ Das digitale Sketchnoten bringt einige immense Vorteile mit sich:
 - Du kannst (je nach App) super einfach Elemente verschieben, vergrößern und verkleinern, ausschneiden und kopieren.
 - Das online Teilen ist quasi eingebaut...
 - Deine Sketchnotes sind in einem Dateisystem abgelegt und vielleicht sogar durchsuchbar...
+- Einige Apps bieten dir unbegrenzten Platz zum Sketchnoten (z.B. der "unlimited canvas" in der Concepts App), wenn dir noch wichtige Punkte einfallen, kannst du sie jederzeit anfügen
 
 Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nachteile:
 
@@ -138,6 +151,7 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 - So ein Tablet mit einem Stylus (Stift) ist nicht wirklich günstig...
 - Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an.
 - Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest
+- Unbegrenzter Platz zum Zeichnen kann auch überfordern und du willst jeden noch so kleinen Punkt noch mit in deine Sketchnote einbauen. Manchmal ist weniger einfach mehr...
 
 ## **Sketchnote Elemente**
 
@@ -459,8 +473,9 @@ Austausch über die Kata
 
 **Leitfragen**:
 
-- Was hat besonders gut funktioniert?
-- Wo gab es Schwierigkeiten?
+- Was hat für mich besonders gut funktioniert?
+- Was war besonders herausfordernd für mich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, ...)
+- Was habe ich für meine nächsten Sketchnotes gelernt, was möchte ich beibehalten und was möchte ich anders machen?
 
 Check out (1 Minute pro Member)
 
@@ -777,7 +792,13 @@ Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interess
 
 Wie lesbar ist die Sketchnote?
 
-…..Mauros Kategorien auflisten
+Wie verständlich ist die Sketchnote?
+
+Wie fesselnd findest du die Sketchnote?
+
+Wie informativ ist die Sketchnote?
+
+Wie ist die Sketchnote strukturiert?
 
 ### Kata 17: Feedback on Content
 
@@ -797,13 +818,13 @@ Bücher / Gruppen / Videos/Youtube-Kanäle / inspirierende Vorbilder …
 
 ### Kata 19: SoulshineSelfie
 
-What are things, people & situations you are thankful for? Do you spend enough time to think about the sunny side of life? All of us have those times when we forget about those happy moments! 
+Für was bist du persönlich dankbar, dass sie in deinem Leben sind? Es können Dinge sein, Menschen, aber auch Situationen oder besondere Erinnerungen? Denkst du oft genug an die Sonnenseiten des Lebens und die schönen Dinge? Wir alle erleben es viel zu häufig, dass wir die glücklichen Momente viel zu schnell vergessen und uns nur auf unsere großen und kleinen Probleme konzentrieren?
 
 **Exercise (30 Minutes for a start ;)** 
 
-Do a sketchnote about the things you love, like & appreciate. Draw yourself in the center (e.g. of a sun) and display your „happy-drawings“ around it. Make sure to label your drawings to benefit from the dual coding theory! 
+Erstelle eine Sketchnote von all den Dingen, die du magst, liebst und von denen du einfach wertschätzt, dass sie Teil deines Lebens sind. Zeichne dich selbst in den Mittelpunkt, z.B. von einer "Sonne" und ordne deine "Glücklichmacher" darum herum an. Versieh jeden von ihnen mit einer Über-/Unterschrift oder einem kurzen Text. Damit profitierst von den "Dual-Encoding Theory" und verankerst sie tiefer in deinem Gedächtnis. 
 
-Check out the [#SoulshineSelfie examples](https://www.instagram.com/explore/tags/soulshinekalender/) on Instagram or the [story behind it](http://www.vizworks.de/soulshine-kalender/). 
+Schau dir zur Inspiration die [#SoulshineSelfie Posts](https://www.instagram.com/explore/tags/soulshinekalender/) auf Instagram oder die [Geschichte dazu](http://www.vizworks.de/soulshine-kalender/) an. 
 
 Submitted by Britta Ullrich / vizworks.de (Web & Instagram) 
 
@@ -820,6 +841,18 @@ inspired by Conni Eybisch-Klimpel @connieybisch (Instagram)
 ### Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
 
 Zeichne die in Kata 20 skizzierte Sketchnote fertig und teile sie mit den anderen.
+
+**Leitfragen für die Analyse und das Feedback:**
+
+Wiederholung: Warum hast du dich genau für diese Struktur entschieden? 
+
+Wie hast du versucht eine gut lesbare, informative und ansprechende Sketchnote zu erstellen? Hast du dich auf etwas besonders konzentriert?
+
+Was sind deine wertvollsten Lernergebnisse aus diesem Sprint?
+
+Wie möchtest du diese Ergebnisse weiter nutzen? 
+
+Gab es einen lernOS-AHA-Moment in diesem Sprint? Wenn ja, was war es und warum? 
 
 ### Kata 22: Montagsmaler
 
@@ -904,7 +937,8 @@ fällt dir was ein? :-)
 
 ## Videos
 
-Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en) -
+Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en)
+
 Studies show that sketching and doodling improve our comprehension -- and our creative thinking. So why do we still feel embarrassed when we're caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She makes the case for unlocking your brain via pad and pen.
 
 Karen Bosch - [Sketchnote elements](https://www.youtube.com/watch?v=sH-sJXMQjro&feature=share)
@@ -915,20 +949,23 @@ Kate Hayward - [Draw like a child, see like a master](https://www.youtube.com/wa
 
 Instructional designer Hayward explains ways in which seemingly simple drawing techniques can allow us to communicate more clearly by building a richer visual vocabulary of child-like images.
 
-Brandy Agerbeck - [The essential 8
-](https://www.youtube.com/watch?v=3sXsXveYQtc)The thought of drawing in front of people can be intimidating. Brandy Agerbeck breaks down drawing in the context of graphic facilitation into 8 essential components. Graphic recorders, facilitators, trainers, teachers, student, managers, visual thinkers of all stripes can use this video. It will help you focus on what's most important while helping people get their ideas out of their heads on onto paper. 
+Brandy Agerbeck - [The essential 8](https://www.youtube.com/watch?v=3sXsXveYQtc)
+
+The thought of drawing in front of people can be intimidating. Brandy Agerbeck breaks down drawing in the context of graphic facilitation into 8 essential components. Graphic recorders, facilitators, trainers, teachers, student, managers, visual thinkers of all stripes can use this video. It will help you focus on what's most important while helping people get their ideas out of their heads on onto paper. 
 
 Mike Rohde - [Sketchnote mini workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&feature=share)
 
-Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays
-](https://www.youtube.com/watch?v=0O8PoYsxaT4)Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
+Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays](https://www.youtube.com/watch?v=0O8PoYsxaT4
+
+)Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
 
 Doug Neill - [Verbal to Visual youtube channel](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)
 
 Pavo und Rob - [Coffee talk rund um Sketchnotes, Lettering… youtube-Kanal](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)
 
-Willemien Brand - [VISUAL THINKING
-](https://www.youtube.com/watch?v=pUelkBYu9jU)Incorporating drawings in business communications
+Willemien Brand - [VISUAL THINKING](https://www.youtube.com/watch?v=pUelkBYu9jU)
+
+Incorporating drawings in business communications
 
 Willemien presents a webinar where she explains the purpose of Visual Thinking in business settings. With a short (life drawing) business drawing workshop included.
 
@@ -936,11 +973,18 @@ Onda - [Visual Thinking Crash Course!](https://www.youtube.com/watch?v=IdVBjZbqO
 
 This event is part of a series of workshops carried out by Onda Politica in Europa and Latin America aiming to develop capacibilities in researchers that allow them to communicate their projects to a broader audience. 
 
-Scriberia - [What is visual thinking?
-](https://www.youtube.com/watch?v=rZikhQ5w5Ck)Everything we do at Scriberia is underpinned by the fundamental belief that pictures make thinking, working and communicating easier for everyone. We're visual thinkers, and we like to help other people discover the power of visual thinking too. Why? Well, we made this little animation to explain…
+Scriberia - [What is visual thinking?](https://www.youtube.com/watch?v=rZikhQ5w5Ck)
 
-Brandy Agerbeck - [what is visual thinking?
-](https://www.youtube.com/watch?v=Yr6DN20NHvs)What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
+Everything we do at Scriberia is underpinned by the fundamental belief that pictures make thinking, working and communicating easier for everyone. We're visual thinkers, and we like to help other people discover the power of visual thinking too. Why? Well, we made this little animation to explain…
+
+Brandy Agerbeck - [what is visual thinking?](https://www.youtube.com/watch?v=Yr6DN20NHvs)
+
+What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
+
+Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c) 
+
+Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
+
 
 ## Bücher 
 
@@ -989,10 +1033,63 @@ Sketchnotes Germany auf XING und facebook
 Malte von Tiesenhausen [Instagram](https://www.instagram.com/malte_von_tiesenhausen/)
 
 Eva-Lotta Lamm ([Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3)) [Instagram
-](https://www.instagram.com/evalottchen/)Tanja Wehr - sketchnotelovers [Instagram](https://www.instagram.com/sketchnotelovers/)
+](https://www.instagram.com/evalottchen/)
+
+Tanja Wehr - sketchnotelovers [Instagram](https://www.instagram.com/sketchnotelovers/)
 
 Austin Kleon ([Newsletter](https://austinkleon.com/newsletter/))
 Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Mo - Fr um 9:30 Uhr (coffee talk mit Pavo und Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
+
+Nick Sousanis [Twitter](https://twitter.com/Nsousanis)
+
+Marcel van Hove [Twitter](https://twitter.com/marcelvanhove)
+
+Linda Saukka-Rauta [Twitter](https://twitter.com/saurau))
+
+Sunni Brown [Twitter](https://twitter.com/SunniBrown)
+
+Sandra Martin [Twitter](https://twitter.com/sam_HH)
+
+Ania Staskiewicz [Twitter](https://twitter.com/AniaStaskiewicz)
+
+Der kleine Wahnsinn [Twitter](https://twitter.com/kleinerW4hnsinn)
+
+Karen Forkish [Twitter](https://twitter.com/kforkish)
+
+Ben Crothers [Twitter](https://twitter.com/bencrothers)
+
+Holger Nils Pohl [Twitter](https://twitter.com/HolgerNilsPohl)
+
+Marianne Rady [Twitter](https://twitter.com/MarianneRady)
+
+Brandy Agerbeck [Twitter](https://twitter.com/loosetooth)
+
+Gary Lau [Twitter](https://twitter.com/PastorGaryLau)
+
+Dr. Makayla Miranda Lewis [Twitter](https://twitter.com/maccymacx)
+
+Prof. Clayton [Twitter](https://twitter.com/ProfClayton)
+
+Diana Soriat [Twitter](https://twitter.com/DianaSoriat)
+
+Marc Bourguignon [Twitter](https://twitter.com/100978Marc)
+
+Doug Neill [Twitter](https://twitter.com/douglaspneill)
+
+Magalie Le Gall [Twitter](https://twitter.com/magalielegall)
+
+Nadine Roßa [Twitter](https://twitter.com/nadrosia)
+
+Katharina Theis Bröhl [Twitter](https://twitter.com/theiskbt)
+
+Rob Dimeo [Twitter](https://twitter.com/Rob_Dimeo)
+
+Mauro Tosselli [Twitter](https://twitter.com/xLontrax)
+
+Sketchnote Army [Twitter](https://twitter.com/SketchnoteArmy)
+
+Katharina Blum [Twitter](https://twitter.com/kuestenkonfetti)
+
 
 ## Keep Calm & Learn On! :-)
 

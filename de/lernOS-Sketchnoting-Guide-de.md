@@ -8,13 +8,13 @@ Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Un
 
 Geholfen haben dabei: 
 
-- Natalia Zlateva (Kata Einkaufszettel)
-- Mike Meister (Warm Up Kritzelvögel)
-- Sabine Erkens (Kata Bildersammlung, Kata Nie genug Stifte)
-- Katrin Mäntele (Kata Feedback zum Inhalt)
-- Britta Ullrich (Kata Soulshine Selfie)
-- Conni Eybisch-Klimpel (Kata Reflexionen)
-- Susanne Speer (Kata Montagsmaler)
+- Natalia Zlateva (@nataliaoro auf instagram): Kata "Einkaufszettel"
+- Mike Meister (@mm_mikemeister auf Twitter): Warm Up "Kritzelvögel", Warm Up "Visuelle Kommunikation macht den Unterschied"
+- Sabine Erkens (@Sabine_Erkens auf Twitter): Kata "Bildersammlung", Kata "#Nie genug Stifte"
+- Katrin Mäntele (@kleinerw4hnsinn auf Twitter & Instagram): Kata "Feedback zum Inhalt", Warm Up "Ablauf"
+- Britta Ullrich (vizworks.de im Web & auf Instagram): Kata "Soulshine Selfie"
+- Conni Eybisch-Klimpel (@connieybisch auf Instagram): Kata "Reflexionen"
+- Susanne Speer: Kata "Montagsmaler"
 
 Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
 - Anke Stettner
@@ -473,9 +473,12 @@ Austausch über die Kata
 
 **Leitfragen**:
 
-- Was hat für mich besonders gut funktioniert?
-- Was war besonders herausfordernd für mich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, ...)
-- Was habe ich für meine nächsten Sketchnotes gelernt, was möchte ich beibehalten und was möchte ich anders machen?
+- Welche Erwartungen hattest du an die Verständlichkeit deiner Sketchnote?
+- Wurden diese erfüllt?
+- Wie war das Feedback in Bezug auf Lesbarkeit, Layout, Wortwahl?
+- Was hat für dich besonders gut funktioniert?
+- Was war besonders herausfordernd für dich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, ...)
+- Was hast du für deine nächsten Sketchnotes gelernt, was möchtest du beibehalten und was möchtest du anders machen?
 
 Check out (1 Minute pro Member)
 
@@ -678,15 +681,11 @@ Dauer der Kata - 1 Monat
 
 Ergebnis - 6 Kategorien für deine visuelle Bibliothek 
 
-Submitted by Natalia Zlateva @nataliaoro on instagram
-
 ### Kata 9: Bildersammlung
 
 Lege Dir für deine Themen eine Bildbibliothek an. Notiere dafür 10 Schlüsselbegriffe aus deinem Themenbereich. Und nun suche in deiner Umgebung, in Büchern, in Bildern und Medien nach Anregungen für deine eigene Darstellung. Zeichne unterschiedliche Varianten oder nur eine. Wähle aus, was am besten zu dir passt. Das speichere in deiner Sammlung.
 
 Stelle im Weekly deine Ideen vor und diskutiere in der Gruppe darüber. Diskutiert, wo ihr die besten Anregungen gefunden habt.
-
-Submitted by Sabine Erkens @Sabine_Erkens on Twitter 
 
 **Weitere Informationen:**
 
@@ -696,7 +695,8 @@ Video Doug Neill: [How to expand your visual language - Build up from basic icon
 
 ### Kata 10: Was bedeuten Farben für dich?
 
-Beantworte den Fragebogen (folgt) für dich
+Farben transportieren Emotionen direkter als jedes Layout. 
+Beantworte den Fragebogen (folgt) für dich.
 
 Tauscht euch über die Ergebnisse aus.
 
@@ -712,9 +712,10 @@ Ressource: Farbkreis
 
 ### Kata 11: #NieGenugStifte    
 
-Man kann nie genug Stifte haben ;-) Aber für den Beginn reicht ein schwarzer und ein grauer Stift und eine weitere Farbe. Schau Dir andere Sketchnotes an und plane für dich, welche Stifte du benötigst. Mit welcher Stiftstärke kannst du am besten zeichnen und schreiben? Welche Farben passen zu deinen Themen? Zeichne einzelne Motive mit unterschiedlichen Stiften und finde deinen eigenen Stil heraus. Tauscht euch mit einander aus: Wo und wie setzt ihr Schatten? Wie kann Farbe Bedeutung transportieren?
+Man kann nie genug Stifte haben ;-) Aber für den Beginn reicht ein schwarzer und ein grauer Stift und eine weitere Farbe. Schau Dir andere Sketchnotes an und plane für dich, welche Stifte du benötigst. Mit welcher Stiftstärke kannst du am besten zeichnen und schreiben? Welche Farben passen zu deinen Themen? Zeichne einzelne Motive mit unterschiedlichen Stiften und finde deinen eigenen Stil heraus. Tauscht euch mit einander aus:
 
-Submitted by Sabine Erkens @Sabine_Erkens on Twitter 
+- Wo und wie setzt ihr Schatten?
+- Wie kann Farbe Bedeutung transportieren?
 
 ### Kata 12: 1 Sketchnote 5 Farben
 
@@ -786,7 +787,7 @@ Sehen die anderen Circle-Member Unterschiede?
 
 ### Kata 16: Videosketching: Did you get it?
 
-Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet) . Teil dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.
+Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet). Teilt dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.
 
 **Leitfragen für die Analyse und das Feedback:**
 
@@ -800,33 +801,28 @@ Wie informativ ist die Sketchnote?
 
 Wie ist die Sketchnote strukturiert?
 
-### Kata 17: Feedback on Content
+### Kata 17: Feedback zum Inhalt
 
-While sketchnoting, active listening and capturing the most important information (core theses) e.g. of a talk is very important. 
+Für Sketchnotes ist aktives Zuhören und die wichtigsten Informationen (Kernthesen), beispielsweise eines Vortrags, zu erfassen, sehr wichtig. 
 
-Why not reaching out to speakers or organizers to get feedback on the content of your sketchnote (is it complete? are the core theses captured?)?
+Warum dann nicht direkt auf die Vortragenden und Veranstaltungsorganisatoren zugehen und diese um Feedback zum Inhalt deiner Sketchnote bitten. Wurden die Informationen vollständig erfasst? Sind die Kernthesen enthalten?
+Zum Ende eines Meetings könntest du bei den Teilnehmenden Rückmeldungen zu deiner Sketchnote erfragen. Sind die Teilnehmer der Meinung, dass du die wichtigsten Punkte aus dem Meetings erfasst und entsprechend gewichtet hast?
+Wenn es von einem Vortrag mehrere Sketchnotes unterschiedlicher Sketchnoter gibt, könntest du den Informationsgehalt der Sketchnotes miteinander vergleichen und die jeweils erfassten Informationen bewerten.
+Teilt eure Erfahrungen über Möglichkeiten Feedback zum Inhalt eurer Sketchnotes zu erhalten in eurem Circle (20 Minuten). Sprecht über eure Erkenntnisse und reflektiert darüber, wie euch Feedback zum Inhalt dabei helfen kann eure Sketchnote-Fähigkeiten zu verbessern.
 
-In meetings it might be possible to ask the participants at the end of the event if one was able to capture the core theses in her or his sketchnote. If there are multiple sketchnotes of a talk the sketchnoter might compare and evaluate the captured information. 
+### Kata 18: Top5 Ressourcen
 
-Share your experiences on how to get feedback on the content of your sketchnote in your circle (20 minutes). Talk about learnings and reflect on how feedback on content helps you to improve your sketchnoting.
-
-Submitted by: Katrin Mäntele @kleinerw4hnsinn (Twitter & Instagram)
-
-### Kata 18: Top5 Ressources
-
-Bücher / Gruppen / Videos/Youtube-Kanäle / inspirierende Vorbilder …
+Vielleicht hast du schon Zeit gehabt euch die Ressourcen-Liste am Ende des Leitfadens anzuschauen. Was hat dir besonders gefallen? Fehlt dir etwas, das dich inspiriert hat oder etwas das dich Sketchnoting aus einer ganz anderen Perspektive sehen lässt? Schreib eine Liste mit deinen Top5 auf und stellt euch eure Listen im Weekly vor. Findet eine Möglichkeit euch die Listen gegenseitig zur Verfügung zu stellen.
 
 ### Kata 19: SoulshineSelfie
 
-Für was bist du persönlich dankbar, dass sie in deinem Leben sind? Es können Dinge sein, Menschen, aber auch Situationen oder besondere Erinnerungen? Denkst du oft genug an die Sonnenseiten des Lebens und die schönen Dinge? Wir alle erleben es viel zu häufig, dass wir die glücklichen Momente viel zu schnell vergessen und uns nur auf unsere großen und kleinen Probleme konzentrieren?
+Für was bist du persönlich dankbar, dass es in deinem Leben ist? Es können Dinge sein, Menschen, aber auch Situationen oder besondere Erinnerungen? Denkst du oft genug an die Sonnenseiten des Lebens und die schönen Dinge? Wir alle erleben es viel zu häufig, dass wir die glücklichen Momente viel zu schnell vergessen und uns nur auf unsere großen und kleinen Probleme konzentrieren?
 
-**Exercise (30 Minutes for a start ;)** 
+**Übung (30 Minuten)**
 
 Erstelle eine Sketchnote von all den Dingen, die du magst, liebst und von denen du einfach wertschätzt, dass sie Teil deines Lebens sind. Zeichne dich selbst in den Mittelpunkt, z.B. von einer "Sonne" und ordne deine "Glücklichmacher" darum herum an. Versieh jeden von ihnen mit einer Über-/Unterschrift oder einem kurzen Text. Damit profitierst von den "Dual-Encoding Theory" und verankerst sie tiefer in deinem Gedächtnis. 
 
 Schau dir zur Inspiration die [#SoulshineSelfie Posts](https://www.instagram.com/explore/tags/soulshinekalender/) auf Instagram oder die [Geschichte dazu](http://www.vizworks.de/soulshine-kalender/) an. 
-
-Submitted by Britta Ullrich / vizworks.de (Web & Instagram) 
 
 ### Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken”
 
@@ -835,8 +831,6 @@ Schritt 1: Mach drei Layoutskizzen für eine Sketchnote, die deine Erfahrungen i
 Schritt 2: Wähle ein Layout aus
 
 Schritt 3: Zeigt euch im Weekly eure Entwürfe. Warum habt ihr euch für welchen entschieden?  
-
-inspired by Conni Eybisch-Klimpel @connieybisch (Instagram) 
 
 ### Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
 
@@ -857,8 +851,6 @@ Gab es einen lernOS-AHA-Moment in diesem Sprint? Wenn ja, was war es und warum?
 ### Kata 22: Montagsmaler
 
 Text für Montagsmaler
-
-von Susanne Speer
 
 ### Kata 23: Miss & zeig deinen Erfolg 
 
@@ -984,7 +976,6 @@ What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to 
 Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c) 
 
 Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
-
 
 ## Bücher 
 

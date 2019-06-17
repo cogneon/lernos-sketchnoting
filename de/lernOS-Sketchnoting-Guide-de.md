@@ -28,9 +28,9 @@ Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an:
 
 Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. lernOS ist eine Toolbox für lebenslanges Lernen, die Elemente aus Methoden wie Working Out Loud, Getting Things Done und Objective Key Results miteinander kombiniert. Dazu das Wichtigste in einer Sketchnote:
 
-![img](sketchnotes/lernos_in_a_nutshell.png)
+![LernOS in a nutshell by Karl Damke CC-BY](sketchnotes/lernos_in_a_nutshell.png)
 
-LernOS in a nutshell by Karl Damke CC-BY 
+**LernOS in a nutshell by Karl Damke CC-BY**
 
 Wenn du mehr wissen willst, kannst alles über lernOS [hier nachlesen,](https://cogneon.github.io/lernos-core/) dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints ;)  
 
@@ -231,15 +231,15 @@ Wie ist dieser Lernpfad aufgebaut?
 
 Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine individuellen Ziele im Laufe der zwölf Wochen Thema im Circle sind. Dann schauen wir uns an, nach welchem System die Katas aufgebaut sind.
 
-![img](sketchnotes/sketchnote_learning_path_01.png)
+![Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png)
 
-CC BY: Karl Damke
+Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY
 
 Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt und dazu ein großartiges [Buch geschrieben](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html). Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. Im Anhang findest du dazu vier Seiten aus Mauros Buch dazu, die unter CC BY ND SA genutzt werden können.
 
-![img](sketchnotes/sketchnote_learning_path_02.png)
+![Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png)
 
-CC BY: Karl Damke
+Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY
 
 ## **Circle Organisatoren Checkliste**
 
@@ -589,6 +589,12 @@ Check out (1 Minute pro Member)
 
 Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über dich. Bau die wichtigsten Fakten über dich ein, erwähne Dinge, die du (nicht) magst, zwei Fakten über dich, die nicht offensichtlich sind und einen praktischen Sketchnote-Tipp. Versuch auch die Frage zu beantworten, warum du visualisierst. Wenn du fertig bist, teile deinen Sketchnote-Selfie mit den anderen.
 
+Beispiel eines Sketchnote-Selfies beim Start eines LernOS Circle zum Thema "SketchnoteOutLoud":
+
+![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png)
+
+**Sketchnote-Selfie by @ben1kk CC-BY**
+
 ### Kata 2: Circle Setup 
 
 Wenn Ihr Euch im Circle noch nicht kennt, lernt Euch in der Woche 0 kennen. Plant, wann Ihr Euch trefft, welche Tools Ihr nutzt und wer der Moderator ist.
@@ -602,7 +608,9 @@ Definiert einen Circle-Moderator, der sich um Event- und Zeitmanagement kümmert
 
 ### Kata 3: Feedback !
 
-![img](sketchnotes/feedback.png)
+![Feedback by @DenkFlowRR CC-BY](sketchnotes/feedback.png)
+
+**Feedback by @DenkFlowRR CC-BY**
 
 Eine ganz wichtige Funktion des Circles ist es, Feedback zu deinen Zielen und zu deinen Sketchnotes zu bekommen und den anderen Feedback zu geben. Damit ihr euch dabei besser versteht, nehmt euch kurz Zeit über eure Vorstellung von konstruktivem Feedback zu sprechen. Dazu gehört auch die Frage „Warum visualisierst du? und der Grundsatz „Vergleich dich mit dir selbst“. 
 
@@ -708,7 +716,9 @@ Gibt es Unterschiede in der Wahrnehmung?
 
 Video Brandy Agerbeck: [The color spectrum](https://www.youtube.com/watch?v=s5h0wOtEWcg) 
 
-Ressource: Farbkreis
+![Farbkreis by @DenkFlowRR CC-BY](sketchnotes/farbkreis.png)
+
+**Farbkreis by @DenkFlowRR CC-BY**
 
 ### Kata 11: #NieGenugStifte    
 
@@ -746,7 +756,9 @@ Trainier deine Container!
 
 ….
 
-Ressource: Cheat Sheet maccymax
+![Layout Inspiration by @DenkFlowRR CC-BY](sketchnotes\layout_inspiration.png)
+
+**Layout Inspiration by @DenkFlowRR CC-BY**
 
 ### Kata 14: Videosketching
 
@@ -850,7 +862,25 @@ Gab es einen lernOS-AHA-Moment in diesem Sprint? Wenn ja, was war es und warum?
 
 ### Kata 22: Montagsmaler
 
-Text für Montagsmaler
+Die Montagsmaler war eine Sendung im deutschen Vorabendprogramm, in der mehrere
+Teammitglieder Begriffe erraten haben, die ein Mitglied des Teams gezeichnet hat. Für diese
+Übung braucht ihr ein paar Begriffe, die für den Einstieg ganz konkrete Dinge darstellen wie zum
+Beispiel Zug oder Elefant, also zunächst Nomen außerhalb von Abstraktion. Als Unterstützung für
+die Wortfindung kann ein Thesaurus dienen, der per Zufallsgenerator Wörter auswirft:
+
+[https://www.palabrasaleatorias.com/zufallige-worter.php](https://www.palabrasaleatorias.com/zufallige-worter.php)
+
+auch in englischer Sprache erhältlich:
+
+[https://www.palabrasaleatorias.com/random-words.php](https://www.palabrasaleatorias.com/random-words.php)
+
+Reihum sucht ein Mitglied des Teams ein Wort aus und zeichnet es, die anderen raten und finden
+heraus, was es ist. Das Ziel ist zeichnerisch etwas darzustellen, die Zeichenhemmung zu
+überwinden und vor allem festzustellen, wie wenig es oft braucht, um eine Eindeutigkeit
+herzustellen. Diese Übung eignet sich also vor allem für ein „Aufwärmen“, nach den ersten
+Übungen..Auch im späteren Verlauf ist das eine tolle Aufgabenstellung, wenn die Fähigkeiten
+wachsen. Dann sind auch Verben sinnvoll, die Figuren in Aktion zeigen, wie zum Beispiel laufen,
+tanzen oder nachdenken. 
 
 ### Kata 23: Miss & zeig deinen Erfolg 
 

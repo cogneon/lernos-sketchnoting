@@ -30,7 +30,7 @@ Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lern
 
 ![LernOS in a nutshell by Karl Damke CC-BY](sketchnotes/lernos_in_a_nutshell.png)
 
-**LernOS in a nutshell by Karl Damke CC-BY**
+**lernOS in a nutshell by Karl Damke CC-BY**
 
 Wenn du mehr wissen willst, kannst alles über lernOS [hier nachlesen,](https://cogneon.github.io/lernos-core/) dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints ;)  
 
@@ -60,7 +60,7 @@ Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die B
 
 ![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png)
 
-**What are Sketchnotes by @BartschatLars, CC BY 4.0**
+**What are Sketchnotes - by @Bartschat Lars, CC BY 4.0**
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
@@ -159,31 +159,31 @@ Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleic
 
 *„*[*Sketch it – Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*„ von*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, Lizenz:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
-![img](sketchnotes/bubbles.png)
+![Sketchnotes Bubbles](sketchnotes/bubbles.png)
 
 ### **Container**
 
 Ein Container strukturiert eine Sketchnote, indem er anderen Elementen einen Rahmen bietet.
 
-![img](sketchnotes/separators.png)
+![Sketchnotes Separators](sketchnotes/separators.png)
 
 ### **Trenner**
 
 Der Trenner ist der Gegenspieler zum Verbinder, er sorgt dafür, dass die Elemente einer Sketchnote klar voneinander separiert sind und schafft so Ordnung und Klarheit.
 
-![img](sketchnotes\text.png)
+![Sketchnotes Text](sketchnotes\text.png)
 
 ### **Text**
 
 Deine Sketchnote besteht aus Text und grafischen Elementen, wobei auch die Texte unterschiedlichste Formen und Farben annehmen können.
 
-![img](sketchnotes/visual_alphabet.png)
+![Sketchnote Visual Alphabet](sketchnotes/visual_alphabet.png)
 
 ### **Symbole und Icons**
 
 Symbole und Icons kannst du auf unterschiedliche Art und Weise beim Sketchnoten einsetzen. Du kannst dir z. B. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.
 
-![img](sketchnotes/connectors.png)
+![Sketchnote Connectors](sketchnotes/connectors.png)
 
 ### **Verbinder und Pfeile**
 
@@ -233,13 +233,13 @@ Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine in
 
 ![Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png)
 
-Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY
+**Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY**
 
 Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt und dazu ein großartiges [Buch geschrieben](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html). Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. Im Anhang findest du dazu vier Seiten aus Mauros Buch dazu, die unter CC BY ND SA genutzt werden können.
 
 ![Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png)
 
-Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY
+**Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY**
 
 ## **Circle Organisatoren Checkliste**
 
@@ -585,7 +585,7 @@ Check out (1 Minute pro Member)
 
 # **Kata-Log**
 
-### Kata1: Sketchnote-Selfie
+## Kata1: Sketchnote-Selfie
 
 Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über dich. Bau die wichtigsten Fakten über dich ein, erwähne Dinge, die du (nicht) magst, zwei Fakten über dich, die nicht offensichtlich sind und einen praktischen Sketchnote-Tipp. Versuch auch die Frage zu beantworten, warum du visualisierst. Wenn du fertig bist, teile deinen Sketchnote-Selfie mit den anderen.
 
@@ -595,7 +595,7 @@ Beispiel eines Sketchnote-Selfies beim Start eines LernOS Circle zum Thema "Sket
 
 **Sketchnote-Selfie by @ben1kk CC-BY**
 
-### Kata 2: Circle Setup 
+## Kata 2: Circle Setup 
 
 Wenn Ihr Euch im Circle noch nicht kennt, lernt Euch in der Woche 0 kennen. Plant, wann Ihr Euch trefft, welche Tools Ihr nutzt und wer der Moderator ist.
 
@@ -606,7 +606,7 @@ Definiert einen Circle-Moderator, der sich um Event- und Zeitmanagement kümmert
 - Wöchentliche Treffen sind: persönlich / virtuell
 - Verwendete Tools (können alle sie nutzen?): ...
 
-### Kata 3: Feedback !
+## Kata 3: Feedback !
 
 ![Feedback by @DenkFlowRR CC-BY](sketchnotes/feedback.png)
 
@@ -622,7 +622,7 @@ Brandyfesto: [Drawing as a thinking tool
 
 Video: Doug Neill: [How to critique your sketchnote](https://www.youtube.com/watch?v=BPHA2-uxBto)
 
-### Kata 4: Meine Ziele für die nächsten 4 Wochen
+## Kata 4: Meine Ziele für die nächsten 4 Wochen
 
 Was willst du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das dir wirklich, wirklich wichtig ist und bei dem du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Besonders für Sketchnote-Einsteiger ist es nicht oberste Priorität, das Ziel zu erreichen.  Im Fokus steht neben dem Erlernen des Basiswissen, wie zum Beispiel das Aneignen eines eigenen visuellen ABCs, natürlich ganz besonders das regelmäßige Üben der neu gewonnenen Fähigkeiten und zu guter Letzt die Hauptsache:  ganz viel Spaß :-)
 
@@ -639,7 +639,7 @@ Um einen optimalen Lernerfolg zu bekommen, ist es dennoch sehr  wichtig, dir sel
 - Buch [Introduction To OKRs von Christina Wodtke](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf)
 - Buch [The Beginner’s Guide To OKR von Felipe Castro](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf)
 
-### Kata 5: Ein Termin mit Dir selbst
+## Kata 5: Ein Termin mit Dir selbst
 
 Nimmst du Dir ausreichend Zeit für Deine persönliche Entwicklung und für die Arbeit an Deinen Zielen? Viele Menschen sind mit ihren täglichen Aufgaben beschäftigt und kümmern sich nicht genug um ihre Entwicklung und ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin mit sich selbst zu vereinbaren und sich diese Zeit im Kalender zu reservieren.
 
@@ -659,7 +659,7 @@ Nimmst du Dir ausreichend Zeit für Deine persönliche Entwicklung und für die 
 
 Besprecht Eure Ansätze im Circle.
 
-### Kata 6: Letter deinen Lieblingsspruch 
+## Kata 6: Letter deinen Lieblingsspruch 
 
 Eine Sketchnote lässt sich sehr gut mit verschiedenen Schriftarten und -größen gestalten und gliedern. Doch oft fallen wir beim Sketchnoten wieder zurück in unseren Gewohnheiten und nutzen immer nur dieselben, alten Lettern.
 
@@ -671,7 +671,7 @@ Videos: [How to Write Neatly + Improve Your Handwriting
 ](https://www.youtube.com/watch?v=_QA_NScPlt8)[How to Improve your Handwriting | For Note-Taking and Journaling
 ](https://www.youtube.com/watch?v=1YXjAu9o11o)[5 tips on how i improved my handwriting](https://www.youtube.com/watch?v=aK2SLQx6j9Q)
 
-### Kata 7: Nimm Dir Zeit beim Schreiben 
+## Kata 7: Nimm Dir Zeit beim Schreiben 
 
 Ein Killer-Kriterium für eine gute Sketchnote ist ihre Lesbarkeit. Vor allem, wenn wir oft viel zu viel auf Tastaturen herumtippen und im Alltag nicht viel mit der Hand schreiben, ist die antrainierte  Schönschrift aus der Grundschule oft nur noch eine blasse Erinnerung.
 
@@ -679,7 +679,7 @@ Im Anhang findest du ein Übungsblatt zur “Architects Handwriting”, die für
 
 Eine andere Herangehensweise ist es, dir einmal deutlich mehr Zeit fürs Schreiben zu nehmen und zu schauen, welche Auswirkungen das auf deine Lesbarkeit hat. Schreib dazu einen kurzen Satz in deiner normalen Handschrift und stopp dabei (ungefähr) die Zeit. Schreib dann den gleichen Satz noch einmal, mit doppelt so viel Zeit und vielleicht noch einmal, noch langsamer. Schau dir die Buchstaben genau an, was verändert sich? Beschleunige jetzt allmählich wieder und versuche dabei die positiven Veränderungen beizubehalten.Ressource dazu: Architects Handwriting
 
-### Kata 8: Einkaufszettel
+## Kata 8: Einkaufszettel
 
 Erstelle dein Einkaufszettel statt mit Wörtern mit Sketchnotes. Übe auf diese Weise unterschiedliche Symbolen für Gemüse, Obst, Tiere, Getränke, Lebensmittel und Drogerieartikel. Nach einem Monat schaue dir deinen Einkaufszettel an und erstelle für jede der 6 Kategorien eine eigene visuelle Bibliothek.
 
@@ -689,7 +689,7 @@ Dauer der Kata - 1 Monat
 
 Ergebnis - 6 Kategorien für deine visuelle Bibliothek 
 
-### Kata 9: Bildersammlung
+## Kata 9: Bildersammlung
 
 Lege Dir für deine Themen eine Bildbibliothek an. Notiere dafür 10 Schlüsselbegriffe aus deinem Themenbereich. Und nun suche in deiner Umgebung, in Büchern, in Bildern und Medien nach Anregungen für deine eigene Darstellung. Zeichne unterschiedliche Varianten oder nur eine. Wähle aus, was am besten zu dir passt. Das speichere in deiner Sammlung.
 
@@ -701,7 +701,7 @@ Stelle im Weekly deine Ideen vor und diskutiere in der Gruppe darüber. Diskutie
 Video Doug Neill: [How to expand your visual language - Build up from basic icons to more complex representations of ideas.
 ](https://www.youtube.com/watch?v=z8UkHGpykYU)John Atkinson - [Cartoons for Sketchnotes](https://wronghands1.com/)
 
-### Kata 10: Was bedeuten Farben für dich?
+## Kata 10: Was bedeuten Farben für dich?
 
 Farben transportieren Emotionen direkter als jedes Layout. 
 Beantworte den Fragebogen (folgt) für dich.
@@ -720,14 +720,14 @@ Video Brandy Agerbeck: [The color spectrum](https://www.youtube.com/watch?v=s5h0
 
 **Farbkreis by @DenkFlowRR CC-BY**
 
-### Kata 11: #NieGenugStifte    
+## Kata 11: #NieGenugStifte    
 
 Man kann nie genug Stifte haben ;-) Aber für den Beginn reicht ein schwarzer und ein grauer Stift und eine weitere Farbe. Schau Dir andere Sketchnotes an und plane für dich, welche Stifte du benötigst. Mit welcher Stiftstärke kannst du am besten zeichnen und schreiben? Welche Farben passen zu deinen Themen? Zeichne einzelne Motive mit unterschiedlichen Stiften und finde deinen eigenen Stil heraus. Tauscht euch mit einander aus:
 
 - Wo und wie setzt ihr Schatten?
 - Wie kann Farbe Bedeutung transportieren?
 
-### Kata 12: 1 Sketchnote 5 Farben
+## Kata 12: 1 Sketchnote 5 Farben
 
 Bereite eine Sketchnote in Schwarz vor. Mach mehrere Kopien davon und bereite deine Farbstifte vor. Im Weekly koloriert ihr gemeinsam eure Sketchnotes auf unterschiedliche Art und Weisen. 
 
@@ -740,7 +740,7 @@ Bereite eine Sketchnote in Schwarz vor. Mach mehrere Kopien davon und bereite de
 - Farbe nur für ein! Highlight
 - Farbe als Hierachisierungs-Hilfsmittel
 
-### Kata 13: Layouts für Sketchnotes
+## Kata 13: Layouts für Sketchnotes
 
 **Vorbereitung:**
 
@@ -760,7 +760,7 @@ Trainier deine Container!
 
 **Layout Inspiration by @DenkFlowRR CC-BY**
 
-### Kata 14: Videosketching
+## Kata 14: Videosketching
 
 Einigt euch auf ein Video, das ihr gemeinsam live sketchnoten wollt. Wir empfehlen etwas unter 10 Minuten, vielleicht eine Sendung mit der Maus. Wenn ihr euch online trefft, schaut, ob ihr eure Kameras so aufstellen könnt, dass sie eure Sketchnote zeigt.
 
@@ -781,7 +781,7 @@ Fehlt euch eine Layoutideee auf dem Cheat Sheet?
 
 Vorschlag Video zum live sketchen: [Julian Treasure - How to speak so others want to listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen?language=en)
 
-### Kata 15: Zwischenstand präsentieren
+## Kata 15: Zwischenstand präsentieren
 
 Bring deine OKR–Metriken mit – wenn du willst ;)
 
@@ -797,7 +797,7 @@ Siehst du Unterschiede?
 
 Sehen die anderen Circle-Member Unterschiede? 
 
-### Kata 16: Videosketching: Did you get it?
+## Kata 16: Videosketching: Did you get it?
 
 Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet). Teilt dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.
 
@@ -813,7 +813,7 @@ Wie informativ ist die Sketchnote?
 
 Wie ist die Sketchnote strukturiert?
 
-### Kata 17: Feedback zum Inhalt
+## Kata 17: Feedback zum Inhalt
 
 Für Sketchnotes ist aktives Zuhören und die wichtigsten Informationen (Kernthesen), beispielsweise eines Vortrags, zu erfassen, sehr wichtig. 
 
@@ -822,7 +822,7 @@ Zum Ende eines Meetings könntest du bei den Teilnehmenden Rückmeldungen zu dei
 Wenn es von einem Vortrag mehrere Sketchnotes unterschiedlicher Sketchnoter gibt, könntest du den Informationsgehalt der Sketchnotes miteinander vergleichen und die jeweils erfassten Informationen bewerten.
 Teilt eure Erfahrungen über Möglichkeiten Feedback zum Inhalt eurer Sketchnotes zu erhalten in eurem Circle (20 Minuten). Sprecht über eure Erkenntnisse und reflektiert darüber, wie euch Feedback zum Inhalt dabei helfen kann eure Sketchnote-Fähigkeiten zu verbessern.
 
-### Kata 18: Top5 Ressourcen
+## Kata 18: Top5 Ressourcen
 
 Vielleicht hast du schon Zeit gehabt euch die Ressourcen-Liste am Ende des Leitfadens anzuschauen. Was hat dir besonders gefallen? Fehlt dir etwas, das dich inspiriert hat oder etwas das dich Sketchnoting aus einer ganz anderen Perspektive sehen lässt? Schreib eine Liste mit deinen Top5 auf und stellt euch eure Listen im Weekly vor. Findet eine Möglichkeit euch die Listen gegenseitig zur Verfügung zu stellen.
 
@@ -836,7 +836,7 @@ Erstelle eine Sketchnote von all den Dingen, die du magst, liebst und von denen 
 
 Schau dir zur Inspiration die [#SoulshineSelfie Posts](https://www.instagram.com/explore/tags/soulshinekalender/) auf Instagram oder die [Geschichte dazu](http://www.vizworks.de/soulshine-kalender/) an. 
 
-### Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken”
+## Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken”
 
 Schritt 1: Mach drei Layoutskizzen für eine Sketchnote, die deine Erfahrungen in diesem Sprint wiedergibt 
 
@@ -844,7 +844,7 @@ Schritt 2: Wähle ein Layout aus
 
 Schritt 3: Zeigt euch im Weekly eure Entwürfe. Warum habt ihr euch für welchen entschieden?  
 
-### Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
+## Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
 
 Zeichne die in Kata 20 skizzierte Sketchnote fertig und teile sie mit den anderen.
 
@@ -860,7 +860,7 @@ Wie möchtest du diese Ergebnisse weiter nutzen?
 
 Gab es einen lernOS-AHA-Moment in diesem Sprint? Wenn ja, was war es und warum? 
 
-### Kata 22: Montagsmaler
+## Kata 22: Montagsmaler
 
 Die Montagsmaler war eine Sendung im deutschen Vorabendprogramm, in der mehrere
 Teammitglieder Begriffe erraten haben, die ein Mitglied des Teams gezeichnet hat. Für diese
@@ -882,13 +882,13 @@ herzustellen. Diese Übung eignet sich also vor allem für ein „Aufwärmen“,
 wachsen. Dann sind auch Verben sinnvoll, die Figuren in Aktion zeigen, wie zum Beispiel laufen,
 tanzen oder nachdenken. 
 
-### Kata 23: Miss & zeig deinen Erfolg 
+## Kata 23: Miss & zeig deinen Erfolg 
 
 Vorlage im Anhang: Spinnennetz und OKR Tracking Grafik
 
 # **Warm-Ups**
 
-### **Kringel-Vögel (Woche 0)**
+## **Kringel-Vögel (Woche 0)**
 
 Schritt 1: Kritzle auf einem Blatt Papier  innerhalb von einer Minute so viele Kringel wie möglich.
 
@@ -903,15 +903,15 @@ Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest 
 Video [Dave Gray - Squiggle birds
 ](https://www.youtube.com/watch?v=vK3yQBouzNs)Video [Hirameki - draw what you see](https://www.youtube.com/watch?v=IrLwkyWBB7w)
 
-### **Ziele (Woche 1)**
+## **Ziele (Woche 1)**
 
 Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander  Wie visualisiert ihr, dass die Ziele erreicht wurden? 
 
-### **Ganz groß und ganz klein (Woche 2)** 
+## **Ganz groß und ganz klein (Woche 2)** 
 
 Einigt euch auf ein Wort. Alle schreiben es mit einem dicken Stift zuerst ganz groß und dann ganz klein. Wechselt dann den Stift und schreibt das Wort mit einem dünnen Stift erst ganz klein und dann ganz groß. Vergleicht die Ergebnisse miteinander: Wie schafft ihr es, dass alles immer lesbar ist und gut aussieht?  (5 Minuten)
 
-### **Icons (Woche 3)**
+## **Icons (Woche 3)**
 
 Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)
 
@@ -919,7 +919,7 @@ Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren fi
 
 *Variante 2: Aus den 5 Begriffen eine Mini-Geschichte machen*
 
-#### **Weniger Details bitte (Woche 4)**
+## **Weniger Details bitte (Woche 4)**
 
 Erinnert euch gemeinsam an euer Lieblings-Icon aus der letzten Woche. 
 
@@ -927,19 +927,19 @@ Variante 1: Alle zeichnen das Icon in 30 Sekunden, dann noch einmal in 15 Sekund
 
 Variante 2: Zeichnet das Icon einmal mit einem normalen Stift und dann mit einem viel dickereren Stift. Wie schafft ihr es, dass die Icons gut zu erkennen bleiben?
 
-#### **Container (Woche 5)**
+## **Container (Woche 5)**
 
 Zeichnet verschiedene Container und besprecht, wofür sie sich eignen. (Eine Wolke steht zum Beispiel eher für eine Idee als für ein Ergebnis/Beschluss)
 
-#### **Warm Up (Woche 6)**
+## **Warm Up (Woche 6)**
 
-#### **Draw Toast (Woche 7)**
+## **Draw Toast (Woche 7)**
 
 https://www.drawtoast.com/
 
-#### **Warm Up (Woche 8)**
+## **Warm Up (Woche 8)**
 
-#### **Visuelle Kommunikation macht den Unterschied (Woche 9)**
+## **Visuelle Kommunikation macht den Unterschied (Woche 9)**
 
 Schritt 1: einer zeichnet für sich einen Kreis, ein Dreieck und ein Viereck auf ein Blatt Papier.  Ohne den anderen das Bild zu zeigen erklärt er nun sein Bild. Die anderen zeichnen nach seiner Erklärung dass Bild nach. (In der ersten Runde sind keine Fragen erlaubt, Kommunikation nur in einer Richtung) Anschließend zeigen sich alle ihre Bilder
 
@@ -947,169 +947,174 @@ Schritt 2: wie Schritt 1, nur dürfen Verständnisfragen gestellt werden.
 
 Added from: Mike Meister @mm_mikemeister
 
-#### **Warm Up (Woche 10)**
+## **Warm Up (Woche 10)**
 
 fällt dir was ein? :-)
 
-#### **Warm Up (Woche 11)**
+## **Warm Up (Woche 11)**
 
-#### **Warm Up (Woche 12)**
+## **Warm Up (Woche 12)**
 
 # **Ressourcen**
 
 ## Videos
 
-Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en)
+**Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en)**
 
 Studies show that sketching and doodling improve our comprehension -- and our creative thinking. So why do we still feel embarrassed when we're caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She makes the case for unlocking your brain via pad and pen.
 
-Karen Bosch - [Sketchnote elements](https://www.youtube.com/watch?v=sH-sJXMQjro&feature=share)
+**Karen Bosch - [Sketchnote elements](https://www.youtube.com/watch?v=sH-sJXMQjro&feature=share)**
 
 Overview of the basic elements of a sketchnote
 
-Kate Hayward - [Draw like a child, see like a master](https://www.youtube.com/watch?v=ZA92l6KwuT4)
+**Kate Hayward - [Draw like a child, see like a master](https://www.youtube.com/watch?v=ZA92l6KwuT4)**
 
 Instructional designer Hayward explains ways in which seemingly simple drawing techniques can allow us to communicate more clearly by building a richer visual vocabulary of child-like images.
 
-Brandy Agerbeck - [The essential 8](https://www.youtube.com/watch?v=3sXsXveYQtc)
+**Brandy Agerbeck - [The essential 8](https://www.youtube.com/watch?v=3sXsXveYQtc)**
 
 The thought of drawing in front of people can be intimidating. Brandy Agerbeck breaks down drawing in the context of graphic facilitation into 8 essential components. Graphic recorders, facilitators, trainers, teachers, student, managers, visual thinkers of all stripes can use this video. It will help you focus on what's most important while helping people get their ideas out of their heads on onto paper. 
 
-Mike Rohde - [Sketchnote mini workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&feature=share)
+**Mike Rohde - [Sketchnote mini workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&feature=share)**
 
-Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays](https://www.youtube.com/watch?v=0O8PoYsxaT4
+**Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays](https://www.youtube.com/watch?v=0O8PoYsxaT4)**
 
-)Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
+Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
 
-Doug Neill - [Verbal to Visual youtube channel](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)
+**Doug Neill - [Verbal to Visual youtube channel](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)**
 
-Pavo und Rob - [Coffee talk rund um Sketchnotes, Lettering… youtube-Kanal](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)
+**Pavo und Rob - [Coffee talk rund um Sketchnotes, Lettering… youtube-Kanal](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)**
 
-Willemien Brand - [VISUAL THINKING](https://www.youtube.com/watch?v=pUelkBYu9jU)
+**Willemien Brand - [VISUAL THINKING](https://www.youtube.com/watch?v=pUelkBYu9jU)**
 
 Incorporating drawings in business communications
 
 Willemien presents a webinar where she explains the purpose of Visual Thinking in business settings. With a short (life drawing) business drawing workshop included.
 
-Onda - [Visual Thinking Crash Course!](https://www.youtube.com/watch?v=IdVBjZbqOSk)
+**Onda - [Visual Thinking Crash Course!](https://www.youtube.com/watch?v=IdVBjZbqOSk)**
 
 This event is part of a series of workshops carried out by Onda Politica in Europa and Latin America aiming to develop capacibilities in researchers that allow them to communicate their projects to a broader audience. 
 
-Scriberia - [What is visual thinking?](https://www.youtube.com/watch?v=rZikhQ5w5Ck)
+**Scriberia - [What is visual thinking?](https://www.youtube.com/watch?v=rZikhQ5w5Ck)**
 
 Everything we do at Scriberia is underpinned by the fundamental belief that pictures make thinking, working and communicating easier for everyone. We're visual thinkers, and we like to help other people discover the power of visual thinking too. Why? Well, we made this little animation to explain…
 
-Brandy Agerbeck - [what is visual thinking?](https://www.youtube.com/watch?v=Yr6DN20NHvs)
+**Brandy Agerbeck - [what is visual thinking?](https://www.youtube.com/watch?v=Yr6DN20NHvs)**
 
 What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
 
-Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c) 
+**Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c)**
 
 Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
 
 ## Bücher 
 
-Mike Rohde - The sketchnote handbook - The classic!
+**Mike Rohde - The sketchnote handbook** - The classic!
 
-Sunni Brown - The doodle revolution
+**Sunni Brown - The doodle revolution**
 
 Unlock the power to think differently
 
-Dan Roam - The back of the napkin
+**Dan Roam - The back of the napkin**
 
 Solving problems and selling ideas with pictures - very tactical!
 
-Dan Roam - Blah blah blah - What to do, when words don’t work
+**Dan Roam - Blah blah blah - What to do, when words don’t work**
 
-Tanja Wehr - Die Sketchnote-Starthilfe
+**Tanja Wehr - Die Sketchnote-Starthilfe**
 
 Über 200 Strich-für-Strich-Anleitungen und Schriften zum Nachzeichnen
 
-Tanja Wehr - Die Sketchnote-Starthilfe Neue Bilderwelten
+**Tanja Wehr - Die Sketchnote-Starthilfe Neue Bilderwelten**
 
 Umfangreicher Business- und Sketchnote-Bildwortschatz- Über 300 neue Bildvokabeln
 
-Maja Larsson - Alla kan rita symboler
+**Maja Larsson - Alla kan rita symboler**
 
 In swedish, but very lively and unique templates for stick figures
 
-Brandy Agerbeck - The idea shapers - The power of putting your thinking into your own hands
+**Brandy Agerbeck - The idea shapers - The power of putting your thinking into your own hands**
 
-Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen
+**Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen**
 
-Brandy Agerbeck - The graphic facilitator’s field guide How to use your listening, thinking & drawing skills to make meaning
+**Brandy Agerbeck - The graphic facilitator’s field guide**
 
-Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops (Robert Klanten, Anna Leena Schiller, Sven Ehmann)
+How to use your listening, thinking & drawing skills to make meaning
 
-Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization) A visual Journal - discover the patterns in your everyday life
+**Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops**
+
+**Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)**
+
+A visual Journal - discover the patterns in your everyday life
 
 ## Communities of practice, user groups
 
-Sketchnote Army Slack channel 
+(Sketchnote Army)[https://sketchnotearmy.com/] (Slack channel)[https://sketchnote-army.slack.com/join/shared_invite/enQtMzkwNDQ5MDk5NjM2LTkxNDk0ODAyMDEzMDViNzM3Mzg4NWVjM2YxNTZlMjE3MmEzMTNkYTA0NzIzZmU2NzY3ZDBiMTc3MTNkMjljMTQ] 
 
-Sketchnotes Germany auf XING und facebook
+Sketchnotes Germany auf (XING)[https://www.xing.com/communities/groups/sketchnotes-germany-1094723] und (Facebook)[https://www.facebook.com/groups/sketchnotesgermany/]
 
 ## Inspiring people / newsletters / social media accounts
 
-Malte von Tiesenhausen [Instagram](https://www.instagram.com/malte_von_tiesenhausen/)
+Malte von Tiesenhausen - [Instagram](https://www.instagram.com/malte_von_tiesenhausen/)
 
-Eva-Lotta Lamm ([Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3)) [Instagram
+Eva-Lotta Lamm - [Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3), [Instagram
 ](https://www.instagram.com/evalottchen/)
 
-Tanja Wehr - sketchnotelovers [Instagram](https://www.instagram.com/sketchnotelovers/)
+Tanja Wehr - [Instagram](https://www.instagram.com/sketchnotelovers/)
 
-Austin Kleon ([Newsletter](https://austinkleon.com/newsletter/))
+Austin Kleon - ([Newsletter](https://austinkleon.com/newsletter/))
+
 Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Mo - Fr um 9:30 Uhr (coffee talk mit Pavo und Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
 
-Nick Sousanis [Twitter](https://twitter.com/Nsousanis)
+Nick Sousanis - [Twitter](https://twitter.com/Nsousanis)
 
-Marcel van Hove [Twitter](https://twitter.com/marcelvanhove)
+Marcel van Hove - [Twitter](https://twitter.com/marcelvanhove)
 
-Linda Saukka-Rauta [Twitter](https://twitter.com/saurau))
+Linda Saukka-Rauta - [Twitter](https://twitter.com/saurau))
 
-Sunni Brown [Twitter](https://twitter.com/SunniBrown)
+Sunni Brown - [Twitter](https://twitter.com/SunniBrown)
 
-Sandra Martin [Twitter](https://twitter.com/sam_HH)
+Sandra Martin - [Twitter](https://twitter.com/sam_HH)
 
-Ania Staskiewicz [Twitter](https://twitter.com/AniaStaskiewicz)
+Ania Staskiewicz - [Twitter](https://twitter.com/AniaStaskiewicz)
 
-Der kleine Wahnsinn [Twitter](https://twitter.com/kleinerW4hnsinn)
+Der kleine Wahnsinn - [Twitter](https://twitter.com/kleinerW4hnsinn)
 
-Karen Forkish [Twitter](https://twitter.com/kforkish)
+Karen Forkish - [Twitter](https://twitter.com/kforkish)
 
-Ben Crothers [Twitter](https://twitter.com/bencrothers)
+Ben Crothers - [Twitter](https://twitter.com/bencrothers)
 
-Holger Nils Pohl [Twitter](https://twitter.com/HolgerNilsPohl)
+Holger Nils Pohl - [Twitter](https://twitter.com/HolgerNilsPohl)
 
-Marianne Rady [Twitter](https://twitter.com/MarianneRady)
+Marianne Rady - [Twitter](https://twitter.com/MarianneRady)
 
-Brandy Agerbeck [Twitter](https://twitter.com/loosetooth)
+Brandy Agerbeck - [Twitter](https://twitter.com/loosetooth)
 
-Gary Lau [Twitter](https://twitter.com/PastorGaryLau)
+Gary Lau - [Twitter](https://twitter.com/PastorGaryLau)
 
-Dr. Makayla Miranda Lewis [Twitter](https://twitter.com/maccymacx)
+Dr. Makayla Miranda Lewis - [Twitter](https://twitter.com/maccymacx)
 
-Prof. Clayton [Twitter](https://twitter.com/ProfClayton)
+Prof. Clayton - [Twitter](https://twitter.com/ProfClayton)
 
-Diana Soriat [Twitter](https://twitter.com/DianaSoriat)
+Diana Soriat - [Twitter](https://twitter.com/DianaSoriat)
 
-Marc Bourguignon [Twitter](https://twitter.com/100978Marc)
+Marc Bourguignon - [Twitter](https://twitter.com/100978Marc)
 
-Doug Neill [Twitter](https://twitter.com/douglaspneill)
+Doug Neill - [Twitter](https://twitter.com/douglaspneill)
 
-Magalie Le Gall [Twitter](https://twitter.com/magalielegall)
+Magalie Le Gall - [Twitter](https://twitter.com/magalielegall)
 
-Nadine Roßa [Twitter](https://twitter.com/nadrosia)
+Nadine Roßa - [Twitter](https://twitter.com/nadrosia)
 
-Katharina Theis Bröhl [Twitter](https://twitter.com/theiskbt)
+Prof. Katharina Theis Bröhl - [Twitter](https://twitter.com/theiskbt)
 
-Rob Dimeo [Twitter](https://twitter.com/Rob_Dimeo)
+Rob Dimeo - [Twitter](https://twitter.com/Rob_Dimeo)
 
-Mauro Tosselli [Twitter](https://twitter.com/xLontrax)
+Mauro Tosselli - [Twitter](https://twitter.com/xLontrax)
 
-Sketchnote Army [Twitter](https://twitter.com/SketchnoteArmy)
+Sketchnote Army - [Twitter](https://twitter.com/SketchnoteArmy)
 
-Katharina Blum [Twitter](https://twitter.com/kuestenkonfetti)
+Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 
 
 ## Keep Calm & Learn On! :-)

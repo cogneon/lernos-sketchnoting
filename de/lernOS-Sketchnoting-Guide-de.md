@@ -1,6 +1,13 @@
 # **Vorwort**
 
-Wird als letztes geschrieben :-)
+Das Verb "lernos" ist die Zukunftsform von "lernen" auf Esperanto (mi lernos = ich werde lernen, ni lernos = wir werden lernen). lernOS ist ein Betriebssystem für Lebenslanges Lernen und Lernende Organisationen. lernOS ist aber keine Software, sondern "Brainware". Es ist eine Art zu Denken und zu Handeln, um als Einzelperson, Team oder Organisation im 21. Jahrhundert erfolgreich zu sein. Das groß geschriebene "OS" im Namen unterstreicht die Bedeutung der Digitalisierung für unsere vernetzte Wissensgesellschaft.
+
+Zu lernOS gibt es drei grundlegende Leitfäden beschrieben, die den Ansatz auf individueller Ebene (lernOS für Dich), auf Ebene von Teams (lernOS für Teams) und auf Ebene von Organisationen (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die lernOS Toolbox, die oft genutzte Methoden und Werkzeuge erklären (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der offenen Lizenz Creative Commons Attribution (CC BY) auf der lernOS Webseite verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
+
+Wenn du weitere Fragen bezüglich lernOS hast, oder Unterstützung von Gleichgesinnten brauchst, kannst du die Community-Plattform CONNECT nutzen oder mit #lernOS auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. 
+
+Also: Keep Calm & Sketch On!
+
 
 # **Danksagung**
 
@@ -46,7 +53,7 @@ c) Ressourcen zum Weiterlernen, Vernetzen und Inspirieren lassen
 
 Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 3 dabei helfen den Einstieg zu schaffen.
 
-# **Sketchnote-Grundlagen**
+# **Grundlagen**
 
 Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die Basics des Sketchnotens eingehen.
 
@@ -996,6 +1003,24 @@ Spielt eine Runde Mensch-O-Mat oder generiert selbst die Zutaten für skurrile F
 
 Weitere Informationen:
 Der (Mensch-O-Mat)[https://www.ein-bild.com/menschomat] von Sandra Martin @SamHH generiert die „Zutaten“ als Zufallsrezept.
+
+
+## Weitere Warm-Ups zur Auswahl
+Äpfel
+Zeichnet so viele Begriffe wie möglich, die das Wort „Apfel“ enthalten.
+Oder einigt Euch auf einen anderen Begriff.
+Weitere Infos:
+In Anlehnung an https://www.tbd.community/de/a/3-kreativitaetsuebung-team
+
+
+Story Cubes
+Wenn jemand von Euch die Storycubes hat, nutzt diese, um eine kurze visuelle Geschichte zu erzählen.
+Alternativ könnt Ihr den Zufallswortgenerator für mehrere Wörter oder den für einzelne Wörter (Substantive) nutzen!
+Oder die App “Inspire me” , ein Wortgenerator, bei dem auch eigene Wortlisten angelegt werden können. (Nur für Apple-Geräte).
+
+Kreise
+Welche Bildsymbole fallen Euch ein, die den Kreis als Grundform enthalten? Zeichnet diese und vergleicht Eure Ergebnisse!
+Nutzt gerne die A4 Vorlage PDF mit 15 Kreisen im Anhang.
 
 \newpage
 

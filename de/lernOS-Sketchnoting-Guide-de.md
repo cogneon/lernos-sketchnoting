@@ -30,8 +30,6 @@ Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lern
 
 ![LernOS in a nutshell by Karl Damke CC-BY](sketchnotes/lernos_in_a_nutshell.png)
 
-**lernOS in a nutshell by Karl Damke CC-BY**
-
 Wenn du mehr wissen willst, kannst alles über lernOS [hier nachlesen,](https://cogneon.github.io/lernos-core/) dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints ;)  
 
 **Warum ein Sketchnote Lernpfad?**
@@ -58,9 +56,7 @@ Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die B
 
 *"Sketchnotes ist Rumkritzeln während du dir Notizen machst"* *- Kevin Thorn,* [*Nuggethead*](http://nuggethead.net/2013/01/what-are-sketch-notes/)
 
-![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png)
-
-**What are Sketchnotes - by @Bartschat Lars, CC BY 4.0**
+![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png){#mid .center height=400}
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
@@ -68,9 +64,7 @@ Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual 
 
 Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.
 
-![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png)
-
-**Scientific Sketchnotes by @BartschatLars, CC BY 4.0**
+![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=300}
 
 ## Was kann ich denn Sketchnoten?
 
@@ -159,35 +153,35 @@ Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleic
 
 *„*[*Sketch it – Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*„ von*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, Lizenz:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
-![Sketchnotes Bubbles](sketchnotes/bubbles.png)
-
 ### Container
 
 Ein Container strukturiert eine Sketchnote, indem er anderen Elementen einen Rahmen bietet.
 
-![Sketchnotes Separators](sketchnotes/separators.png)
+![](sketchnotes/bubbles.png){#small .left height=200 align=left}
 
 ### Trenner
 
 Der Trenner ist der Gegenspieler zum Verbinder, er sorgt dafür, dass die Elemente einer Sketchnote klar voneinander separiert sind und schafft so Ordnung und Klarheit.
 
-![Sketchnotes Text](sketchnotes\text.png)
+![](sketchnotes/separators.png){#small .right height=200 align=right}
 
 ### Text
 
 Deine Sketchnote besteht aus Text und grafischen Elementen, wobei auch die Texte unterschiedlichste Formen und Farben annehmen können.
 
-![Sketchnote Visual Alphabet](sketchnotes/visual_alphabet.png)
+![](sketchnotes/text.png){#small .left height=200 float=left}
 
 ### Symbole und Icons
 
 Symbole und Icons kannst du auf unterschiedliche Art und Weise beim Sketchnoten einsetzen. Du kannst dir z. B. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.
 
-![Sketchnote Connectors](sketchnotes/connectors.png)
+![](sketchnotes/visual_alphabet.png){#small .right height=200 float=right}
 
 ### Verbinder und Pfeile
 
 Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, z. B. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen.
+
+![](sketchnotes/connectors.png){#small .left height=200 float=left}
 
 ### Diagramme
 
@@ -231,15 +225,11 @@ Wie ist dieser Lernpfad aufgebaut?
 
 Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine individuellen Ziele im Laufe der zwölf Wochen Thema im Circle sind. Dann schauen wir uns an, nach welchem System die Katas aufgebaut sind.
 
-![Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png)
-
-**Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY**
+![Sketchnote Learing Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
 
 Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt und dazu ein großartiges [Buch geschrieben](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html). Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. Im Anhang findest du dazu vier Seiten aus Mauros Buch dazu, die unter CC BY ND SA genutzt werden können.
 
-![Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png)
-
-**Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY**
+![Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
 ## Circle Organisatoren Checkliste
 
@@ -607,7 +597,7 @@ freies Programm
 
 Check out (1 Minute pro Member)
 
-
+\newpage
 
 # **Kata-Log**
 
@@ -617,9 +607,7 @@ Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über
 
 Beispiel eines Sketchnote-Selfies beim Start eines LernOS Circle zum Thema "SketchnoteOutLoud":
 
-![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png)
-
-**Sketchnote-Selfie by @ben1kk CC-BY**
+![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=400}}
 
 ## Kata 2: Circle Setup 
 
@@ -634,9 +622,7 @@ Definiert einen Circle-Moderator, der sich um Event- und Zeitmanagement kümmert
 
 ## Kata 3: Feedback !
 
-![Feedback by @DenkFlowRR CC-BY](sketchnotes/feedback.png)
-
-**Feedback by @DenkFlowRR CC-BY**
+![Feedback by @DenkFlowRR CC-BY](sketchnotes/feedback.png){#mid .center height=400}
 
 Eine ganz wichtige Funktion des Circles ist es, Feedback zu deinen Zielen und zu deinen Sketchnotes zu bekommen und den anderen Feedback zu geben. Damit ihr euch dabei besser versteht, nehmt euch kurz Zeit über eure Vorstellung von konstruktivem Feedback zu sprechen. Dazu gehört auch die Frage „Warum visualisierst du? und der Grundsatz „Vergleich dich mit dir selbst“. 
 
@@ -742,9 +728,7 @@ Gibt es Unterschiede in der Wahrnehmung?
 
 Video Brandy Agerbeck: [The color spectrum](https://www.youtube.com/watch?v=s5h0wOtEWcg) 
 
-![Farbkreis by @DenkFlowRR CC-BY](sketchnotes/farbkreis.png)
-
-**Farbkreis by @DenkFlowRR CC-BY**
+![Farbkreis by @DenkFlowRR CC-BY](sketchnotes/farbkreis.png){#mid .center height=300}
 
 ## Kata 11: #NieGenugStifte    
 
@@ -782,9 +766,7 @@ Trainier deine Container!
 
 ….
 
-![Layout Inspiration by @DenkFlowRR CC-BY](sketchnotes\layout_inspiration.png)
-
-**Layout Inspiration by @DenkFlowRR CC-BY**
+![Layout Inspiration by @DenkFlowRR CC-BY](sketchnotes\layout_inspiration.png){#mid .center height=300}
 
 ## Kata 14: Videosketching
 
@@ -1011,6 +993,8 @@ Spielt eine Runde Mensch-O-Mat oder generiert selbst die Zutaten für skurrile F
 Weitere Informationen:
 Der (Mensch-O-Mat)[https://www.ein-bild.com/menschomat] von Sandra Martin @SamHH generiert die „Zutaten“ als Zufallsrezept.
 
+\newpage
+
 
 # **Ressourcen**
 
@@ -1168,7 +1152,11 @@ Sketchnote Army - [Twitter](https://twitter.com/SketchnoteArmy)
 
 Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 
+
+
 **Keep Calm & Learn On! :-)**
+
+\newpage
 
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |

@@ -52,7 +52,7 @@ Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten 
 
 Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die Basics des Sketchnotens eingehen.
 
-## **Was sind Sketchnotes ?**
+## Was sind Sketchnotes ?
 
 *"Sketchnotes sind visuelle Notizen, die aus einer Mischung aus Handschrift, Zeichnungen, handgezeichneter Typografie, Formen und grafischen Elementen wie Pfeilen, Kästen & Linien bestehen."*, *- Mike Rohde, Autor des* [*Sketchnote Handbuchs*](http://rohdesign.com/) *und "Erfinder" des Begriffs Sketchnote*
 
@@ -72,7 +72,7 @@ Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im 
 
 **Scientific Sketchnotes by @BartschatLars, CC BY 4.0**
 
-## **Was kann ich denn Sketchnoten?**
+## Was kann ich denn Sketchnoten?
 
 Du kannst pratisch alles Sketchnoten. Hier nur ein paar Beispiele:
 
@@ -101,11 +101,11 @@ Du kannst mit Sketchnotes also:
 - Partizipation und Verständnis schaffen
 - Barrieren abbauen
 
-## **Was brauche ich zum Sketchnoting?**
+## Was brauche ich zum Sketchnoting?
 
 Das klingt ja alles ganz nett, aber was brauche ich denn um mit dem Sketchnoten anfangen zu können? Ist das nicht alles total kompliziert? Zum Glück nicht! Das einzige was du tatsächlich brauchst, sind ein Stift und eine Unterlage auf der du Sketchnoten kannst, das kann ein Block, ein Notizbuch oder auch eine Serviette sein. Natürlich kannst du heute auch digital auf deinem Tablet Sketchnoten.
 
-### **Sketchnotes mit Stift und Papier**
+### Sketchnotes mit Stift und Papier
 
 Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Notizen, du kannst sie jederzeit und überall anfertigen, solange du etwas Papier und einen Stift hast. Dieses "analoge" Vorgehen hat viele Vorteile. Einige sind sehr subjektiv, am besten du bildest dir deine eigene Meinung:
 
@@ -129,11 +129,11 @@ Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papie
 
 Auch wenn dir viele Webseiten etwas anderes erzählen, du brauchst weder spezielles Papier oder besonders teure Notizbücher, noch sind teure Stifte notwendig. Für den Anfang nimmst du einfach ein Blatt Papier aus dem Drucker und den erstbesten Stift, der auf deinem Schreibtisch liegt.
 
-#### **Papier- und Stift-Empfehlungen**
+#### Papier- und Stift-Empfehlungen
 
 Eine umfangreiche Liste findest du auf der Website von [Sketchnote Hangouts](https://sketchnotehangout.com/resources/).
 
-### **Sketchnotes Digital**
+### Sketchnotes Digital
 
 Mittlerweile kannst du auch super digital sketchnoten. Dafür empfiehlt sich in der Regel ein Tabletcomputer, die meisten Smartphones sind noch zu klein. (Ein Samsung Galaxy Note könnte aber schon reichen, wie es Opels Art[ hier](https://www.youtube.com/watch?v=Lai-GBlRq9Y) zeigt...) Etwas komfortabler sind die meisten Tablets, wie z. B. das Apple iPad (Pro), das Samsung Galaxy Tab oder die Microsoft Surface Reihe.
 
@@ -153,7 +153,7 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 - Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest
 - Unbegrenzter Platz zum Zeichnen kann auch überfordern und du willst jeden noch so kleinen Punkt noch mit in deine Sketchnote einbauen. Manchmal ist weniger einfach mehr...
 
-## **Sketchnote Elemente**
+## Sketchnote Elemente
 
 Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleichen Elemente. Wenn du diese grundlegend trainieren willst, oder mal wieder etwas Inspiration und Abwechslung brauchst, empfehlen wir dir “Sketch it - Das Kartenspiel” von Wibke Tiedmann und Stefanie Maurer, das du [hier herunterladen kannst](https://sketchnotegame.wordpress.com/download-kartenspiel/) und unter CC BY SA 4.0 verwenden darfst.  Alle folgenden Beispiele zu den Sketchnote Elementen stammen aus diesem Spiel.
 
@@ -161,45 +161,45 @@ Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleic
 
 ![Sketchnotes Bubbles](sketchnotes/bubbles.png)
 
-### **Container**
+### Container
 
 Ein Container strukturiert eine Sketchnote, indem er anderen Elementen einen Rahmen bietet.
 
 ![Sketchnotes Separators](sketchnotes/separators.png)
 
-### **Trenner**
+### Trenner
 
 Der Trenner ist der Gegenspieler zum Verbinder, er sorgt dafür, dass die Elemente einer Sketchnote klar voneinander separiert sind und schafft so Ordnung und Klarheit.
 
 ![Sketchnotes Text](sketchnotes\text.png)
 
-### **Text**
+### Text
 
 Deine Sketchnote besteht aus Text und grafischen Elementen, wobei auch die Texte unterschiedlichste Formen und Farben annehmen können.
 
 ![Sketchnote Visual Alphabet](sketchnotes/visual_alphabet.png)
 
-### **Symbole und Icons**
+### Symbole und Icons
 
 Symbole und Icons kannst du auf unterschiedliche Art und Weise beim Sketchnoten einsetzen. Du kannst dir z. B. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.
 
 ![Sketchnote Connectors](sketchnotes/connectors.png)
 
-### **Verbinder und Pfeile**
+### Verbinder und Pfeile
 
 Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, z. B. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen.
 
-### **Diagramme**
+### Diagramme
 
 Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sind Programme wie Excel ein wenig "zu viel". Mit ein wenig Übung kannst du aus Elementen, wie Balken, Linien und Kreisen einfache, aber sehr wirkungsvolle Diagramme erschaffen. Ein sehr beeindruckendes Beispiel für analoge Datenvisualisierung ist das Projekt "[Dear Data](http://www.dear-data.com/theproject)" von Giorgia Lupi und Stefanie Posavec, die sich über ein Jahr gegenseitig Postkarten mit handgezeichneten Visualisierungen geschickt haben.
 
-### **Zeichnungen**
+### Zeichnungen
 
 ...
 
 **Sketchnote Workflows**
 
-### **"One and Done" und iteratives Sketchnoten**
+### "One and Done" und iteratives Sketchnoten
 
 Ein "One and Done"-Sketchnoter erstellt seine Sketchnote zum Beispiel bei einem Talk auf einer Konferenz oder während eines Meetings. "One and Done" bedeutet, dass er mit der Sketchnote fertig ist, sobald das Ereignis beendet ist. Vielleicht wird am Schluss nochmal das ein oder andere kleine Detail korrigiert oder ergänzt, aber "One and Done" ist quasi "Live".
 
@@ -223,7 +223,7 @@ Welcher Workflow der richtige ist? Das hängt von vielen Dingen ab:
 
 Hier gibt es kein Richtig oder Falsch, Sketchnote wie du es brauchst!
 
-# **Der Sketchnote Lernpfad**
+# Der Sketchnote Lernpfad
 
 Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger als auch für Fortgeschrittene geeignet sind. Nehmt euch vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen.
 
@@ -241,7 +241,7 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 **Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY**
 
-## **Circle Organisatoren Checkliste**
+## Circle Organisatoren Checkliste
 
 **#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
@@ -251,7 +251,7 @@ Die hier aufgeführten Katas sind Vorschläge. Betrachtet sie durch Eure eigene 
 
 Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.
 
-### Woche 0: Den Sprint planen und Absprachen treffen
+## Woche 0: Den Sprint planen und Absprachen treffen
 
 Bevor es losgeht, investiert etwas Zeit um euch kennenzulernen und die Rahmenbedingungen für euren Sprint abzusprechen.
 
@@ -284,7 +284,7 @@ Kata 3: Feedback (10 Minuten)
 
 Check Out (1 Minute pro Member)
 
-### Woche 1: Ziele festlegen
+## Woche 1: Ziele festlegen
 
 In dieser Woche wählst du Dein Ziel für den Sprint. 
 
@@ -325,7 +325,7 @@ Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat 
 
 Check-Out (1 Minute pro Member)
 
-### Woche 2: Schrift & Lesbarkeit
+## Woche 2: Schrift & Lesbarkeit
 
 In Woche 2 geht es um das geschriebene Wort: Wie unterstützt es die Aussage deiner Sketchnote am besten und wie kommst du dahin.
 
@@ -360,7 +360,7 @@ Zeigt euch gegenseitig (eigene) Beispiele, die ihr besonders gelungen findet
 
 Check-Out (1 Minute pro Member)
 
-### Woche 3: Visuelles Vokabular
+## Woche 3: Visuelles Vokabular
 
 Jede Sprache besteht aus Einzelelementen: Entwickle die Bildelemente, welche deiner Sprache am meisten entsprechen und finde deinen Stil.
 
@@ -401,7 +401,7 @@ Austausch über die Kata(s) (40 Minuten)
 
 Check out (1 Minute pro Member)
 
-### Woche 4: Struktur durch Stifte und Farbe
+## Woche 4: Struktur durch Stifte und Farbe
 
 In dieser Woche entdeckst du die Welt der Farben und Strichstärken und wie du damit Akzente in deinen Sketchnotes setzen kannst.
 
@@ -433,7 +433,7 @@ Austausch über die Katas (25 Minuten)
 
 Check Out (1 Minute pro Member)
 
-### Woche 5: Struktur durch Layout
+## Woche 5: Struktur durch Layout
 
 Woche 5 steht ganz im Zeichen der Ordnung: Sortiere und gruppiere alle bisher verwendeten Elemente und füge sie zu einem stimmigen Layout zusammen.
 
@@ -453,7 +453,7 @@ Kata 14: Videosketching (40 min)
 
 Check Out (1 Minute pro Member)
 
-### Woche 6: Dein Zwischenstand
+## Woche 6: Dein Zwischenstand
 
 Boxenstopp: Reflektiere das Erreichte, stelle es deinen Zirkelmitgliedern vor und gebt euch gemeinsam Feedback. Macht euch fit für die zweite Hälfte des Zirkels.
 
@@ -471,7 +471,7 @@ Kata 15: Zwischenstand präsentieren (10 Minuten pro Member)
 
 Check out (1 Minute pro Member)
 
-### Woche 7: Verständlichkeit
+## Woche 7: Verständlichkeit
 
 Verstehst du mich? Diese Woche testest du, ob deine Sketchnotes die Aussagen transportieren, welche du beabsichtigt hast.
 
@@ -498,7 +498,7 @@ Austausch über die Kata
 
 Check out (1 Minute pro Member)
 
-### Woche 8: Sharing for Feedback
+## Woche 8: Sharing for Feedback
 
 Nachdem wir in Woche 7 uns gegenseitig Feedback gegeben haben, traust du dich nun in die Öffentlichkeit: Hol’ dir aktiv Feedback zu den Inhalten deiner Sketchnotes von Personen außerhalb des Zirkels ein.
 
@@ -529,7 +529,7 @@ Kata 18: Top5 Ressourcen (20 Minuten)
 
 Check out (1 Minute pro Member)
 
-### Woche 9:  Vertiefen des eigenen Projekts 
+## Woche 9:  Vertiefen des eigenen Projekts 
 
 Weichenstellung zum Endspurt: Entwickle dein eigenes Projekt weiter oder vertiefe das bisher Erlernte - nutze das Feedback, um dich selbst weiterzuentwickeln
 
@@ -553,7 +553,7 @@ Feedback zu euren Projekten, Austausch über Kata 19 & 20 und freie Wiederholung
 
 Check out (1 Minute pro Member)
 
-### Woche 10: Spass muss sein!
+## Woche 10: Spass muss sein!
 
 Oder auch: “Blamiere dich täglich” :-) - Probier’ dich am Improvisieren und der spontanen Darstellung deiner Assoziationen.
 
@@ -573,7 +573,7 @@ Kata 22: Montagsmaler (25 min)
 
 Check out (1 Minute pro Member)
 
-### Woche 11: Finale Produkte und Lessons Learned
+## Woche 11: Finale Produkte und Lessons Learned
 
 Man darf auch mal stolz sein: Zeig’ deinen Zirkelmitgliedern, was du geleistet und an Erkenntnissen (auch über dich) gewonnen hast.
 
@@ -589,7 +589,7 @@ Präsentationen (10 Minuten pro Member)
 
 Check out (1 Minute pro Member)
 
-### Woche 12: Reflexion und Abschluss
+## Woche 12: Reflexion und Abschluss
 
 Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es weiter? Hast du deine Passion gefunden? Ist nach dem Zirkel vor dem Zirkel? Und wann gehen wir eigentlich feiern?
 
@@ -914,7 +914,7 @@ Vorlage im Anhang: Spinnennetz und OKR Tracking Grafik
 
 # **Warm-Ups**
 
-## **Kringel-Vögel (Woche 0)**
+## Kringel-Vögel (Woche 0)
 
 Schritt 1: Kritzle auf einem Blatt Papier  innerhalb von einer Minute so viele Kringel wie möglich.
 
@@ -929,15 +929,15 @@ Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest 
 Video [Dave Gray - Squiggle birds
 ](https://www.youtube.com/watch?v=vK3yQBouzNs)Video [Hirameki - draw what you see](https://www.youtube.com/watch?v=IrLwkyWBB7w)
 
-## **Ziele (Woche 1)**
+## Ziele (Woche 1)
 
 Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander  Wie visualisiert ihr, dass die Ziele erreicht wurden? 
 
-## **Ganz groß und ganz klein (Woche 2)** 
+## Ganz groß und ganz klein (Woche 2) 
 
 Einigt euch auf ein Wort. Alle schreiben es mit einem dicken Stift zuerst ganz groß und dann ganz klein. Wechselt dann den Stift und schreibt das Wort mit einem dünnen Stift erst ganz klein und dann ganz groß. Vergleicht die Ergebnisse miteinander: Wie schafft ihr es, dass alles immer lesbar ist und gut aussieht?  (5 Minuten)
 
-## **Icons (Woche 3)**
+## Icons (Woche 3)
 
 Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)
 
@@ -945,7 +945,7 @@ Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren fi
 
 *Variante 2: Aus den 5 Begriffen eine Mini-Geschichte machen*
 
-## **Weniger Details bitte (Woche 4)**
+## Weniger Details bitte (Woche 4)
 
 Erinnert euch gemeinsam an euer Lieblings-Icon aus der letzten Woche. 
 
@@ -953,39 +953,31 @@ Variante 1: Alle zeichnen das Icon in 30 Sekunden, dann noch einmal in 15 Sekund
 
 Variante 2: Zeichnet das Icon einmal mit einem normalen Stift und dann mit einem viel dickereren Stift. Wie schafft ihr es, dass die Icons gut zu erkennen bleiben?
 
-## **Container (Woche 5)**
+## Container (Woche 5)
 
 Zeichnet verschiedene Container und besprecht, wofür sie sich eignen. (Eine Wolke steht zum Beispiel eher für eine Idee als für ein Ergebnis/Beschluss)
 
-## **Zeichne dein Gegenüber (Woche 6)**
+## Warm Up (Woche 6)
 
 Bildet Paare und zeichnet Euer Gegenüber (über die Webcam), ohne auf euer Blatt zu sehen, und fokussiert euch auf wesentliche Merkmale.
 Zeit: 30 Sekunden
 Variante 1: Ihr könnt den Stift abheben und neu ansetzen.
 Variante 2: Zeichnet, ohne den Stift vom Blatt zu heben – mit einer Linie!
 
-
-## **Draw Toast (Woche 7)**
+## Draw Toast (Woche 7)
 
 https://www.drawtoast.com/
 
-## **Ablauf (Woche 8)**
-
+## Ablauf (Woche 8)
 Sketcht den Ablauf der Morgenroutine vom aktuellen Morgen (bis zum Verlassen des Hauses) oder vom Weg zur Arbeit.
 
-Von Katrin Mäntele @derkleinewahnsinn
-
-
-## **Visuelle Kommunikation macht den Unterschied (Woche 9)**
+## Visuelle Kommunikation macht den Unterschied (Woche 9)
 
 Schritt 1: einer zeichnet für sich einen Kreis, ein Dreieck und ein Viereck auf ein Blatt Papier.  Ohne den anderen das Bild zu zeigen erklärt er nun sein Bild. Die anderen zeichnen nach seiner Erklärung dass Bild nach. (In der ersten Runde sind keine Fragen erlaubt, Kommunikation nur in einer Richtung) Anschließend zeigen sich alle ihre Bilder
 
 Schritt 2: wie Schritt 1, nur dürfen Verständnisfragen gestellt werden.
 
-Added from: Mike Meister @mm_mikemeister
-
-
-## **Figuren in Aktion (Woche 10)**
+## Figuren in Aktion (Woche 10)
 
 Zeichnet verschiedene Figuren-Typen und zeigt sie einander.
 
@@ -997,9 +989,9 @@ Weitere Informationen:
 Von Katrin Mäntele @derkleinewahnsinn
 
 
-## **Warm Up (Woche 11)**
+## Warm Up (Woche 11)
 
-## **Emotionen (Woche 11)**
+## Emotionen (Woche 11)
 
 Weiter geht es mit den Figuren – auch Emotionen lassen sich mit ihnen darstellen!
 
@@ -1010,7 +1002,7 @@ Weiter geht es mit den Figuren – auch Emotionen lassen sich mit ihnen darstell
 Weitere Informationen:
 (Sketchnote-Game Kapitel Figuren)[https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf]
 
-## **Besondere Merkmale (Woche 12)**
+## Besondere Merkmale (Woche 12)
 
 Sammelt verschiedene Augen, Nasen, Frisuren, Brillen, Bärte... und weitere Merkmale (Kleidung, Accessoires). Teilt und vergleicht Eure Sammlungen miteinander.
 
@@ -1089,7 +1081,7 @@ Unlock the power to think differently
 
 **Dan Roam - The back of the napkin/Auf der Serviette erklärt** - Mit ein paar Strichen schnell überzeugen statt lange präsentieren. Probleme lösen und Ideen verkaufen mit Bildern - sehr taktisch! (Englisch/Deutsch)
 
-**Dan Roam - Blah blah blah - What to do, when words don’t work** - Spennende Geschichten mit Illustrationen erzählen. (Englisch/Deutsch).
+**Dan Roam - Blah blah blah - What to do, when words don’t work** - Spannende Geschichten mit Illustrationen erzählen. (Englisch/Deutsch).
 
 **Tanja Wehr - Die Sketchnote-Starthilfe** - Über 200 Strich-für-Strich-Anleitungen und Schriften zum Nachzeichnen (Deutsch)
 
@@ -1176,8 +1168,7 @@ Sketchnote Army - [Twitter](https://twitter.com/SketchnoteArmy)
 
 Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 
-
-## Keep Calm & Learn On! :-)
+**Keep Calm & Learn On! :-)**
 
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |

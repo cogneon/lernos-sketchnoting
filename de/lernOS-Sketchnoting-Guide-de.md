@@ -155,7 +155,7 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 
 ## **Sketchnote Elemente**
 
-Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleichen Elemente. Wenn du diese grundlegend trainieren willst, oder mal wieder etwas Inspiration und Abwechslung brauchst, empfehlen wir dir “Sketch it - Das Kartenspiel” von Wibke Tiedmann und Stefanie Maurer, dass du [hier herunterladen kannst](https://sketchnotegame.wordpress.com/download-kartenspiel/) und unter CC BY SA 4.0 verwenden darfst.  Alle folgenden Beispiele zu den Sketchnote Elementen stammen aus diesem Spiel.
+Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleichen Elemente. Wenn du diese grundlegend trainieren willst, oder mal wieder etwas Inspiration und Abwechslung brauchst, empfehlen wir dir “Sketch it - Das Kartenspiel” von Wibke Tiedmann und Stefanie Maurer, das du [hier herunterladen kannst](https://sketchnotegame.wordpress.com/download-kartenspiel/) und unter CC BY SA 4.0 verwenden darfst.  Alle folgenden Beispiele zu den Sketchnote Elementen stammen aus diesem Spiel.
 
 *„*[*Sketch it – Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*„ von*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, Lizenz:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
@@ -245,6 +245,10 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 **#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
+Ihr wählt Eure eigenen Schwerpunkte für den Sprint – was wollt Ihr neu lernen oder vertiefen? Wo steht Ihr? Was ist herausfordernd? Was ist jetzt gerade dran, wie geht es dann weiter – was wäre eher ein Schwerpunkt für einen weiteren Sprint? „Alles auf einmal und dann perfekt“ (und Überforderung / Frust) oder lieber doch „Practice makes progress“ (Brandy Agerbeck) – Übung macht Fortschritte (und Spaß)?
+
+Die hier aufgeführten Katas sind Vorschläge. Betrachtet sie durch Eure eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu Eurem Schwerpunkt? Oder wollt Ihr alle machen? Wenn Ihr selbst Ideen für Katas (oder Variationen) habt, die noch besser zu Eurem Schwerpunkt passen, nutzt diese!
+
 Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.
 
 ### Woche 0: Den Sprint planen und Absprachen treffen
@@ -323,6 +327,8 @@ Check-Out (1 Minute pro Member)
 
 ### Woche 2: Schrift & Lesbarkeit
 
+In Woche 2 geht es um das geschriebene Wort: Wie unterstützt es die Aussage deiner Sketchnote am besten und wie kommst du dahin.
+
 **Als Vorbereitung**
 
 Kata 6: Letter deinen Lieblingsspruch
@@ -355,6 +361,8 @@ Zeigt euch gegenseitig (eigene) Beispiele, die ihr besonders gelungen findet
 Check-Out (1 Minute pro Member)
 
 ### Woche 3: Visuelles Vokabular
+
+Jede Sprache besteht aus Einzelelementen: Entwickle die Bildelemente, welche deiner Sprache am meisten entsprechen und finde deinen Stil.
 
 **Als Vorbereitung**
 
@@ -395,6 +403,8 @@ Check out (1 Minute pro Member)
 
 ### Woche 4: Struktur durch Stifte und Farbe
 
+In dieser Woche entdeckst du die Welt der Farben und Strichstärken und wie du damit Akzente in deinen Sketchnotes setzen kannst.
+
 **Als Vorbereitung**
 
 Kata 10: Was bedeuten Farben für dich?
@@ -425,6 +435,8 @@ Check Out (1 Minute pro Member)
 
 ### Woche 5: Struktur durch Layout
 
+Woche 5 steht ganz im Zeichen der Ordnung: Sortiere und gruppiere alle bisher verwendeten Elemente und füge sie zu einem stimmigen Layout zusammen.
+
 **Als Vorbereitung**
 
 Kata 13: Layouts für Sketchnotes 
@@ -443,6 +455,8 @@ Check Out (1 Minute pro Member)
 
 ### Woche 6: Dein Zwischenstand
 
+Boxenstopp: Reflektiere das Erreichte, stelle es deinen Zirkelmitgliedern vor und gebt euch gemeinsam Feedback. Macht euch fit für die zweite Hälfte des Zirkels.
+
 **Als Vorbereitung**
 
 Bereite dich auf deine Präsentation im Weekly vor. 
@@ -458,6 +472,8 @@ Kata 15: Zwischenstand präsentieren (10 Minuten pro Member)
 Check out (1 Minute pro Member)
 
 ### Woche 7: Verständlichkeit
+
+Verstehst du mich? Diese Woche testest du, ob deine Sketchnotes die Aussagen transportieren, welche du beabsichtigt hast.
 
 **Als Vorbereitung**
 
@@ -482,7 +498,9 @@ Austausch über die Kata
 
 Check out (1 Minute pro Member)
 
-### Woche 8: Sharing for feedback
+### Woche 8: Sharing for Feedback
+
+Nachdem wir in Woche 7 uns gegenseitig Feedback gegeben haben, traust du dich nun in die Öffentlichkeit: Hol’ dir aktiv Feedback zu den Inhalten deiner Sketchnotes von Personen außerhalb des Zirkels ein.
 
 **Als Vorbereitung**
 
@@ -513,6 +531,8 @@ Check out (1 Minute pro Member)
 
 ### Woche 9:  Vertiefen des eigenen Projekts 
 
+Weichenstellung zum Endspurt: Entwickle dein eigenes Projekt weiter oder vertiefe das bisher Erlernte - nutze das Feedback, um dich selbst weiterzuentwickeln
+
 **Als Vorbereitung**
 
 Entscheidet euch, welche Schwerpunkte ihr setzen wollt: 
@@ -535,6 +555,8 @@ Check out (1 Minute pro Member)
 
 ### Woche 10: Spass muss sein!
 
+Oder auch: “Blamiere dich täglich” :-) - Probier’ dich am Improvisieren und der spontanen Darstellung deiner Assoziationen.
+
 **Als Vorbereitung**
 
 Überleg dir Begriffe für Kata 22: Montagsmaler 
@@ -553,6 +575,8 @@ Check out (1 Minute pro Member)
 
 ### Woche 11: Finale Produkte und Lessons Learned
 
+Man darf auch mal stolz sein: Zeig’ deinen Zirkelmitgliedern, was du geleistet und an Erkenntnissen (auch über dich) gewonnen hast.
+
 **Als Vorbereitung**
 
 Kata 23: Miss & zeig deinen Erfolg 
@@ -566,6 +590,8 @@ Präsentationen (10 Minuten pro Member)
 Check out (1 Minute pro Member)
 
 ### Woche 12: Reflexion und Abschluss
+
+Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es weiter? Hast du deine Passion gefunden? Ist nach dem Zirkel vor dem Zirkel? Und wann gehen wir eigentlich feiern?
 
 **Als Vorbereitung**
 
@@ -931,13 +957,24 @@ Variante 2: Zeichnet das Icon einmal mit einem normalen Stift und dann mit einem
 
 Zeichnet verschiedene Container und besprecht, wofür sie sich eignen. (Eine Wolke steht zum Beispiel eher für eine Idee als für ein Ergebnis/Beschluss)
 
-## **Warm Up (Woche 6)**
+## **Zeichne dein Gegenüber (Woche 6)**
+
+Bildet Paare und zeichnet Euer Gegenüber (über die Webcam), ohne auf euer Blatt zu sehen, und fokussiert euch auf wesentliche Merkmale.
+Zeit: 30 Sekunden
+Variante 1: Ihr könnt den Stift abheben und neu ansetzen.
+Variante 2: Zeichnet, ohne den Stift vom Blatt zu heben – mit einer Linie!
+
 
 ## **Draw Toast (Woche 7)**
 
 https://www.drawtoast.com/
 
-## **Warm Up (Woche 8)**
+## **Ablauf (Woche 8)**
+
+Sketcht den Ablauf der Morgenroutine vom aktuellen Morgen (bis zum Verlassen des Hauses) oder vom Weg zur Arbeit.
+
+Von Katrin Mäntele @derkleinewahnsinn
+
 
 ## **Visuelle Kommunikation macht den Unterschied (Woche 9)**
 
@@ -947,13 +984,41 @@ Schritt 2: wie Schritt 1, nur dürfen Verständnisfragen gestellt werden.
 
 Added from: Mike Meister @mm_mikemeister
 
-## **Warm Up (Woche 10)**
 
-fällt dir was ein? :-)
+## **Figuren in Aktion (Woche 10)**
+
+Zeichnet verschiedene Figuren-Typen und zeigt sie einander.
+
+Einigt Euch auf 5 Tätigkeiten und zeichnet Eure Figuren in Aktion. Vergleicht, wie ihr die Tätigkeiten dargestellt habt!
+
+Weitere Informationen:
+(Sketchnote-Game Kapitel Figuren)[https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf]
+
+Von Katrin Mäntele @derkleinewahnsinn
+
 
 ## **Warm Up (Woche 11)**
 
-## **Warm Up (Woche 12)**
+## **Emotionen (Woche 11)**
+
+Weiter geht es mit den Figuren – auch Emotionen lassen sich mit ihnen darstellen!
+
+*Variante 1*: Alle zeichnen verschiedene Emotionen und drücken sie durch Körperhaltung aus. Teilt Eure Ergebnisse und findet heraus, welche Emotion dargestellt wurde.
+
+*Variante 2*: Experimentiert mit dem Gesichtsgenerator aus dem Sketchnote-Spiel und stellt verschiedene Emotionen durch Gesichtsausdrücke dar!
+
+Weitere Informationen:
+(Sketchnote-Game Kapitel Figuren)[https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf]
+
+## **Besondere Merkmale (Woche 12)**
+
+Sammelt verschiedene Augen, Nasen, Frisuren, Brillen, Bärte... und weitere Merkmale (Kleidung, Accessoires). Teilt und vergleicht Eure Sammlungen miteinander.
+
+Spielt eine Runde Mensch-O-Mat oder generiert selbst die Zutaten für skurrile Figuren!
+
+Weitere Informationen:
+Der (Mensch-O-Mat)[https://www.ein-bild.com/menschomat] von Sandra Martin @SamHH generiert die „Zutaten“ als Zufallsrezept.
+
 
 # **Ressourcen**
 
@@ -961,47 +1026,54 @@ fällt dir was ein? :-)
 
 **Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en)**
 
-Studies show that sketching and doodling improve our comprehension -- and our creative thinking. So why do we still feel embarrassed when we're caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She makes the case for unlocking your brain via pad and pen.
+Studien zeigen, dass Sketchen und Zeichnen unser Verständnis verbessert – und unser kreatives Denken. Warum ist es uns immer noch peinlich, wenn wir in einem Meeting beim Doodeln ertappt werden? Sunni Brown sagt: Doodlers, vereinigt Euch! Sie tritt dafür ein, Dein Gehirn mit Papier und Stift zu befreien! (Englisch)
 
 **Karen Bosch - [Sketchnote elements](https://www.youtube.com/watch?v=sH-sJXMQjro&feature=share)**
 
-Overview of the basic elements of a sketchnote
+Überblick über die Basiselemente einer Sketchnote. (Englisch)
 
 **Kate Hayward - [Draw like a child, see like a master](https://www.youtube.com/watch?v=ZA92l6KwuT4)**
 
-Instructional designer Hayward explains ways in which seemingly simple drawing techniques can allow us to communicate more clearly by building a richer visual vocabulary of child-like images.
+Zeichne wie ein Kind, sehe wie ein Meister. 
+
+Hayward erklärt, wie scheinbar einfache Zeichentechniken uns erlauben können, klarer zu kommunizieren, indem wir ein umfangreiches visuelles Vokabular an einfachen, kindhaften Bildern aufbauen. (Englisch)
 
 **Brandy Agerbeck - [The essential 8](https://www.youtube.com/watch?v=3sXsXveYQtc)**
 
-The thought of drawing in front of people can be intimidating. Brandy Agerbeck breaks down drawing in the context of graphic facilitation into 8 essential components. Graphic recorders, facilitators, trainers, teachers, student, managers, visual thinkers of all stripes can use this video. It will help you focus on what's most important while helping people get their ideas out of their heads on onto paper. 
+Der Gedanke, vor anderen Menschen zu zeichnen, kann einschüchternd sein. Brandy Agerbeck bricht Zeichnen im Kontext von Graphic Facilitation (Moderation mit Visualisierung) in 8 wesentliche Komponenten. Alle visuell Praktizierenden können dieses Video nutzen. Es hilft Dir, Dich auf das Wesentliche zu fokussieren und die Ideen aus dem Kopf aufs Papier zu bringen. (Englisch)
 
 **Mike Rohde - [Sketchnote mini workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&feature=share)**
 
+Halbstündiger Sketchnote Workshop. (Englisch)
+
 **Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays](https://www.youtube.com/watch?v=0O8PoYsxaT4)**
 
-Designed with the Visual Practitioner in mind, I have taught Neuland Hand to graphic recorders and facilitators for years now. It's a great lettering style for charts titles and topics. 
+Neuland Hand 2.0 ist eine Handschrift, die für für Graphic Recorder und Moderatoren entwickelt wurde, die sich gut für Titel und Überschriften eignet. (Englisch)
 
 **Doug Neill - [Verbal to Visual youtube channel](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)**
+
+YouTube-Kanal von Doug Neill / „Verbal to Visual“ mit sehr vielen praktischen Tipps und Anleitungen rund um das Lernen und Anwenden von Sketchnotes. (Englisch)
 
 **Pavo und Rob - [Coffee talk rund um Sketchnotes, Lettering… youtube-Kanal](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)**
 
 **Willemien Brand - [VISUAL THINKING](https://www.youtube.com/watch?v=pUelkBYu9jU)**
 
-Incorporating drawings in business communications
+Visuelles Denken – integrieren von Visualisierungen in Business-Kommunikation
 
-Willemien presents a webinar where she explains the purpose of Visual Thinking in business settings. With a short (life drawing) business drawing workshop included.
+Willemien präsentiert ein Webinar, in dem sie den Sinn und Zweck visuellen Denkens im Business-Kontext erklärt. Enthält einen kurzen live Business-Zeichen-Workshop. (Englisch)
+
 
 **Onda - [Visual Thinking Crash Course!](https://www.youtube.com/watch?v=IdVBjZbqOSk)**
 
-This event is part of a series of workshops carried out by Onda Politica in Europa and Latin America aiming to develop capacibilities in researchers that allow them to communicate their projects to a broader audience. 
+Ein Crashkurs in visuellem Denken. (Englisch)
 
 **Scriberia - [What is visual thinking?](https://www.youtube.com/watch?v=rZikhQ5w5Ck)**
 
-Everything we do at Scriberia is underpinned by the fundamental belief that pictures make thinking, working and communicating easier for everyone. We're visual thinkers, and we like to help other people discover the power of visual thinking too. Why? Well, we made this little animation to explain…
+Was ist visuelles Denken? Ein kleiner Animatiosfilm. (Englisch)
 
 **Brandy Agerbeck - [what is visual thinking?](https://www.youtube.com/watch?v=Yr6DN20NHvs)**
 
-What is Visual Thinking? Not a how-to video, more of a why-care video. Watch to learn why drawing is such a fantastic thinking tool and why I focus on the THINKING in visual thinking. 
+Was ist visuelles Denken? Kein Anleitungsvideo, mehr ein „warum sollte ich?“-Video – warum Zeichnen so ein fantastisches Denkwerkzeug ist und warum Brandy sich auf das DENKEN in visuellem Denken fokussiert. (Englisch)
 
 **Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c)**
 
@@ -1009,43 +1081,31 @@ Why is it that so many people think they can’t draw? Where did we learn to bel
 
 ## Bücher 
 
-**Mike Rohde - The sketchnote handbook** - The classic!
+**Mike Rohde - The sketchnote handbook** - Der Klassiker! 
 
-**Sunni Brown - The doodle revolution**
+**Sunni Brown - The doodle revolution** - Entriegele die Kraft, anders zu denken – über das wie und warum von Doodles. (Englisch)
 
 Unlock the power to think differently
 
-**Dan Roam - The back of the napkin**
+**Dan Roam - The back of the napkin/Auf der Serviette erklärt** - Mit ein paar Strichen schnell überzeugen statt lange präsentieren. Probleme lösen und Ideen verkaufen mit Bildern - sehr taktisch! (Englisch/Deutsch)
 
-Solving problems and selling ideas with pictures - very tactical!
+**Dan Roam - Blah blah blah - What to do, when words don’t work** - Spennende Geschichten mit Illustrationen erzählen. (Englisch/Deutsch).
 
-**Dan Roam - Blah blah blah - What to do, when words don’t work**
+**Tanja Wehr - Die Sketchnote-Starthilfe** - Über 200 Strich-für-Strich-Anleitungen und Schriften zum Nachzeichnen (Deutsch)
 
-**Tanja Wehr - Die Sketchnote-Starthilfe**
+**Tanja Wehr - Die Sketchnote-Starthilfe Neue Bilderwelten** - Umfangreicher Business- und Sketchnote-Bildwortschatz- Über 300 neue Bildvokabeln (Deutsch)
 
-Über 200 Strich-für-Strich-Anleitungen und Schriften zum Nachzeichnen
+**Maja Larsson - Alla kan rita symboler** - Auf schwedisch, aber sehr lebendige und individuelle Vorlagen und Inspirationen für Figuren.
 
-**Tanja Wehr - Die Sketchnote-Starthilfe Neue Bilderwelten**
+**Brandy Agerbeck - The idea shapers - The power of putting your thinking into your own hands** - Von der Kraft, dein Denken in deine eigenen Hände zu legen. Ausführliches Grundlagenwerk zu Zeichnen als Denkwerkzeug. Sehr systematisch, mit 24 „idea shapers“ / Konzepten, Ideen visuell zu gestalten.(Englisch)
 
-Umfangreicher Business- und Sketchnote-Bildwortschatz- Über 300 neue Bildvokabeln
+**Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen** - Praktische Anleitungen und Tipps, durch Visualisierung die eigenen Ideen verständlicher und nachhaltiger zu vermitteln und als Ressourcen bei der Ideenfindung. (Deutsch)
 
-**Maja Larsson - Alla kan rita symboler**
+**Brandy Agerbeck - The graphic facilitator’s field guide/Der Wegweiser für den Graphic Facilitator** - Wie Sie mit Zuhören, Denken und Zeichnen Bedeutung schaffen. Bezieht sich auf Graphic Facilitatation, Graphic Recording, Visueller Moderation / dem Erstellen visueller Protokolle. (Englisch/Deutsch)
 
-In swedish, but very lively and unique templates for stick figures
+**Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
 
-**Brandy Agerbeck - The idea shapers - The power of putting your thinking into your own hands**
-
-**Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen**
-
-**Brandy Agerbeck - The graphic facilitator’s field guide**
-
-How to use your listening, thinking & drawing skills to make meaning
-
-**Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops**
-
-**Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)**
-
-A visual Journal - discover the patterns in your everyday life
+**Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)
 
 ## Communities of practice, user groups
 

@@ -1,4 +1,4 @@
-# **Vorwort**
+# Vorwort
 
 Das Verb "lernos" ist die Zukunftsform von "lernen" auf Esperanto (mi lernos = ich werde lernen, ni lernos = wir werden lernen). lernOS ist ein Betriebssystem für Lebenslanges Lernen und Lernende Organisationen. lernOS ist aber keine Software, sondern "Brainware". Es ist eine Art zu Denken und zu Handeln, um als Einzelperson, Team oder Organisation im 21. Jahrhundert erfolgreich zu sein. Das groß geschriebene "OS" im Namen unterstreicht die Bedeutung der Digitalisierung für unsere vernetzte Wissensgesellschaft.
 
@@ -9,7 +9,7 @@ Wenn du weitere Fragen bezüglich lernOS hast, oder Unterstützung von Gleichges
 Also: Keep Calm & Sketch On!
 
 
-# **Danksagung**
+# Danksagung
 
 Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke)
 
@@ -31,7 +31,7 @@ Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an:
 - Susanne Kitlinski
 - Wibke Tiedmann
 
-# **Einleitung**
+# Einleitung
 
 Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. lernOS ist eine Toolbox für lebenslanges Lernen, die Elemente aus Methoden wie Working Out Loud, Getting Things Done und Objective Key Results miteinander kombiniert. Dazu das Wichtigste in einer Sketchnote:
 
@@ -53,7 +53,7 @@ c) Ressourcen zum Weiterlernen, Vernetzen und Inspirieren lassen
 
 Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 3 dabei helfen den Einstieg zu schaffen.
 
-# **Grundlagen**
+# Grundlagen
 
 Keine Praxis ohne ein bisschen Therie. Im folgenden Kapitel werden wir auf die Basics des Sketchnotens eingehen.
 
@@ -238,7 +238,7 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 ![Sketchnote Learing Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
-## Circle Organisatoren Checkliste
+### Circle Organisatoren Checkliste
 
 **#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
@@ -602,7 +602,7 @@ Warm Up: längeres, interaktives Warm Up
 
 In dieser Woche gibt es kein klar definiertes Programm mit weiteren Übungen. Das Ergebnis eurer Arbeiten habt ihr schon in Woche 11 vorgestellt - jetzt ist die Zeit den Sprint gemeinsam ausklingen zu lassen.
 
-Sprecht über den Circle und eure Erfahrungen in den letzten Wochen. Was ihr gelernt habt und was der Lernpfad mit euch gemacht hat. Vielleicht habt ihr schon Ideen was ihr als nächstes vorhabt. Wenn nicht, lasst euch von den anderen inspirieren. Besprecht mit was ihr die Wochen nach dem Sprint ausfüllen wollt, denn es ist auf jeden Fall wichtig dran zu bleiben, damit sich die Skills und die positiven Gewohnheiten die ihr im Sprint aufgebaut habt weiter gefestigt werden. Wie wäre es mit einer neuen Iteration des Sketchnote Lernpfad mit neuen Zielen und neuem Fokus?
+Sprecht über den Circle und eure Erfahrungen in den letzten Wochen. Was ihr gelernt habt und was der Lernpfad mit euch gemacht hat. Vielleicht habt ihr schon Ideen was ihr als nächstes vorhabt. Wenn nicht, lasst euch von den anderen inspirieren. Besprecht mit was ihr die Wochen nach dem Sprint ausfüllen wollt, denn es ist auf jeden Fall wichtig dran zu bleiben, damit die Skills und die positiven Gewohnheiten die ihr im Sprint aufgebaut habt weiter gefestigt werden. Wie wäre es mit einer neuen Iteration des Sketchnote Lernpfad mit neuen Zielen und neuem Fokus?
 
 Ihr habt die letzen Wochen großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern. 
 
@@ -1006,19 +1006,18 @@ Der (Mensch-O-Mat)[https://www.ein-bild.com/menschomat] von Sandra Martin @SamHH
 
 
 ## Weitere Warm-Ups zur Auswahl
-Äpfel
+**Äpfel**
 Zeichnet so viele Begriffe wie möglich, die das Wort „Apfel“ enthalten.
 Oder einigt Euch auf einen anderen Begriff.
 Weitere Infos:
 In Anlehnung an https://www.tbd.community/de/a/3-kreativitaetsuebung-team
 
-
-Story Cubes
+**Story Cubes**
 Wenn jemand von Euch die Storycubes hat, nutzt diese, um eine kurze visuelle Geschichte zu erzählen.
 Alternativ könnt Ihr den Zufallswortgenerator für mehrere Wörter oder den für einzelne Wörter (Substantive) nutzen!
 Oder die App “Inspire me” , ein Wortgenerator, bei dem auch eigene Wortlisten angelegt werden können. (Nur für Apple-Geräte).
 
-Kreise
+**Kreise**
 Welche Bildsymbole fallen Euch ein, die den Kreis als Grundform enthalten? Zeichnet diese und vergleicht Eure Ergebnisse!
 Nutzt gerne die A4 Vorlage PDF mit 15 Kreisen im Anhang.
 
@@ -1127,6 +1126,8 @@ Eva-Lotta Lamm - [Newsletter](https://sketchnotesbook.us2.list-manage.com/subscr
 
 Tanja Wehr - [Instagram](https://www.instagram.com/sketchnotelovers/)
 
+Katja Reiter - [Instagram](https://www.instagram.com/katja.visualisiert/)
+
 Austin Kleon - ([Newsletter](https://austinkleon.com/newsletter/))
 
 Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Mo - Fr um 9:30 Uhr (coffee talk mit Pavo und Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
@@ -1135,7 +1136,7 @@ Nick Sousanis - [Twitter](https://twitter.com/Nsousanis)
 
 Marcel van Hove - [Twitter](https://twitter.com/marcelvanhove)
 
-Linda Saukka-Rauta - [Twitter](https://twitter.com/saurau))
+Linda Saukka-Rauta - [Twitter](https://twitter.com/saurau)
 
 Sunni Brown - [Twitter](https://twitter.com/SunniBrown)
 
@@ -1190,4 +1191,4 @@ Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
-| 0.1 | Benjamin Krüger | Initial Commit. Texte und Bilder sind eingefügt, Verlinkungen gerade gezogen. | 2019-06-10j |
+| 0.1 | Benjamin Krüger | Initial Commit. Texte und Bilder sind eingefügt, Verlinkungen gerade gezogen. | 2019-06-19 |

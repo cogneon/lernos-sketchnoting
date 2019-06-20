@@ -18,10 +18,11 @@ Geholfen haben dabei:
 - Natalia Zlateva (@nataliaoro auf instagram): Kata "Einkaufszettel"
 - Mike Meister (@mm_mikemeister auf Twitter): Warm Up "Kritzelvögel", Warm Up "Visuelle Kommunikation macht den Unterschied"
 - Sabine Erkens (@Sabine_Erkens auf Twitter): Kata "Bildersammlung", Kata "#Nie genug Stifte"
-- Katrin Mäntele (@kleinerw4hnsinn auf Twitter & Instagram): Kata "Feedback zum Inhalt", Warm Up "Ablauf"
+- Katrin Mäntele (@kleinerw4hnsinn auf Twitter & Instagram): Kata "Feedback zum Inhalt", Warm Ups "Ablauf" und "Figuren in Aktion"
 - Britta Ullrich (vizworks.de im Web & auf Instagram): Kata "Soulshine Selfie"
 - Conni Eybisch-Klimpel (@connieybisch auf Instagram): Kata "Reflexionen"
 - Susanne Speer: Kata "Montagsmaler"
+- Simon Dückert (@simondueckert auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
 
 Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
 - Anke Stettner
@@ -30,10 +31,11 @@ Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an:
 - Ralf Schramm
 - Susanne Kitlinski
 - Wibke Tiedmann
+- Tobias Leisgang
 
 # Einleitung
 
-Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. lernOS ist eine Toolbox für lebenslanges Lernen, die Elemente aus Methoden wie Working Out Loud, Getting Things Done und Objective Key Results miteinander kombiniert. Dazu das Wichtigste in einer Sketchnote:
+Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. Dazu das Wichtigste in einer Sketchnote:
 
 ![LernOS in a nutshell by Karl Damke CC-BY](sketchnotes/lernos_in_a_nutshell.png)
 
@@ -194,9 +196,6 @@ Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen
 
 Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sind Programme wie Excel ein wenig "zu viel". Mit ein wenig Übung kannst du aus Elementen, wie Balken, Linien und Kreisen einfache, aber sehr wirkungsvolle Diagramme erschaffen. Ein sehr beeindruckendes Beispiel für analoge Datenvisualisierung ist das Projekt "[Dear Data](http://www.dear-data.com/theproject)" von Giorgia Lupi und Stefanie Posavec, die sich über ein Jahr gegenseitig Postkarten mit handgezeichneten Visualisierungen geschickt haben.
 
-### Zeichnungen
-
-...
 
 **Sketchnote Workflows**
 
@@ -979,10 +978,6 @@ Einigt Euch auf 5 Tätigkeiten und zeichnet Eure Figuren in Aktion. Vergleicht, 
 Weitere Informationen:
 (Sketchnote-Game Kapitel Figuren)[https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf]
 
-Von Katrin Mäntele @derkleinewahnsinn
-
-
-## Warm Up (Woche 11)
 
 ## Emotionen (Woche 11)
 

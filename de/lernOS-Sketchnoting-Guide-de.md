@@ -166,31 +166,37 @@ Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleic
 
 Ein Container strukturiert eine Sketchnote, indem er anderen Elementen einen Rahmen bietet.
 
-![](sketchnotes/bubbles.png){#small .left height=200 align=left}
+![](sketchnotes/container.png){#small .left height=250 align=left}
 
 ### Trenner
 
 Der Trenner ist der Gegenspieler zum Verbinder, er sorgt dafür, dass die Elemente einer Sketchnote klar voneinander separiert sind und schafft so Ordnung und Klarheit.
 
-![](sketchnotes/separators.png){#small .right height=200 align=right}
+![](sketchnotes/separators.png){#small .right height=250 align=right}
 
 ### Text
 
 Deine Sketchnote besteht aus Text und grafischen Elementen, wobei auch die Texte unterschiedlichste Formen und Farben annehmen können.
 
-![](sketchnotes/text.png){#small .left height=200 float=left}
+![](sketchnotes/text.png){#small .left height=250 float=left}
 
 ### Symbole und Icons
 
 Symbole und Icons kannst du auf unterschiedliche Art und Weise beim Sketchnoten einsetzen. Du kannst dir z. B. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.
 
-![](sketchnotes/visual_alphabet.png){#small .right height=200 float=right}
+![](sketchnotes/visual_alphabet.png){#small .right height=250 float=right}
 
 ### Verbinder und Pfeile
 
 Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, z. B. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen.
 
-![](sketchnotes/connectors.png){#small .left height=200 float=left}
+![](sketchnotes/connectors.png){#small .left height=250 float=left}
+
+### Figuren
+
+Die Figuren sind die Akteure auf deinen Sketchnotes. Mit ihnen können Aktionen und Emotionen von einzelnen Personen aber auch von Teams oder Gruppen in verschiedenen Situationen dargestellt werden. Eventuell kann das Hinzufügen von Gesichtern oder Mimiken zum Darstellen von Emotionen hilfreich sein aber auch über die Körperhaltung drücken wir auch schon sehr viel unserer Gefühle und Regungen aus. Ob du den Figuren ein Gesicht gibst oder nicht hängt also fast gänzlich von deinem persönlichen Geschmack ab. 
+
+![](sketchnotes/figures.png){#small .left height=250 float=left}
 
 ### Diagramme
 

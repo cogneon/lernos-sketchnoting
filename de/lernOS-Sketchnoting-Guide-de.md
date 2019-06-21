@@ -205,6 +205,8 @@ Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sin
 
 **Sketchnote Workflows**
 
+![Sketchnotes Workflows by @BartschatLars, CC BY 4.0](sketchnotes/workflows.png){#mid .center height=300}
+
 ### "One and Done" und iteratives Sketchnoten
 
 Ein "One and Done"-Sketchnoter erstellt seine Sketchnote zum Beispiel bei einem Talk auf einer Konferenz oder während eines Meetings. "One and Done" bedeutet, dass er mit der Sketchnote fertig ist, sobald das Ereignis beendet ist. Vielleicht wird am Schluss nochmal das ein oder andere kleine Detail korrigiert oder ergänzt, aber "One and Done" ist quasi "Live".

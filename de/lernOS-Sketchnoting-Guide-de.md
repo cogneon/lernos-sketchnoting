@@ -73,7 +73,7 @@ Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual 
 
 Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.
 
-![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=300}
+![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=500}
 
 ## Was kann ich denn Sketchnoten?
 
@@ -1112,8 +1112,6 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 
 **Sunni Brown - The doodle revolution** - Unlock the power to think differently: Entriegele die Kraft, anders zu denken – über das wie und warum von Doodles. (Englisch)
 
-Unlock the power to think differently
-
 **Dan Roam - The back of the napkin/Auf der Serviette erklärt** - Mit ein paar Strichen schnell überzeugen statt lange präsentieren. Probleme lösen und Ideen verkaufen mit Bildern - sehr taktisch! (Englisch/Deutsch)
 
 **Dan Roam - Blah blah blah - What to do, when words don’t work** - Spannende Geschichten mit Illustrationen erzählen. (Englisch/Deutsch).
@@ -1134,7 +1132,7 @@ Unlock the power to think differently
 
 **Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)
 
-## Übungsgruppen
+## Communities
 
 (Sketchnote Army)[https://sketchnotearmy.com/] (Slack channel)[https://sketchnote-army.slack.com/join/shared_invite/enQtMzkwNDQ5MDk5NjM2LTkxNDk0ODAyMDEzMDViNzM3Mzg4NWVjM2YxNTZlMjE3MmEzMTNkYTA0NzIzZmU2NzY3ZDBiMTc3MTNkMjljMTQ] 
 
@@ -1205,10 +1203,6 @@ Sketchnote Army - [Twitter](https://twitter.com/SketchnoteArmy)
 
 Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 
-
-
-**Keep Calm & Learn On! :-)**
-
 # Stop talking, start doing!
 
 Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
@@ -1223,7 +1217,7 @@ Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, sol
 
     5. Plan, Do, Learn, Repeat: Nutzt das letzte Weekly in der Woche 12, um die Ergebnisse und die Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.
 
-Keep Calm & Learn On! :-)
+**Keep Calm & Sketch On!**
 
 \newpage
 

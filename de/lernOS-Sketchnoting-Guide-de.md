@@ -236,6 +236,8 @@ Hier gibt es kein Richtig oder Falsch, Sketchnote wie du es brauchst!
 
 Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger als auch für Fortgeschrittene geeignet sind. Nehmt euch vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen.
 
+
+
 Wie ist dieser Lernpfad aufgebaut?
 
 Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine individuellen Ziele im Laufe der zwölf Wochen Thema im Circle sind. Dann schauen wir uns an, nach welchem System die Katas aufgebaut sind.
@@ -246,7 +248,7 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 ![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
-### Circle Organisatoren Checkliste
+## Circle Organisatoren Checkliste
 
 **#ProTipp:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
@@ -255,6 +257,8 @@ Ihr wählt eure eigenen Schwerpunkte für den Sprint – was wollt Ihr neu lerne
 Die hier aufgeführten Katas sind Vorschläge. Betrachtet sie durch eure eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu eurem Schwerpunkt? Oder wollt ihr alle machen? Wenn ihr selbst Ideen für Katas (oder Variationen) habt, die noch besser zu eurem Schwerpunkt passen, nutzt diese!
 
 Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.
+
+![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.png){#small .center height=250}
 
 ## Woche 0: Den Sprint planen und Absprachen treffen
 

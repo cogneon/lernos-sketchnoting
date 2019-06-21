@@ -152,8 +152,9 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 - Mit einem leeren Akku guckst du echt in die Röhre.
 - Lass das Tablet lieber nicht fallen, weder in die Badewanne noch auf den Fußboden!
 - So ein Tablet mit einem Stylus (Stift) ist nicht wirklich günstig...
-- Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an.
-- Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest.
+- Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an. **#ProTipp:** Eine matte Displayschutzfolie erzeugt eine rauere Oberfläche. Viele DigiSketchnoter mögen dieses etwas papierähnlichere Schreibgefühl. 
+- Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest. 
+- Viele Optionen und Möglichkeiten können dich stark ablenken, genauso wie Benachrichtigungen über neue Mails, Twitter-DMs oder Insta-Likes...
 - Unbegrenzter Platz zum Zeichnen kann auch überfordern und du willst jeden noch so kleinen Punkt noch mit in deine Sketchnote einbauen. Manchmal ist weniger einfach mehr...
 
 ## Sketchnote Elemente
@@ -247,7 +248,7 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 ### Circle Organisatoren Checkliste
 
-**#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
+**#ProTipp:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
 Ihr wählt eure eigenen Schwerpunkte für den Sprint – was wollt Ihr neu lernen oder vertiefen? Wo steht ihr? Was ist herausfordernd? Was ist jetzt gerade dran, wie geht es dann weiter – was wäre eher ein Schwerpunkt für einen weiteren Sprint? „Alles auf einmal und dann perfekt“ (und Überforderung / Frust) oder lieber doch „practice makes progress“ (Brandy Agerbeck) – Übung macht Fortschritte (und Spaß)?
 

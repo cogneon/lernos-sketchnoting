@@ -73,7 +73,7 @@ Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual 
 
 Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.
 
-![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=300}
+![Scientific Sketchnotes by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=500}
 
 ## Was kann ich denn Sketchnoten?
 
@@ -152,8 +152,9 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 - Mit einem leeren Akku guckst du echt in die Röhre.
 - Lass das Tablet lieber nicht fallen, weder in die Badewanne noch auf den Fußboden!
 - So ein Tablet mit einem Stylus (Stift) ist nicht wirklich günstig...
-- Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an.
-- Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest.
+- Auf Glas schreiben und zeichnen fühlt sich, mindestens am Anfang, merkwürdig an. **#ProTipp:** Eine matte Displayschutzfolie erzeugt eine rauere Oberfläche. Viele DigiSketchnoter mögen dieses etwas papierähnlichere Schreibgefühl. 
+- Du musst deine App sehr gut kennen, wenn du flüssig Sketchnoten möchtest. 
+- Viele Optionen und Möglichkeiten können dich stark ablenken, genauso wie Benachrichtigungen über neue Mails, Twitter-DMs oder Insta-Likes...
 - Unbegrenzter Platz zum Zeichnen kann auch überfordern und du willst jeden noch so kleinen Punkt noch mit in deine Sketchnote einbauen. Manchmal ist weniger einfach mehr...
 
 ## Sketchnote Elemente
@@ -205,6 +206,8 @@ Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sin
 
 **Sketchnote Workflows**
 
+![Sketchnotes Workflows by @BartschatLars, CC BY 4.0](sketchnotes/workflows.png){#mid .center height=300}
+
 ### "One and Done" und iteratives Sketchnoten
 
 Ein "One and Done"-Sketchnoter erstellt seine Sketchnote zum Beispiel bei einem Talk auf einer Konferenz oder während eines Meetings. "One and Done" bedeutet, dass er mit der Sketchnote fertig ist, sobald das Ereignis beendet ist. Vielleicht wird am Schluss nochmal das ein oder andere kleine Detail korrigiert oder ergänzt, aber "One and Done" ist quasi "Live".
@@ -245,7 +248,7 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 ### Circle Organisatoren Checkliste
 
-**#ProTip:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
+**#ProTipp:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
 
 Ihr wählt eure eigenen Schwerpunkte für den Sprint – was wollt Ihr neu lernen oder vertiefen? Wo steht ihr? Was ist herausfordernd? Was ist jetzt gerade dran, wie geht es dann weiter – was wäre eher ein Schwerpunkt für einen weiteren Sprint? „Alles auf einmal und dann perfekt“ (und Überforderung / Frust) oder lieber doch „practice makes progress“ (Brandy Agerbeck) – Übung macht Fortschritte (und Spaß)?
 
@@ -484,7 +487,7 @@ Kata 16: Videosketching: Did you get it?
 
 Check in: (2 Minuten pro Member)
 
-Warm Up: Draw Toast 
+Warm Up: Draw Toast (5 Minuten)
 
 Austausch über die Kata
 
@@ -973,7 +976,18 @@ Variante 2: Zeichnet, ohne den Stift vom Blatt zu heben – mit einer Linie!
 
 ## Draw Toast (Woche 7)
 
-https://www.drawtoast.com/
+Die Übung "[Draw Toast](https://www.drawtoast.com/)" stammt von Tom Wujec, der sie als "Einführung in das Systemische Denken und Abgefahrenes Problem-Lösen" bezeichnet. Hier benutzt ihr sie als Warm Up für das heutige Weekly, deswegen ist sie etwas verkürzt. Der Ablauf ist einfach: 
+
+1. Legt euch Stift und Papier (digital geht natürlich auch) bereit. 
+
+2. Zeichnet ein Bild davon, wie man Toast macht - in 3 Minuten!
+
+3. Zeigt euch gegenseitig eure Ergbnisse, vielleicht stellt ihr euch folgende Fragen: 
+    - Welches Bild/welche Sketchnote ist simpel, welche komplex?
+    - Wo seht ihr Personen, wo nicht? 
+    - Welche Gemeinsamkeiten und Unterschiede entdeckt ihr? 
+
+Wenn euch "Draw Toast" gefällt, Tom hat es unter CC-BY-SA auf https://www.drawtoast.com/ veröffentlicht. Ihr könnt damit Meetings und Workshops eröffnen, wenn ihr den kompletten Ablauf durchgeht. Vielleicht könnt ihr so auch Neulinge vom Sketchnoten überzeugen...
 
 ## Ablauf (Woche 8)
 Sketcht den Ablauf der Morgenroutine vom aktuellen Morgen (bis zum Verlassen des Hauses) oder vom Weg zur Arbeit.
@@ -1091,15 +1105,13 @@ Was ist visuelles Denken? Kein Anleitungsvideo, mehr ein „warum sollte ich?“
 
 **Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c)**
 
-Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
+Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann haben wir diese Überzeugung entwickelt? Graham Shaw zerstört diese Illusion auf eine sehr pragmatische Art und Weise. Er demonstriert eindrücklich wie der einfache Akt des Zeichnens die Macht hat, einen positiven Wandel in unserer Welt zu bewirken!
 
 ## Bücher 
 
 **Mike Rohde - The sketchnote handbook** - Der Klassiker! 
 
 **Sunni Brown - The doodle revolution** - Unlock the power to think differently: Entriegele die Kraft, anders zu denken – über das wie und warum von Doodles. (Englisch)
-
-Unlock the power to think differently
 
 **Dan Roam - The back of the napkin/Auf der Serviette erklärt** - Mit ein paar Strichen schnell überzeugen statt lange präsentieren. Probleme lösen und Ideen verkaufen mit Bildern - sehr taktisch! (Englisch/Deutsch)
 
@@ -1121,7 +1133,7 @@ Unlock the power to think differently
 
 **Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)
 
-## Übungsgruppen
+## Communities
 
 (Sketchnote Army)[https://sketchnotearmy.com/] (Slack channel)[https://sketchnote-army.slack.com/join/shared_invite/enQtMzkwNDQ5MDk5NjM2LTkxNDk0ODAyMDEzMDViNzM3Mzg4NWVjM2YxNTZlMjE3MmEzMTNkYTA0NzIzZmU2NzY3ZDBiMTc3MTNkMjljMTQ] 
 
@@ -1192,9 +1204,21 @@ Sketchnote Army - [Twitter](https://twitter.com/SketchnoteArmy)
 
 Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 
+# Stop talking, start doing!
 
+Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
 
-**Keep Calm & Learn On! :-)**
+    1. Zeit einplanen: definiere das Quartal, in dem Du mit lernOS starten möchtest. Trage Dir die Zeiten für das Weekly in den Kalender ein. Dieser regelmäßige Termin ist besonders wichtig, wenn Du lernOS in einem Circle praktizierst.
+
+    2. Ziele und Schlüsselergebnisse definieren: nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
+
+    3. Einen Circle gründen: suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.
+
+    4. Organisiere das Weekly: wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.
+
+    5. Plan, Do, Learn, Repeat: Nutzt das letzte Weekly in der Woche 12, um die Ergebnisse und die Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.
+
+**Keep Calm & Sketch On!**
 
 \newpage
 

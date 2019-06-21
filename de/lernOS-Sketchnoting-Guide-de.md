@@ -484,7 +484,7 @@ Kata 16: Videosketching: Did you get it?
 
 Check in: (2 Minuten pro Member)
 
-Warm Up: Draw Toast 
+Warm Up: Draw Toast (5 Minuten)
 
 Austausch über die Kata
 
@@ -973,7 +973,18 @@ Variante 2: Zeichnet, ohne den Stift vom Blatt zu heben – mit einer Linie!
 
 ## Draw Toast (Woche 7)
 
-https://www.drawtoast.com/
+Die Übung "[Draw Toast](https://www.drawtoast.com/)" stammt von Tom Wujec, der sie als "Einführung in das Systemische Denken und Abgefahrenes Problem-Lösen" bezeichnet. Hier benutzt ihr sie als Warm Up für das heutige Weekly, deswegen ist sie etwas verkürzt. Der Ablauf ist einfach: 
+
+1. Legt euch Stift und Papier (digital geht natürlich auch) bereit. 
+
+2. Zeichnet ein Bild davon, wie man Toast macht - in 3 Minuten!
+
+3. Zeigt euch gegenseitig eure Ergbnisse, vielleicht stellt ihr euch folgende Fragen: 
+    - Welches Bild/welche Sketchnote ist simpel, welche komplex?
+    - Wo seht ihr Personen, wo nicht? 
+    - Welche Gemeinsamkeiten und Unterschiede entdeckt ihr? 
+
+Wenn euch "Draw Toast" gefällt, Tom hat es unter CC-BY-SA auf https://www.drawtoast.com/ veröffentlicht. Ihr könnt damit Meetings und Workshops eröffnen, wenn ihr den kompletten Ablauf durchgeht. Vielleicht könnt ihr so auch Neulinge vom Sketchnoten überzeugen...
 
 ## Ablauf (Woche 8)
 Sketcht den Ablauf der Morgenroutine vom aktuellen Morgen (bis zum Verlassen des Hauses) oder vom Weg zur Arbeit.
@@ -1091,7 +1102,7 @@ Was ist visuelles Denken? Kein Anleitungsvideo, mehr ein „warum sollte ich?“
 
 **Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c)**
 
-Why is it that so many people think they can’t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a very practical way. He’ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.
+Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann haben wir diese Überzeugung entwickelt? Graham Shaw zerstört diese Illusion auf eine sehr pragmatische Art und Weise. Er demonstriert eindrücklich wie der einfache Akt des Zeichnens die Macht hat, einen positiven Wandel in unserer Welt zu bewirken!
 
 ## Bücher 
 
@@ -1195,6 +1206,22 @@ Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
 
 
 **Keep Calm & Learn On! :-)**
+
+# Stop talking, start doing!
+
+Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach. Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
+
+    1. Zeit einplanen: definiere das Quartal, in dem Du mit lernOS starten möchtest. Trage Dir die Zeiten für das Weekly in den Kalender ein. Dieser regelmäßige Termin ist besonders wichtig, wenn Du lernOS in einem Circle praktizierst.
+
+    2. Ziele und Schlüsselergebnisse definieren: nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
+
+    3. Einen Circle gründen: suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.
+
+    4. Organisiere das Weekly: wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.
+
+    5. Plan, Do, Learn, Repeat: Nutzt das letzte Weekly in der Woche 12, um die Ergebnisse und die Zusammenarbeit im Kreis zu reflektieren. Entscheidet, ob Ihr einen weiteren Sprint gemeinsam durchlaufen wollt.
+
+Keep Calm & Learn On! :-)
 
 \newpage
 

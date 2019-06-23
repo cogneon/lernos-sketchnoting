@@ -232,11 +232,13 @@ Welcher Workflow der richtige ist? Das hängt von vielen Dingen ab:
 
 Hier gibt es kein Richtig oder Falsch, Sketchnote wie du es brauchst!
 
+\newpage
+
 # Der Sketchnote Lernpfad
 
+![The xLontrax theory of sketchnote by Mauro @xLontrax Toselli CC-BY](sketchnotes/tos_cheatsheet.png){#small .center height=500}
+
 Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger als auch für Fortgeschrittene geeignet sind. Nehmt euch vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen.
-
-
 
 Wie ist dieser Lernpfad aufgebaut?
 
@@ -254,11 +256,11 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 Ihr wählt eure eigenen Schwerpunkte für den Sprint – was wollt Ihr neu lernen oder vertiefen? Wo steht ihr? Was ist herausfordernd? Was ist jetzt gerade dran, wie geht es dann weiter – was wäre eher ein Schwerpunkt für einen weiteren Sprint? „Alles auf einmal und dann perfekt“ (und Überforderung / Frust) oder lieber doch „practice makes progress“ (Brandy Agerbeck) – Übung macht Fortschritte (und Spaß)?
 
+![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.png){#small .center height=500}
+
 Die hier aufgeführten Katas sind Vorschläge. Betrachtet sie durch eure eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu eurem Schwerpunkt? Oder wollt ihr alle machen? Wenn ihr selbst Ideen für Katas (oder Variationen) habt, die noch besser zu eurem Schwerpunkt passen, nutzt diese!
 
 Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.
-
-![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.png){#small .center height=250}
 
 ## Woche 0: Den Sprint planen und Absprachen treffen
 
@@ -633,7 +635,7 @@ Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über
 
 Beispiel eines Sketchnote-Selfies beim Start eines LernOS Circle zum Thema "SketchnoteOutLoud":
 
-![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=400}}
+![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=300}
 
 ## Kata 2: Circle Setup 
 

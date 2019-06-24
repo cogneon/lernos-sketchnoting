@@ -21,7 +21,7 @@ Geholfen haben dabei:
 - Katrin Mäntele (@kleinerw4hnsinn auf Twitter & Instagram): Kata "Feedback zum Inhalt", Warm Ups "Ablauf" und "Figuren in Aktion"
 - Britta Ullrich (vizworks.de im Web & auf Instagram): Kata "Soulshine Selfie"
 - Conni Eybisch-Klimpel (@connieybisch auf Instagram): Kata "Reflexionen"
-- Susanne Speer: Kata "Montagsmaler"
+- Susanne Speer (@designpiranha auf Twitter): Kata "Montagsmaler"
 - Simon Dückert (@simondueckert auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
 
 Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
@@ -1149,8 +1149,7 @@ Sketchnotes Germany auf (XING)[https://www.xing.com/communities/groups/sketchnot
 
 Malte von Tiesenhausen - [Instagram](https://www.instagram.com/malte_von_tiesenhausen/)
 
-Eva-Lotta Lamm - [Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3), [Instagram
-](https://www.instagram.com/evalottchen/)
+Eva-Lotta Lamm - [Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3), [Instagram](https://www.instagram.com/evalottchen/)
 
 Tanja Wehr - [Instagram](https://www.instagram.com/sketchnotelovers/)
 

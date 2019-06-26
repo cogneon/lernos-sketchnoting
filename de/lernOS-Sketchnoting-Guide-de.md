@@ -175,7 +175,7 @@ Apps zum Sketchen:
 - [Concepts](https://concepts.app/) - Basisversion kostenlos, für iOS, Android, Windows
 - Tayasui Sketches - Basisversion kostenlos, für [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=de)
 - [GoodNotes 5](https://www.goodnotes.com/) - kostenpflichtig, für IOS 
- 
+
 ## Sketchnote Elemente
 
 Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleichen Elemente. Wenn du diese grundlegend trainieren willst, oder mal wieder etwas Inspiration und Abwechslung brauchst, empfehlen wir dir “Sketch it - Das Kartenspiel” von Wibke Tiedmann und Stefanie Maurer, das du [hier herunterladen kannst](https://sketchnotegame.wordpress.com/download-kartenspiel/) und unter CC BY SA 4.0 verwenden darfst.  Alle folgenden Beispiele zu den Sketchnote Elementen stammen aus diesem Spiel.
@@ -289,13 +289,13 @@ Bevor es losgeht, investiert etwas Zeit um euch kennenzulernen und die Rahmenbed
 
 **Als Vorbereitung**
 
-☐ Kata 1: Sketchnote-Selfie
+- [ ] Kata 1: Sketchnote-Selfie
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Kringel-Vögel (5 Minuten)
+- [ ] Warm Up: Kringel-Vögel (5 Minuten)
 
 Vorstellung: Wer bist du? Stell dich vor. Hier solltest du natürlich anhand deines Sketchnote-Selfie vorgehen.  (5 Minuten pro Member)
 
@@ -310,11 +310,11 @@ Vorstellung: Wer bist du? Stell dich vor. Hier solltest du natürlich anhand dei
 - Was sind deine Lieblingsmaterialien (Papier, Stifte, Programme)? 
 
 
-☐ Kata 2: Circle Setup (20 Minuten)
+- [ ] Kata 2: Circle Setup (20 Minuten)
 
-☐ Kata 3: Feedback (10 Minuten)
+- [ ] Kata 3: Feedback (10 Minuten)
 
-☐ Check Out (1 Minute pro Member)
+- [ ] Check Out (1 Minute pro Member)
 
 ## Woche 1: Ziele festlegen
 
@@ -322,21 +322,21 @@ In dieser Woche wählst du dein Ziel für den Sprint.
 
 **Als Vorbereitung**
 
-☐ Kata 4: Mein Ziel für die nächsten 12 Wochen
+- [ ] Kata 4: Mein Ziel für die nächsten 12 Wochen
 
-☐ Kata 5: Ein Termin mit dir selbst
+- [ ] Kata 5: Ein Termin mit dir selbst
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Ziele (5 Minuten) 
+- [ ] Warm Up: Ziele (5 Minuten) 
 
 Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander. Wie visualisiert ihr, dass die Ziele erreicht wurden? 
 
 **Austausch: Eure Ziele im Sprint (10 Minuten pro Member)**
 
-☐ Teilt eure Ziele aus Kata 4 miteinander.
+- [ ] Teilt eure Ziele aus Kata 4 miteinander.
 
 **Leitfragen**:
 
@@ -352,9 +352,9 @@ Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander. Wie v
 
 **Austausch: Ein Termin mit dir selbst (5 Minuten)**
 
-☐ Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?
+- [ ] Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?
 
-☐ Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 ## Woche 2: Schrift & Lesbarkeit
 
@@ -362,17 +362,17 @@ In Woche 2 geht es um das geschriebene Wort: Wie unterstützt es die Aussage dei
 
 **Als Vorbereitung**
 
-☐ Kata 6: Letter deinen Lieblingsspruch
+- [ ] Kata 6: Letter deinen Lieblingsspruch
 
-☐ Kata 7: Nimm dir Zeit beim Schreiben 
+- [ ] Kata 7: Nimm dir Zeit beim Schreiben 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Ganz groß und ganz klein. 
+- [ ] Warm Up: Ganz groß und ganz klein. 
 
-☐ Feedback, Austausch und Tipps zu den Katas (40 Minuten)
+- [ ] Feedback, Austausch und Tipps zu den Katas (40 Minuten)
 
 **Leitfragen**:
 
@@ -386,9 +386,9 @@ In Woche 2 geht es um das geschriebene Wort: Wie unterstützt es die Aussage dei
 
 - Wie hängen für dich Stifte und Schrift zusammen? Mit welcher Stiftstärke kannst du am besten zeichnen und schreiben? Wie hierarchisierst du mit Schriftgröße, Fonts und Stiftstärken?
 
-☐ Zeigt euch gegenseitig (eigene) Beispiele, die ihr besonders gelungen findet.
+- [ ] Zeigt euch gegenseitig (eigene) Beispiele, die ihr besonders gelungen findet.
 
-☐ Check-Out (1 Minute pro Member)
+- [ ] Check-Out (1 Minute pro Member)
 
 ## Woche 3: Visuelles Vokabular
 
@@ -396,19 +396,19 @@ Jede Sprache besteht aus Einzelelementen: Entwickle die Bildelemente, welche dei
 
 **Als Vorbereitung**
 
-☐ Kata 8: Einkaufszettel
+- [ ] Kata 8: Einkaufszettel
 
-☐ Kata 9: Bildersammlung
+- [ ] Kata 9: Bildersammlung
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Icons 
+- [ ] Warm Up: Icons 
 
-☐ Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)
+- [ ] Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)
 
-☐ Austausch über die Kata(s) (40 Minuten)
+- [ ] Austausch über die Kata(s) (40 Minuten)
 
 **Leitfragen**: 
 
@@ -428,7 +428,7 @@ Jede Sprache besteht aus Einzelelementen: Entwickle die Bildelemente, welche dei
 
 - Sketcht das Icon, das ihr verbessern wollt, und befragt die anderen.
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 4: Struktur durch Stifte und Farbe
 
@@ -436,21 +436,21 @@ In dieser Woche entdeckst du die Welt der Farben und Strichstärken und wie du d
 
 **Als Vorbereitung**
 
-☐ Kata 10: Was bedeuten Farben für dich?
+- [ ] Kata 10: Was bedeuten Farben für dich?
 
-☐ Kata 11: Nie genug Stifte
+- [ ] Kata 11: Nie genug Stifte
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Weniger Details bitte (5 Minuten)
+- [ ] Warm Up: Weniger Details bitte (5 Minuten)
 
-☐ Kata 12: 1 Sketchnote 5 Farben (20 Minuten)
+- [ ] Kata 12: 1 Sketchnote 5 Farben (20 Minuten)
 
 Bereitet die Kata vor und beendet sie gemeinsam
 
-☐ Austausch über die Katas (25 Minuten)
+- [ ] Austausch über die Katas (25 Minuten)
 
 **Leitfragen**:
 
@@ -458,7 +458,7 @@ Bereitet die Kata vor und beendet sie gemeinsam
 - Wechselt ihr die Farben abhängig von den Themen?
 - Wie schafft ihr es Struktur zu schaffen, selbst wenn ihr nur wenige Stifte habt?
 
-☐ Check Out (1 Minute pro Member)
+- [ ] Check Out (1 Minute pro Member)
 
 ## Woche 5: Struktur durch Layout
 
@@ -466,19 +466,19 @@ Woche 5 steht ganz im Zeichen der Ordnung: Sortiere und gruppiere alle bisher ve
 
 **Als Vorbereitung**
 
-☐ Kata 13: Layouts für Sketchnotes 
+- [ ] Kata 13: Layouts für Sketchnotes 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Container (5 Minuten)
+- [ ] Warm Up: Container (5 Minuten)
 
 Zeichnet verschiedene Container und besprecht, wofür sie sich eignen. (Eine Wolke steht zum Beispiel eher für eine Idee als für ein Ergebnis/Beschluss.)
 
-☐ Kata 14: Videosketching (40 min)
+- [ ] Kata 14: Videosketching (40 min)
 
-☐ Check Out (1 Minute pro Member)
+- [ ] Check Out (1 Minute pro Member)
 
 ## Woche 6: Dein Zwischenstand
 
@@ -486,17 +486,17 @@ Boxenstopp: Reflektiere das Erreichte, stelle es deinen Circle Members vor und g
 
 **Als Vorbereitung**
 
-☐ Bereite dich auf deine Präsentation im Weekly vor. 
+- [ ] Bereite dich auf deine Präsentation im Weekly vor. 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Zeichne dein Gegenüber (5 Minuten)
+- [ ] Warm Up: Zeichne dein Gegenüber (5 Minuten)
 
-☐ Kata 15: Zwischenstand präsentieren (10 Minuten pro Member)
+- [ ] Kata 15: Zwischenstand präsentieren (10 Minuten pro Member)
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 7: Verständlichkeit
 
@@ -504,15 +504,15 @@ Verstehst du mich? Diese Woche testest du, ob deine Sketchnotes die Aussagen tra
 
 **Als Vorbereitung**
 
-☐ Kata 16: Videosketching: Did you get it?
+- [ ] Kata 16: Videosketching: Did you get it?
 
 **Im Weekly**
 
-☐ Check in: (2 Minuten pro Member)
+- [ ] Check in: (2 Minuten pro Member)
 
-☐ Warm Up: Draw Toast (5 Minuten)
+- [ ] Warm Up: Draw Toast (5 Minuten)
 
-☐ Austausch über die Kata
+- [ ] Austausch über die Kata
 
 **Leitfragen**:
 
@@ -523,7 +523,7 @@ Verstehst du mich? Diese Woche testest du, ob deine Sketchnotes die Aussagen tra
 - Was war besonders herausfordernd für dich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, ...)
 - Was hast du für deine nächsten Sketchnotes gelernt, was möchtest du beibehalten und was möchtest du anders machen?
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 8: Sharing for Feedback
 
@@ -531,15 +531,15 @@ Nachdem wir in Woche 7 uns gegenseitig Feedback gegeben haben, traust du dich nu
 
 **Als Vorbereitung**
 
-☐ Kata 17: Feedback on Content
+- [ ] Kata 17: Feedback on Content
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Ablauf (Woche 8)
+- [ ] Warm Up: Ablauf (Woche 8)
 
-☐ Austausch über Kata 16 (20 Minuten)
+- [ ] Austausch über Kata 16 (20 Minuten)
 
 **Leitfragen**:
 
@@ -552,9 +552,9 @@ Nachdem wir in Woche 7 uns gegenseitig Feedback gegeben haben, traust du dich nu
 - Wie genau fragst du nach Feedback?
 
 
-☐ Kata 18: Top5 Ressourcen (20 Minuten)
+- [ ] Kata 18: Top5 Ressourcen (20 Minuten)
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 9:  Vertiefen des eigenen Projekts 
 
@@ -564,23 +564,23 @@ Weichenstellung zum Endspurt: Entwickle dein eigenes Projekt weiter oder vertief
 
 Entscheidet euch, welche Schwerpunkte ihr setzen wollt: 
 
-☐ Wenn du in diesem Sprint ein eigenes Projekt bearbeitest, das du bis Woche 11 abgeschlossen haben möchtest, nimm dir jetzt noch einmal Zeit daran zu arbeiten und dir Feedback dazu einzuholen.
+- [ ] Wenn du in diesem Sprint ein eigenes Projekt bearbeitest, das du bis Woche 11 abgeschlossen haben möchtest, nimm dir jetzt noch einmal Zeit daran zu arbeiten und dir Feedback dazu einzuholen.
 
-☐ Wenn du kein konkretes Projekt/Produkt hast, nutze die Katas 19 und 20/21 für eine Reflexion des Sprints und dem bisher Gelernten.
+- [ ] Wenn du kein konkretes Projekt/Produkt hast, nutze die Katas 19 und 20/21 für eine Reflexion des Sprints und dem bisher Gelernten.
 
-☐ Kata 19: Soulshine-Selfie
+- [ ] Kata 19: Soulshine-Selfie
 
-☐ Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken” 
+- [ ] Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken” 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: visuelle Kommunikation macht den Unterschied (5 min)
+- [ ] Warm Up: visuelle Kommunikation macht den Unterschied (5 min)
 
-☐ Feedback zu euren Projekten, Austausch über Kata 19 & 20 und freie Wiederholung
+- [ ] Feedback zu euren Projekten, Austausch über Kata 19 & 20 und freie Wiederholung
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 10: Spaß muss sein!
 
@@ -588,21 +588,21 @@ Oder auch: “Blamiere dich täglich” :-) - Probier’ dich am Improvisieren u
 
 **Als Vorbereitung**
 
-☐ Überleg dir Begriffe für Kata 22: Montagsmaler 
+- [ ] Überleg dir Begriffe für Kata 22: Montagsmaler 
 
-☐ Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
+- [ ] Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad” 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Figuren in Aktion (5 Minuten)
+- [ ] Warm Up: Figuren in Aktion (5 Minuten)
 
-☐ Austausch über Kata 21
+- [ ] Austausch über Kata 21
 
-☐ Kata 22: Montagsmaler (25 min)
+- [ ] Kata 22: Montagsmaler (25 min)
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 11: Finale Produkte und Lessons Learned
 
@@ -610,15 +610,15 @@ Man darf auch mal stolz sein: Zeig’ deinen Circle Member, was du geleistet und
 
 **Als Vorbereitung**
 
-☐ Kata 23: Miss & zeig deinen Erfolg 
+- [ ] Kata 23: Miss & zeig deinen Erfolg 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Präsentationen (10 Minuten pro Member)
+- [ ] Präsentationen (10 Minuten pro Member)
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 ## Woche 12: Reflexion und Abschluss
 
@@ -626,21 +626,21 @@ Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es w
 
 **Als Vorbereitung**
 
-☐ Wie geht es weiter? Was nimmst du dir als nächstes vor? 
+- [ ] Wie geht es weiter? Was nimmst du dir als nächstes vor? 
 
 **Im Weekly**
 
-☐ Check in (2 Minuten pro Member)
+- [ ] Check in (2 Minuten pro Member)
 
-☐ Warm Up: Besondere Merkmale (5 Minuten)
+- [ ] Warm Up: Besondere Merkmale (5 Minuten)
 
 In dieser Woche gibt es kein klar definiertes Programm mit weiteren Übungen. Das Ergebnis eurer Arbeiten habt ihr schon in Woche 11 vorgestellt - jetzt ist die Zeit, den Sprint gemeinsam ausklingen zu lassen.
 
 Sprecht über den Circle und eure Erfahrungen in den letzten Wochen. Was ihr gelernt habt und was der Lernpfad mit euch gemacht hat. Vielleicht habt ihr schon Ideen, was ihr als nächstes vorhabt. Wenn nicht, lasst euch von den anderen inspirieren. Besprecht, mit was ihr die Wochen nach dem Sprint ausfüllen wollt, denn es ist auf jeden Fall wichtig, dran zu bleiben, damit die Skills und die positiven Gewohnheiten, die ihr im Sprint aufgebaut habt, weiter gefestigt werden. Wie wäre es mit einer neuen Iteration des Sketchnote Lernpfad mit neuen Zielen und neuem Fokus?
 
-☐ Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern. 
+- [ ] Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern. 
 
-☐ Check out (1 Minute pro Member)
+- [ ] Check out (1 Minute pro Member)
 
 \newpage
 

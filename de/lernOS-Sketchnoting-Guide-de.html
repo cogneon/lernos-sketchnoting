@@ -8,7 +8,7 @@
   <meta name="author" content="Raffaelina Rossetti" />
   <meta name="author" content="Benjamin Krüger" />
   <meta name="author" content="Lars Bartschat" />
-  <meta name="author" content="KarlDamke" />
+  <meta name="author" content="Karl Damke" />
   <title>lernOS Sketchnoting Leitfaden (CC BY)</title>
   <style>
       code{white-space: pre-wrap;}
@@ -27,8 +27,8 @@
 <p class="author">Raffaelina Rossetti</p>
 <p class="author">Benjamin Krüger</p>
 <p class="author">Lars Bartschat</p>
-<p class="author">KarlDamke</p>
-<p class="date">Version 0.3 (2019-06-23)</p>
+<p class="author">Karl Damke</p>
+<p class="date">Version 0.4 (2019-06-26)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -36,7 +36,7 @@
 <li><a href="#danksagung">Danksagung</a></li>
 <li><a href="#einleitung">Einleitung</a></li>
 <li><a href="#grundlagen">Grundlagen</a><ul>
-<li><a href="#was-sind-sketchnotes">Was sind Sketchnotes ?</a></li>
+<li><a href="#was-sind-sketchnotes">Was sind Sketchnotes?</a></li>
 <li><a href="#was-kann-ich-denn-sketchnoten">Was kann ich denn Sketchnoten?</a></li>
 <li><a href="#was-brauche-ich-zum-sketchnoting">Was brauche ich zum Sketchnoting?</a><ul>
 <li><a href="#sketchnotes-mit-stift-und-papier">Sketchnotes mit Stift und Papier</a></li>
@@ -50,6 +50,8 @@
 <li><a href="#verbinder-und-pfeile">Verbinder und Pfeile</a></li>
 <li><a href="#figuren">Figuren</a></li>
 <li><a href="#diagramme">Diagramme</a></li>
+</ul></li>
+<li><a href="#sketchnote-workflows">Sketchnote Workflows</a><ul>
 <li><a href="#one-and-done-und-iteratives-sketchnoten">“One and Done” und iteratives Sketchnoten</a></li>
 </ul></li>
 </ul></li>
@@ -138,13 +140,22 @@
 <li>Susanne Speer (<span class="citation" data-cites="designpiranha">@designpiranha</span> auf Twitter): Kata “Montagsmaler”</li>
 <li>Simon Dückert (<span class="citation" data-cites="simondueckert">@simondueckert</span> auf Twitter): aus dem lernOS übernommene Katas: “Circle Setup”, “Meine Ziele für die nächsten 12 Wochen”, “Ein Termin mit dir selbst” und Inspiration für die Kata “Top 5 Ressourcen”.</li>
 </ul>
-<p>Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: - Anke Stettner - Katrin Mäntele - Katja Klaußner - Ralf Schramm - Susanne Kitlinski - Wibke Tiedmann - Tobias Leisgang</p>
+<p>Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an:</p>
+<ul>
+<li>Anke Stettner</li>
+<li>Katrin Mäntele</li>
+<li>Katja Klaußner</li>
+<li>Ralf Schramm</li>
+<li>Susanne Kitlinski</li>
+<li>Wibke Tiedmann</li>
+<li>Tobias Leisgang</li>
+</ul>
 <h1 id="einleitung">Einleitung</h1>
 <p>Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. Dazu das Wichtigste in einer Sketchnote:</p>
 <figure>
 <img src="sketchnotes/lernos_in_a_nutshell.png" alt="LernOS in a nutshell by Karl Damke CC-BY" /><figcaption>LernOS in a nutshell by Karl Damke CC-BY</figcaption>
 </figure>
-<p>Wenn du mehr wissen willst, kannst alles über lernOS <a href="https://cogneon.github.io/lernos-core/">hier nachlesen,</a> dort den Leitfaden herunterladen oder dir <a href="https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/">diesen Podcast</a> mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints ;)</p>
+<p>Wenn du mehr wissen willst, kannst alles über lernOS <a href="https://cogneon.github.io/lernos-core/">bei Cogneon</a> nachlesen, dort den Leitfaden herunterladen oder dir <a href="https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/">diesen Podcast</a> mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints. ;)</p>
 <p><strong>Warum ein Sketchnote Lernpfad?</strong></p>
 <p>Na klar, Übung macht den Meister und Sketchnotes sind für jeden etwas anderes.</p>
 <p>Was aber immer hilft beim besser werden, sind Motivation, konstruktives Feedback und Zugang zu guten Ressourcen zum Thema. Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält:</p>
@@ -153,20 +164,23 @@
 <li><p>23 Katas (Übungen) zu den wichtigsten Bereichen des Sketchnotens (Kapitel 5)</p></li>
 <li><p>Ressourcen zum Weiterlernen, Vernetzen und Inspirieren lassen</p></li>
 </ol>
-<p>Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 3 dabei helfen den Einstieg zu schaffen.</p>
+<p>Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 4 dabei helfen den Einstieg zu schaffen.</p>
 <h1 id="grundlagen">Grundlagen</h1>
 <p>Keine Praxis ohne ein bisschen Theorie. Im folgenden Kapitel werden wir auf die Basics des Sketchnotens eingehen.</p>
-<h2 id="was-sind-sketchnotes">Was sind Sketchnotes ?</h2>
+<h2 id="was-sind-sketchnotes">Was sind Sketchnotes?</h2>
 <p><em>“Sketchnotes sind visuelle Notizen, die aus einer Mischung aus Handschrift, Zeichnungen, handgezeichneter Typografie, Formen und grafischen Elementen wie Pfeilen, Kästen &amp; Linien bestehen.”</em> <em>- Mike Rohde, Autor des</em> <a href="http://rohdesign.com/"><em>Sketchnote Handbuchs</em></a> <em>und “Erfinder” des Begriffs Sketchnote</em></p>
 <p><em>“Sketchnotes ist Rumkritzeln während du dir Notizen machst”</em> <em>- Kevin Thorn,</em> <a href="http://nuggethead.net/2013/01/what-are-sketch-notes/"><em>Nuggethead</em></a></p>
 <figure>
 <img src="sketchnotes/lernos_why.png" alt="What are Sketchnotes - by @BartschatLars, CC BY 4.0" id="mid" class="center" height="400" /><figcaption>What are Sketchnotes - by <span class="citation" data-cites="BartschatLars">@BartschatLars</span>, CC BY 4.0</figcaption>
 </figure>
 <p>Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk “<a href="https://www.ted.com/talks/sunni_brown?share=11cb8401a9&amp;language=en#t-29444">Doodlers, unite!</a>”. In ihrem Buch “The Doodle Revolution” zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.</p>
+<p>Historisch gesehen, sind wir Menschen visuelle Wesen. Bilder verwenden wir seit mehr als (20.000 Jahren)[https://journal.lib.uoguelph.ca/index.php/perj/article/view/3137], die ältesten Höhlenmalerein sind sogar noch älter. Sie werden teilweise auf mehr als (35.000 Jahre datiert)[https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei].</p>
 <p>Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die “<a href="https://en.wikipedia.org/wiki/Dual-coding_theory">Dual Encoding Theorie</a>” gestützt. Diese beschreibt, dass Informationen die doppelt, also in unserem Fall als Text und Bild, kodiert und abgespeichert werden, stärker verankert werden. Sie lassen sich später schneller und genauer wieder erinnern, als “einfache” Textnotizen. Das Nutzen von Stift und Papier, oder auch digitalem Stylus und Tablet, hat also immense Vorteile gegenüber z. B. dem Mittippen am Laptop in einer Vorlesung oder einem Meeting. (s. Artikel von <a href="https://journals.sagepub.com/doi/10.1177/0956797614524581">Oppenheimer und Mueller</a>) Das tiefe Verständnis von Konzepten und Ideen erschließt sich dem Sketchnoter also viel schneller und einfacher als dem “Mitschreiber”, der Wort für Wort alles zu Papier bringt oder in sein Notebook hackt.</p>
 <p>Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel “<a href="http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf">Drawing Out Ideas</a>” weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert.</p>
+<p>Einfach auf den Punkt gebracht: Bilder, vor allem in Kombination mit Text, sind purem Text einfach überlegen. In der Literatur spricht man vom <a href="https://psycnet.apa.org/record/2011-13423-001">Picture Superiority Effect</a>.</p>
+<p>Wenn dir das alles zu komplex und textlastig ist, wir haben dir dazu eine Sketchnote erstellt:</p>
 <figure>
-<img src="sketchnotes/sketchnotes_science.png" alt="Scientific Sketchnotes by @BartschatLars, CC BY 4.0" id="mid" class="center" height="500" /><figcaption>Scientific Sketchnotes by <span class="citation" data-cites="BartschatLars">@BartschatLars</span>, CC BY 4.0</figcaption>
+<img src="sketchnotes/sketchnotes_science.png" alt="Sketchnotes - An Academic Approach by @BartschatLars, CC BY 4.0" id="mid" class="center" height="500" /><figcaption>Sketchnotes - An Academic Approach by <span class="citation" data-cites="BartschatLars">@BartschatLars</span>, CC BY 4.0</figcaption>
 </figure>
 <h2 id="was-kann-ich-denn-sketchnoten">Was kann ich denn Sketchnoten?</h2>
 <p>Du kannst praktisch alles Sketchnoten. Hier nur ein paar Beispiele:</p>
@@ -197,9 +211,9 @@
 <li>Barrieren abbauen</li>
 </ul>
 <h2 id="was-brauche-ich-zum-sketchnoting">Was brauche ich zum Sketchnoting?</h2>
-<p>Das klingt ja alles ganz nett, aber was brauche ich denn, um mit dem Sketchnoten anfangen zu können? Ist das nicht alles total kompliziert? Zum Glück nicht! Das einzige, was du tatsächlich brauchst, sind ein Stift und eine Unterlage, auf der du Sketchnoten kannst, das kann ein Block, ein Notizbuch oder auch eine Serviette sein. Natürlich kannst du heute auch digital auf deinem Tablet Sketchnoten.</p>
+<p>Das klingt ja alles ganz nett, aber was brauche ich denn, um mit dem Sketchnoten anfangen zu können? Ist das nicht alles total kompliziert? Zum Glück nicht! Das einzige, was du tatsächlich brauchst, sind ein Stift und eine Unterlage, auf der du Sketchnoten kannst, das kann ein Block, ein Notizbuch, eine Serviette sein oder der berühmte Bierdeckel. Natürlich kannst du auch digital auf deinem Tablet Sketchnoten.</p>
 <h3 id="sketchnotes-mit-stift-und-papier">Sketchnotes mit Stift und Papier</h3>
-<p>Sketchnotes mit Stift und Papier sind die “ursprüngliche” Art der visuellen Notizen, du kannst sie jederzeit und überall anfertigen, solange du etwas Papier und einen Stift hast. Dieses “analoge” Vorgehen hat viele Vorteile. Einige sind sehr subjektiv, am besten du bildest dir deine eigene Meinung:</p>
+<p>Sketchnotes mit Stift und Papier sind die “ursprüngliche” Art der visuellen Notizen. Dieses “analoge” Vorgehen hat viele Vorteile. Einige sind sehr subjektiv, am besten du bildest dir deine eigene Meinung:</p>
 <ul>
 <li>Dein Papier hat keinen Akku, der genau dann leer ist, wenn du gerade Sketchnoten willst …</li>
 <li>Stift und Papier schicken dir nicht ständig Notifications und lenken dich mit deinem Insta-Feed ab …</li>
@@ -213,15 +227,17 @@
 </ul>
 <p>Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papier nicht so gut:</p>
 <ul>
-<li>Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps CamScanner oder Office Lens).</li>
+<li>Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps <a href="https://play.google.com/store/apps/details?id=com.intsig.camscanner&amp;hl=de">CamScanner</a>, <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;hl=de">Office Lens</a> oder <a href="https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834">Adobe Scan</a>).</li>
 <li>Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!</li>
 <li>Korrekturen sind nicht so einfach bzw. “stören” das Gesamtbild</li>
 <li>Elemente vergrößern und verkleinern ist auch nicht so wirklich drin …</li>
-<li>Ein Blatt hat Grenzen - “Voll ist voll”, beliebig erweitern kannst du analoge Sketchnotes nicht.</li>
+<li>Ein Blatt hat Grenzen - “Voll ist voll”, beliebig erweitern kannst du analoge Sketchnotes nicht. (Außer mit ausreichend Klebeband…)</li>
 </ul>
 <p>Auch wenn dir viele Webseiten etwas anderes erzählen, du brauchst weder spezielles Papier oder besonders teure Notizbücher, noch sind teure Stifte notwendig. Für den Anfang nimmst du einfach ein Blatt Papier aus dem Drucker und den erstbesten Stift, der auf deinem Schreibtisch liegt.</p>
 <h4 id="papier--und-stift-empfehlungen">Papier- und Stift-Empfehlungen</h4>
 <p>Eine umfangreiche Liste findest du auf der Website von <a href="https://sketchnotehangout.com/resources/">Sketchnote Hangouts</a>.</p>
+<p>Wir haben uns hier gegen eine Auflistung von Marken und Produkten entschieden. Wir finden, Sketchnoten braucht keine teuren Stifte und besondere Notizbücher. Der einfachste Werbegeschenk-Kuli und ein die Rückseite eines mißlungen Ausdrucks sind perfekt.</p>
+<p>Ein “zu schönes” Sketchbook ist manchmal genau das, zu schön. Du traust dich nicht, anzufangen, aus Sorge, die Schönheit zu “ruinieren”. Also: <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS - Keep it simple, stupid!</a></p>
 <h3 id="sketchnotes-digital">Sketchnotes Digital</h3>
 <p>Mittlerweile kannst du auch super digital sketchnoten. Dafür empfiehlt sich in der Regel ein Tabletcomputer, die meisten Smartphones sind noch zu klein. (Ein Samsung Galaxy Note könnte aber schon reichen, wie es Opels Art <a href="https://www.youtube.com/watch?v=Lai-GBlRq9Y">hier</a> zeigt…) Etwas komfortabler sind die meisten Tablets, wie z. B. das Apple iPad (Pro), das Samsung Galaxy Tab oder die Microsoft Surface Reihe.</p>
 <p>Das digitale Sketchnoten bringt einige immense Vorteile mit sich:</p>
@@ -241,6 +257,14 @@
 <li>Viele Optionen und Möglichkeiten können dich stark ablenken, genauso wie Benachrichtigungen über neue Mails, Twitter-DMs oder Insta-Likes…</li>
 <li>Unbegrenzter Platz zum Zeichnen kann auch überfordern und du willst jeden noch so kleinen Punkt noch mit in deine Sketchnote einbauen. Manchmal ist weniger einfach mehr…</li>
 </ul>
+<p>Apps zum Sketchen:</p>
+<ul>
+<li><a href="https://procreate.art/">ProCreate</a> - kostenpflichtig, für iOS</li>
+<li><a href="https://paper.bywetransfer.com/">Paper by WeTransfer</a> (früher by 53) - Basisversion kostenlos, Abomodell, für iOS</li>
+<li><a href="https://concepts.app/">Concepts</a> - Basisversion kostenlos, für iOS, Android, Windows</li>
+<li>Tayasui Sketches - Basisversion kostenlos, für <a href="https://apps.apple.com/de/app/tayasui-sketches/id641900855">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&amp;hl=de">Android</a></li>
+<li><a href="https://www.goodnotes.com/">GoodNotes 5</a> - kostenpflichtig, für IOS</li>
+</ul>
 <h2 id="sketchnote-elemente">Sketchnote Elemente</h2>
 <p>Egal was das Thema ist, für deine Sketchnotes benutzt du immer wieder die gleichen Elemente. Wenn du diese grundlegend trainieren willst, oder mal wieder etwas Inspiration und Abwechslung brauchst, empfehlen wir dir “Sketch it - Das Kartenspiel” von Wibke Tiedmann und Stefanie Maurer, das du <a href="https://sketchnotegame.wordpress.com/download-kartenspiel/">hier herunterladen kannst</a> und unter CC BY SA 4.0 verwenden darfst. Alle folgenden Beispiele zu den Sketchnote Elementen stammen aus diesem Spiel.</p>
 <p><em>„</em><a href="https://sketchnotegame.wordpress.com/download-kartenspiel/"><em>Sketch it – Das Kartenspiel</em></a><em>„ von</em><a href="https://sketchnotegame.wordpress.com/ueber/"><em>Wibke Tiedmann &amp; Stefanie Maurer</em></a><em>, Lizenz:</em><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de"><em>CC BY-SA 4.0</em></a>.</p>
@@ -248,7 +272,7 @@
 <p>Ein Container strukturiert eine Sketchnote, indem er anderen Elementen einen Rahmen bietet.</p>
 <p><img src="sketchnotes/container.png" id="small" class="left" data-align="left" height="250" /></p>
 <h3 id="trenner">Trenner</h3>
-<p>Der Trenner ist der Gegenspieler zum Verbinder, er sorgt dafür, dass die Elemente einer Sketchnote klar voneinander separiert sind und schafft so Ordnung und Klarheit.</p>
+<p>Der Trenner sorgt dafür, dass die Elemente einer Sketchnote klar voneinander separiert sind und schafft so Ordnung und Klarheit.</p>
 <p><img src="sketchnotes/separators.png" id="small" class="right" data-align="right" height="250" /></p>
 <h3 id="text">Text</h3>
 <p>Deine Sketchnote besteht aus Text und grafischen Elementen, wobei auch die Texte unterschiedlichste Formen und Farben annehmen können.</p>
@@ -257,14 +281,14 @@
 <p>Symbole und Icons kannst du auf unterschiedliche Art und Weise beim Sketchnoten einsetzen. Du kannst dir z. B. ein eigenes Icon-Set anlegen, mit dem du wiederkehrende Elemente kennzeichnest. Ein Klassiker ist die aufleuchtende Glühbirne für eine Idee oder das Ausrufezeichen für etwas, das besonders wichtig ist.</p>
 <p><img src="sketchnotes/visual_alphabet.png" id="small" class="right" data-float="right" height="250" /></p>
 <h3 id="verbinder-und-pfeile">Verbinder und Pfeile</h3>
-<p>Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, z. B. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen.</p>
+<p>Verbinder und Pfeile sind starke Strukturelemente beim Sketchnoten. Sie erzeugen den Flow, dem das Auge des Betrachters folgt. Sie zeigen, welcher Teil auf welchen folgt, z. B. in einer zeitlichen oder logischen Abfolge. Verbinder und Pfeile halten deine Sketchnote zusammen. Sie sind das natürliche Gegenstück zum Trenner.</p>
 <p><img src="sketchnotes/connectors.png" id="small" class="left" data-float="left" height="250" /></p>
 <h3 id="figuren">Figuren</h3>
 <p>Die Figuren sind die Akteure auf deinen Sketchnotes. Mit ihnen können Aktionen und Emotionen von einzelnen Personen aber auch von Teams oder Gruppen in verschiedenen Situationen dargestellt werden. Eventuell kann das Hinzufügen von Gesichtern oder Mimiken zum Darstellen von Emotionen hilfreich sein aber auch über die Körperhaltung drücken wir auch schon sehr viel unserer Gefühle und Regungen aus. Ob du den Figuren ein Gesicht gibst oder nicht hängt also fast gänzlich von deinem persönlichen Geschmack ab.</p>
 <p><img src="sketchnotes/figures.png" id="small" class="left" data-float="left" height="250" /></p>
 <h3 id="diagramme">Diagramme</h3>
 <p>Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sind Programme wie Excel ein wenig “zu viel”. Mit ein wenig Übung kannst du aus Elementen, wie Balken, Linien und Kreisen einfache, aber sehr wirkungsvolle Diagramme erschaffen. Ein sehr beeindruckendes Beispiel für analoge Datenvisualisierung ist das Projekt “<a href="http://www.dear-data.com/theproject">Dear Data</a>” von Giorgia Lupi und Stefanie Posavec, die sich über ein Jahr gegenseitig Postkarten mit handgezeichneten Visualisierungen geschickt haben.</p>
-<p><strong>Sketchnote Workflows</strong></p>
+<h2 id="sketchnote-workflows">Sketchnote Workflows</h2>
 <figure>
 <img src="sketchnotes/workflows.png" alt="Sketchnotes Workflows by @BartschatLars, CC BY 4.0" id="mid" class="center" height="300" /><figcaption>Sketchnotes Workflows by <span class="citation" data-cites="BartschatLars">@BartschatLars</span>, CC BY 4.0</figcaption>
 </figure>
@@ -287,18 +311,19 @@
 <li>Wie möchtest du deine Sketchnote hinterher verwenden?</li>
 </ul>
 <p>Hier gibt es kein Richtig oder Falsch, Sketchnote wie du es brauchst!</p>
-
-<h1 id="der-sketchnote-lernpfad">Der Sketchnote Lernpfad</h1>
+<p>Mauro hat extra für diesen Lernpfad eine Zusammenfassung gesketchnotet:</p>
 <figure>
 <img src="sketchnotes/tos_cheatsheet.png" alt="The xLontrax theory of sketchnote by Mauro @xLontrax Toselli CC-BY" id="small" class="center" height="500" /><figcaption>The xLontrax theory of sketchnote by Mauro <span class="citation" data-cites="xLontrax">@xLontrax</span> Toselli CC-BY</figcaption>
 </figure>
-<p>Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger als auch für Fortgeschrittene geeignet sind. Nehmt euch vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen.</p>
-<p>Wie ist dieser Lernpfad aufgebaut?</p>
+
+<h1 id="der-sketchnote-lernpfad">Der Sketchnote Lernpfad</h1>
+<p>Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger als auch für Fortgeschrittene geeignet sind. Nehmt euch vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen. Vielleicht schaut ihr auch einfach mal in den anderen <a href="https://github.com/cogneon/">lernOS Lernpfaden</a>, welche Katas dort genutzt werden und ob diese nicht besser für euch sind…</p>
+<p><strong>Wie ist dieser Lernpfad aufgebaut?</strong></p>
 <p>Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine individuellen Ziele im Laufe der zwölf Wochen Thema im Circle sind. Dann schauen wir uns an, nach welchem System die Katas aufgebaut sind.</p>
 <figure>
 <img src="sketchnotes/sketchnote_learning_path_01.png" alt="Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY" id="small" class="center" height="250" /><figcaption>Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY</figcaption>
 </figure>
-<p>Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt und dazu ein großartiges <a href="https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html">Buch geschrieben</a>. Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. Im Anhang findest du dazu vier Seiten aus Mauros Buch dazu, die unter CC BY ND SA genutzt werden können.</p>
+<p>Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleginnen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt. Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut.</p>
 <figure>
 <img src="sketchnotes/sketchnote_learning_path_02.png" alt="Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY" id="small" class="center" height="250" /><figcaption>Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY</figcaption>
 </figure>
@@ -308,15 +333,22 @@
 <figure>
 <img src="sketchnotes/kata_log.png" alt="Kata-Log by @DenkFlowRR CC-BY" id="small" class="center" height="500" /><figcaption>Kata-Log by <span class="citation" data-cites="DenkFlowRR">@DenkFlowRR</span> CC-BY</figcaption>
 </figure>
-<p>Die hier aufgeführten Katas sind Vorschläge. Betrachtet sie durch eure eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu eurem Schwerpunkt? Oder wollt ihr alle machen? Wenn ihr selbst Ideen für Katas (oder Variationen) habt, die noch besser zu eurem Schwerpunkt passen, nutzt diese!</p>
+<p>Die hier aufgeführten Katas sind Vorschläge. Betrachtet sie durch eure eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu eurem Schwerpunkt? Oder wollt ihr alle machen? Wenn ihr selbst Ideen für Katas (oder Variationen) habt, die noch besser zu eurem Schwerpunkt passen, nutzt diese! Und wenn ihr die dann mit uns teilt oder den Lernpfad selbst ergänzt, helft ihr allen anderen, die nach euch dem Lernpfad folgen! (… und verdient natürlich einen Haufen Karma-Punkte!)</p>
 <p>Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.</p>
 <h2 id="woche-0-den-sprint-planen-und-absprachen-treffen">Woche 0: Den Sprint planen und Absprachen treffen</h2>
 <p>Bevor es losgeht, investiert etwas Zeit um euch kennenzulernen und die Rahmenbedingungen für euren Sprint abzusprechen.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 1: Sketchnote-Selfie</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Kata 1: Sketchnote-Selfie</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Kringel-Vögel (5 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Kringel-Vögel (5 Minuten)</p></li>
+</ul>
 <p>Vorstellung: Wer bist du? Stell dich vor. Hier solltest du natürlich anhand deines Sketchnote-Selfie vorgehen. (5 Minuten pro Member)</p>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
@@ -324,21 +356,35 @@
 <li><p>Nutzt du Sketchnotes eher privat oder beruflich?</p></li>
 <li><p>Wie lange machst du schon Sketchnotes?</p></li>
 <li><p>Was sind deine Lieblingsmaterialien (Papier, Stifte, Programme)?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 2: Circle Setup (20 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 3: Feedback (10 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check Out (1 Minute pro Member)</p></li>
 </ul>
-<p>Kata 2: Circle Setup (20 Minuten)</p>
-<p>Kata 3: Feedback (10 Minuten)</p>
-<p>Check Out (1 Minute pro Member)</p>
 <h2 id="woche-1-ziele-festlegen">Woche 1: Ziele festlegen</h2>
 <p>In dieser Woche wählst du dein Ziel für den Sprint.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 4: Mein Ziel für die nächsten 12 Wochen</p>
-<p>Kata 5: Ein Termin mit dir selbst</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Kata 4: Mein Ziel für die nächsten 12 Wochen</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 5: Ein Termin mit dir selbst</p></li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Ziele (5 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Ziele (5 Minuten)</p></li>
+</ul>
 <p>Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander. Wie visualisiert ihr, dass die Ziele erreicht wurden?</p>
 <p><strong>Austausch: Eure Ziele im Sprint (10 Minuten pro Member)</strong></p>
-<p>Teilt eure Ziele aus Kata 4 miteinander.</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Teilt eure Ziele aus Kata 4 miteinander.</li>
+</ul>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
 <li><p>Warum machst du das?</p></li>
@@ -348,17 +394,30 @@
 <li><p>Wie feierst du, wenn du dein Ziel erreicht hast?</p></li>
 </ul>
 <p><strong>Austausch: Ein Termin mit dir selbst (5 Minuten)</strong></p>
-<p>Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?</p>
-<p>Check-Out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Habt ihr alle einen Termin mit euch selbst in den Kalender eingetragen? Was hat euch dabei geholfen?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check-Out (1 Minute pro Member)</p></li>
+</ul>
 <h2 id="woche-2-schrift-lesbarkeit">Woche 2: Schrift &amp; Lesbarkeit</h2>
 <p>In Woche 2 geht es um das geschriebene Wort: Wie unterstützt es die Aussage deiner Sketchnote am besten und wie kommst du dahin?</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 6: Letter deinen Lieblingsspruch</p>
-<p>Kata 7: Nimm dir Zeit beim Schreiben</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Kata 6: Letter deinen Lieblingsspruch</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 7: Nimm dir Zeit beim Schreiben</p></li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Ganz groß und ganz klein.</p>
-<p>Feedback, Austausch und Tipps zu den Katas (40 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Ganz groß und ganz klein.</p></li>
+<li><p><input type="checkbox" disabled="" />
+Feedback, Austausch und Tipps zu den Katas (40 Minuten)</p></li>
+</ul>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
 <li><p>Wie nutzt du unterschiedliche Schriften in deinen Sketchnotes?</p></li>
@@ -366,19 +425,31 @@
 <li><p>Welche deiner Schriften gefällt dir besonders gut? Welche nicht?</p></li>
 <li><p>Möchtest du eine neue Schrift lernen und wofür brauchst du sie?</p></li>
 <li><p>Wie hängen für dich Stifte und Schrift zusammen? Mit welcher Stiftstärke kannst du am besten zeichnen und schreiben? Wie hierarchisierst du mit Schriftgröße, Fonts und Stiftstärken?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Zeigt euch gegenseitig (eigene) Beispiele, die ihr besonders gelungen findet.</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check-Out (1 Minute pro Member)</p></li>
 </ul>
-<p>Zeigt euch gegenseitig (eigene) Beispiele, die ihr besonders gelungen findet.</p>
-<p>Check-Out (1 Minute pro Member)</p>
 <h2 id="woche-3-visuelles-vokabular">Woche 3: Visuelles Vokabular</h2>
 <p>Jede Sprache besteht aus Einzelelementen: Entwickle die Bildelemente, welche deiner Sprache am meisten entsprechen und finde deinen Stil.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 8: Einkaufszettel</p>
-<p>Kata 9: Bildersammlung</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Kata 8: Einkaufszettel</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 9: Bildersammlung</p></li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Icons</p>
-<p>Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)</p>
-<p>Austausch über die Kata(s) (40 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Icons</p></li>
+<li><p><input type="checkbox" disabled="" />
+Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Austausch über die Kata(s) (40 Minuten)</p></li>
+</ul>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
 <li><p>Wie gut ist euer visuelles Vokabular?</p></li>
@@ -389,123 +460,218 @@
 <li><p>Wie zufrieden seid ihr mit Ihnen?</p></li>
 <li><p>Könnt ihr noch etwas an ihnen verbessern?</p></li>
 <li><p>Sketcht das Icon, das ihr verbessern wollt, und befragt die anderen.</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
 </ul>
-<p>Check out (1 Minute pro Member)</p>
 <h2 id="woche-4-struktur-durch-stifte-und-farbe">Woche 4: Struktur durch Stifte und Farbe</h2>
 <p>In dieser Woche entdeckst du die Welt der Farben und Strichstärken und wie du damit Akzente in deinen Sketchnotes setzen kannst.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 10: Was bedeuten Farben für dich?</p>
-<p>Kata 11: Nie genug Stifte</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Kata 10: Was bedeuten Farben für dich?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 11: Nie genug Stifte</p></li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Weniger Details bitte (5 Minuten)</p>
-<p>Kata 12: 1 Sketchnote 5 Farben (20 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Weniger Details bitte (5 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 12: 1 Sketchnote 5 Farben (20 Minuten)</p></li>
+</ul>
 <p>Bereitet die Kata vor und beendet sie gemeinsam</p>
-<p>Austausch über die Katas (25 Minuten)</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Austausch über die Katas (25 Minuten)</li>
+</ul>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
 <li><p>Welche Farben passen zu deinen Themen?</p></li>
 <li><p>Wechselt ihr die Farben abhängig von den Themen?</p></li>
 <li><p>Wie schafft ihr es Struktur zu schaffen, selbst wenn ihr nur wenige Stifte habt?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check Out (1 Minute pro Member)</p></li>
 </ul>
-<p>Check Out (1 Minute pro Member)</p>
 <h2 id="woche-5-struktur-durch-layout">Woche 5: Struktur durch Layout</h2>
 <p>Woche 5 steht ganz im Zeichen der Ordnung: Sortiere und gruppiere alle bisher verwendeten Elemente und füge sie zu einem stimmigen Layout zusammen.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 13: Layouts für Sketchnotes</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Kata 13: Layouts für Sketchnotes</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Container (5 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Container (5 Minuten)</p></li>
+</ul>
 <p>Zeichnet verschiedene Container und besprecht, wofür sie sich eignen. (Eine Wolke steht zum Beispiel eher für eine Idee als für ein Ergebnis/Beschluss.)</p>
-<p>Kata 14: Videosketching (40 min)</p>
-<p>Check Out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Kata 14: Videosketching (40 min)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check Out (1 Minute pro Member)</p></li>
+</ul>
 <h2 id="woche-6-dein-zwischenstand">Woche 6: Dein Zwischenstand</h2>
 <p>Boxenstopp: Reflektiere das Erreichte, stelle es deinen Circle Members vor und gebt euch gemeinsam Feedback. Macht euch fit für die zweite Hälfte des Circle.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Bereite dich auf deine Präsentation im Weekly vor.</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Bereite dich auf deine Präsentation im Weekly vor.</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Zeichne dein Gegenüber (5 Minuten)</p>
-<p>Kata 15: Zwischenstand präsentieren (10 Minuten pro Member)</p>
-<p>Check out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Zeichne dein Gegenüber (5 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 15: Zwischenstand präsentieren (10 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
+</ul>
 <h2 id="woche-7-verständlichkeit">Woche 7: Verständlichkeit</h2>
 <p>Verstehst du mich? Diese Woche testest du, ob deine Sketchnotes die Aussagen transportieren, welche du beabsichtigt hast.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 16: Videosketching: Did you get it?</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Kata 16: Videosketching: Did you get it?</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in: (2 Minuten pro Member)</p>
-<p>Warm Up: Draw Toast (5 Minuten)</p>
-<p>Austausch über die Kata</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in: (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Draw Toast (5 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Austausch über die Kata</p></li>
+</ul>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
-<li>Welche Erwartungen hattest du an die Verständlichkeit deiner Sketchnote?</li>
-<li>Wurden diese erfüllt?</li>
-<li>Wie war das Feedback in Bezug auf Lesbarkeit, Layout, Wortwahl?</li>
-<li>Was hat für dich besonders gut funktioniert?</li>
-<li>Was war besonders herausfordernd für dich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, …)</li>
-<li>Was hast du für deine nächsten Sketchnotes gelernt, was möchtest du beibehalten und was möchtest du anders machen?</li>
+<li><p>Welche Erwartungen hattest du an die Verständlichkeit deiner Sketchnote?</p></li>
+<li><p>Wurden diese erfüllt?</p></li>
+<li><p>Wie war das Feedback in Bezug auf Lesbarkeit, Layout, Wortwahl?</p></li>
+<li><p>Was hat für dich besonders gut funktioniert?</p></li>
+<li><p>Was war besonders herausfordernd für dich? (Bspw. Sprechgeschwindigkeit im Video, wichtige Dinge filtern, …)</p></li>
+<li><p>Was hast du für deine nächsten Sketchnotes gelernt, was möchtest du beibehalten und was möchtest du anders machen?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
 </ul>
-<p>Check out (1 Minute pro Member)</p>
 <h2 id="woche-8-sharing-for-feedback">Woche 8: Sharing for Feedback</h2>
 <p>Nachdem wir in Woche 7 uns gegenseitig Feedback gegeben haben, traust du dich nun in die Öffentlichkeit: Hol’ dir aktiv Feedback zu den Inhalten deiner Sketchnotes von Personen außerhalb des Circle ein.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 17: Feedback on Content</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Kata 17: Feedback on Content</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Ablauf (Woche 8)</p>
-<p>Austausch über Kata 16 (20 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Ablauf (Woche 8)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Austausch über Kata 16 (20 Minuten)</p></li>
+</ul>
 <p><strong>Leitfragen</strong>:</p>
 <ul>
 <li><p>Wo und wie hast du deine Sketchnote geteilt?</p></li>
 <li><p>Wie komfortabel/unkomfortabel war es?</p></li>
 <li><p>Welche Art Feedback hast du erhalten?</p></li>
 <li><p>Wie genau fragst du nach Feedback?</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 18: Top5 Ressourcen (20 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
 </ul>
-<p>Kata 18: Top5 Ressourcen (20 Minuten)</p>
-<p>Check out (1 Minute pro Member)</p>
 <h2 id="woche-9-vertiefen-des-eigenen-projekts">Woche 9: Vertiefen des eigenen Projekts</h2>
 <p>Weichenstellung zum Endspurt: Entwickle dein eigenes Projekt weiter oder vertiefe das bisher Erlernte - nutze das Feedback, um dich selbst weiterzuentwickeln.</p>
 <p><strong>Als Vorbereitung</strong></p>
 <p>Entscheidet euch, welche Schwerpunkte ihr setzen wollt:</p>
-<p>Wenn du in diesem Sprint ein eigenes Projekt bearbeitest, das du bis Woche 11 abgeschlossen haben möchtest, nimm dir jetzt noch einmal Zeit daran zu arbeiten und dir Feedback dazu einzuholen.</p>
-<p>Wenn du kein konkretes Projekt/Produkt hast, nutze die Katas 19 und 20/21 für eine Reflexion des Sprints und dem bisher Gelernten.</p>
-<p>Kata 19: Soulshine-Selfie</p>
-<p>Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken”</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Wenn du in diesem Sprint ein eigenes Projekt bearbeitest, das du bis Woche 11 abgeschlossen haben möchtest, nimm dir jetzt noch einmal Zeit daran zu arbeiten und dir Feedback dazu einzuholen.</p></li>
+<li><p><input type="checkbox" disabled="" />
+Wenn du kein konkretes Projekt/Produkt hast, nutze die Katas 19 und 20/21 für eine Reflexion des Sprints und dem bisher Gelernten.</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 19: Soulshine-Selfie</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 20: Reflexions - Sketchnote (Teil1) “Struktur-Gedanken”</p></li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: visuelle Kommunikation macht den Unterschied (5 min)</p>
-<p>Feedback zu euren Projekten, Austausch über Kata 19 &amp; 20 und freie Wiederholung</p>
-<p>Check out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: visuelle Kommunikation macht den Unterschied (5 min)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Feedback zu euren Projekten, Austausch über Kata 19 &amp; 20 und freie Wiederholung</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
+</ul>
 <h2 id="woche-10-spaß-muss-sein">Woche 10: Spaß muss sein!</h2>
 <p>Oder auch: “Blamiere dich täglich” :-) - Probier’ dich am Improvisieren und der spontanen Darstellung deiner Assoziationen.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Überleg dir Begriffe für Kata 22: Montagsmaler</p>
-<p>Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad”</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Überleg dir Begriffe für Kata 22: Montagsmaler</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 21: Reflexions-Sketchnote (Teil 2) “Der strukturierte Pfad”</p></li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Figuren in Aktion (5 Minuten)</p>
-<p>Austausch über Kata 21</p>
-<p>Kata 22: Montagsmaler (25 min)</p>
-<p>Check out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Figuren in Aktion (5 Minuten)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Austausch über Kata 21</p></li>
+<li><p><input type="checkbox" disabled="" />
+Kata 22: Montagsmaler (25 min)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
+</ul>
 <h2 id="woche-11-finale-produkte-und-lessons-learned">Woche 11: Finale Produkte und Lessons Learned</h2>
 <p>Man darf auch mal stolz sein: Zeig’ deinen Circle Member, was du geleistet und an Erkenntnissen (auch über dich) gewonnen hast.</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Kata 23: Miss &amp; zeig deinen Erfolg</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Kata 23: Miss &amp; zeig deinen Erfolg</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Präsentationen (10 Minuten pro Member)</p>
-<p>Check out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Präsentationen (10 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
+</ul>
 <h2 id="woche-12-reflexion-und-abschluss">Woche 12: Reflexion und Abschluss</h2>
 <p>Du hast dich auf den Weg gemacht: Aber bist du auch schon am Ziel? Wie geht es weiter? Hast du deine Passion gefunden? Ist nach dem Circle vor dem Circle? Und wann gehen wir eigentlich feiern?</p>
 <p><strong>Als Vorbereitung</strong></p>
-<p>Wie geht es weiter? Was nimmst du dir als nächstes vor?</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+Wie geht es weiter? Was nimmst du dir als nächstes vor?</li>
+</ul>
 <p><strong>Im Weekly</strong></p>
-<p>Check in (2 Minuten pro Member)</p>
-<p>Warm Up: Besondere Merkmale (5 Minuten)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Check in (2 Minuten pro Member)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Warm Up: Besondere Merkmale (5 Minuten)</p></li>
+</ul>
 <p>In dieser Woche gibt es kein klar definiertes Programm mit weiteren Übungen. Das Ergebnis eurer Arbeiten habt ihr schon in Woche 11 vorgestellt - jetzt ist die Zeit, den Sprint gemeinsam ausklingen zu lassen.</p>
 <p>Sprecht über den Circle und eure Erfahrungen in den letzten Wochen. Was ihr gelernt habt und was der Lernpfad mit euch gemacht hat. Vielleicht habt ihr schon Ideen, was ihr als nächstes vorhabt. Wenn nicht, lasst euch von den anderen inspirieren. Besprecht, mit was ihr die Wochen nach dem Sprint ausfüllen wollt, denn es ist auf jeden Fall wichtig, dran zu bleiben, damit die Skills und die positiven Gewohnheiten, die ihr im Sprint aufgebaut habt, weiter gefestigt werden. Wie wäre es mit einer neuen Iteration des Sketchnote Lernpfad mit neuen Zielen und neuem Fokus?</p>
-<p>Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern.</p>
-<p>Check out (1 Minute pro Member)</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+Ihr habt die letzen Wochen Großartiges geleistet - das solltet ihr auf jeden Fall in dieser Woche feiern.</p></li>
+<li><p><input type="checkbox" disabled="" />
+Check out (1 Minute pro Member)</p></li>
+</ul>
 
 <h1 id="kata-log"><strong>Kata-Log</strong></h1>
 <h2 id="kata1-sketchnote-selfie">Kata1: Sketchnote-Selfie</h2>
@@ -556,15 +722,28 @@
 <li><p>…</p></li>
 </ol>
 <p>Besprecht eure Ansätze im Circle.</p>
+<p><strong>Weitere Informationen:</strong></p>
+<ul>
+<li>Video: <a href="https://www.youtube.com/watch?v=fmV0gXpXwDU">Big Rocks</a></li>
+<li>Podcast: <a href="http://www.asianefficiency.com/schedule-management/color-code-your-calendar/">Never enoough time - Schedule your priorities by colorcoding your calendar</a></li>
+</ul>
 <h2 id="kata-6-letter-deinen-lieblingsspruch">Kata 6: Letter deinen Lieblingsspruch</h2>
 <p>Eine Sketchnote lässt sich sehr gut mit verschiedenen Schriftarten und -größen gestalten und gliedern. Doch oft fallen wir beim Sketchnoten wieder zurück in unseren Gewohnheiten und nutzen immer nur dieselben, alten Lettern.</p>
 <p>Nimm dir für diese Kata ein DIN-A5-Blatt und einen nicht zu langen Spruch deiner Wahl. Überlege dir, welche Wörter du in welcher Schrift und in welcher Größe schreiben möchtest. Was ist besonders wichtig, wo schwingt welche Emotion mit? Vielleicht machst du auch erst einmal eine kleine Bleistiftskizze für die Größenverhältnisse und zeichnest dann in sauber nach. Wenn du Inspiration für Schriften brauchst, schau dir doch die entsprechenden Karten im Sketchnote Game an.</p>
 <p><strong>Weitere Informationen:</strong></p>
-<p>Videos: <a href="https://www.youtube.com/watch?v=_QA_NScPlt8">How to Write Neatly + Improve Your Handwriting</a><a href="https://www.youtube.com/watch?v=1YXjAu9o11o">How to Improve your Handwriting | For Note-Taking and Journaling</a><a href="https://www.youtube.com/watch?v=aK2SLQx6j9Q">5 tips on how I improved my handwriting</a></p>
+<ul>
+<li>Video: <a href="https://www.youtube.com/watch?v=_QA_NScPlt8">How to Write Neatly + Improve Your Handwriting</a></li>
+<li>Video: <a href="https://www.youtube.com/watch?v=1YXjAu9o11o">How to Improve your Handwriting | For Note-Taking and Journaling</a></li>
+<li>Video: <a href="https://www.youtube.com/watch?v=aK2SLQx6j9Q">5 tips on how I improved my handwriting</a></li>
+</ul>
 <h2 id="kata-7-nimm-dir-zeit-beim-schreiben">Kata 7: Nimm dir Zeit beim Schreiben</h2>
 <p>Ein Killer-Kriterium für eine gute Sketchnote ist ihre Lesbarkeit. Vor allem, wenn wir oft viel zu viel auf Tastaturen herumtippen und im Alltag nicht viel mit der Hand schreiben, ist die antrainierte Schönschrift aus der Grundschule oft nur noch eine blasse Erinnerung.</p>
 <p>Im Anhang findest du ein Übungsblatt zur “Architects Handwriting”, die für ihre sehr gute Lesbarkeit bekannt ist. Wenn du deine eigene Handschrift oft kaum lesen kannst, solltest du dir vielleicht regelmäßig etwas Zeit nehmen, um diese Schrift zu trainieren.</p>
-<p>Eine andere Herangehensweise ist es, dir einmal deutlich mehr Zeit fürs Schreiben zu nehmen und zu schauen, welche Auswirkungen das auf deine Lesbarkeit hat. Schreib dazu einen kurzen Satz in deiner normalen Handschrift und stopp dabei (ungefähr) die Zeit. Schreib dann den gleichen Satz noch einmal, mit doppelt so viel Zeit und vielleicht noch einmal, noch langsamer. Schau dir die Buchstaben genau an, was verändert sich? Beschleunige jetzt allmählich wieder und versuche dabei die positiven Veränderungen beizubehalten.Ressource dazu: Architects Handwriting</p>
+<p>Eine andere Herangehensweise ist es, dir einmal deutlich mehr Zeit fürs Schreiben zu nehmen und zu schauen, welche Auswirkungen das auf deine Lesbarkeit hat. Schreib dazu einen kurzen Satz in deiner normalen Handschrift und stopp dabei (ungefähr) die Zeit. Schreib dann den gleichen Satz noch einmal, mit doppelt so viel Zeit und vielleicht noch einmal, noch langsamer. Schau dir die Buchstaben genau an, was verändert sich? Beschleunige jetzt allmählich wieder und versuche dabei die positiven Veränderungen beizubehalten.</p>
+<p><strong>Weitere Informationen:</strong></p>
+<ul>
+<li>Blogpost: <a href="http://www.openculture.com/2018/02/how-to-write-like-an-architect-short-primers-on-writing-with-the-neat-clean-lines-of-a-designer.html">How to Write Like an Architect: Short Primers on Writing with the Neat, Clean Lines of a Designer</a></li>
+</ul>
 <h2 id="kata-8-einkaufszettel">Kata 8: Einkaufszettel</h2>
 <p>Erstelle deinen Einkaufszettel statt mit Wörtern mit Sketchnotes. Übe auf diese Weise unterschiedliche Symbolen für Gemüse, Obst, Tiere, Getränke, Lebensmittel und Drogerieartikel. Nach einem Monat schaue dir deinen Einkaufszettel an und erstelle für jede der 6 Kategorien eine eigene visuelle Bibliothek.</p>
 <p>1 Einkaufszettel - 10 Minuten</p>
@@ -574,7 +753,11 @@
 <p>Lege dir für deine Themen eine Bildbibliothek an. Notiere dafür 10 Schlüsselbegriffe aus deinem Themenbereich. Und nun suche in deiner Umgebung, in Büchern, in Bildern und Medien nach Anregungen für deine eigene Darstellung. Zeichne unterschiedliche Varianten oder nur eine. Wähle aus, was am besten zu dir passt. Das speichere in deiner Sammlung.</p>
 <p>Stelle im Weekly deine Ideen vor und diskutiere in der Gruppe darüber. Diskutiert, wo ihr die besten Anregungen gefunden habt.</p>
 <p><strong>Weitere Informationen:</strong></p>
-<p><a href="http://www.thenounproject.com">The noun project</a> - freie online-Datenbank mit Bildsymbolen Video Doug Neill: <a href="https://www.youtube.com/watch?v=z8UkHGpykYU">How to expand your visual language - Build up from basic icons to more complex representations of ideas.</a>John Atkinson - <a href="https://wronghands1.com/">Cartoons for Sketchnotes</a></p>
+<ul>
+<li>Website: <a href="http://www.thenounproject.com">The noun project</a> - freie online-Datenbank mit Bildsymbolen</li>
+<li>Video: Doug Neill: <a href="https://www.youtube.com/watch?v=z8UkHGpykYU">How to expand your visual language - Build up from basic icons to more complex representations of ideas.</a></li>
+<li>Website: John Atkinson - <a href="https://wronghands1.com/">Cartoons for Sketchnotes</a></li>
+</ul>
 <h2 id="kata-10-was-bedeuten-farben-für-dich">Kata 10: Was bedeuten Farben für dich?</h2>
 <p>Farben transportieren Emotionen direkter als jedes Layout. Beantworte die folgenden Fragen für dich.</p>
 <ul>
@@ -588,7 +771,9 @@
 <p>Gibt es Unterschiede in der Wahrnehmung?</p>
 <p>Ändert sich daraus etwas für dich?</p>
 <p><strong>Weitere Informationen:</strong></p>
-<p>Video Brandy Agerbeck: <a href="https://www.youtube.com/watch?v=s5h0wOtEWcg">The color spectrum</a></p>
+<ul>
+<li>Video Brandy Agerbeck: <a href="https://www.youtube.com/watch?v=s5h0wOtEWcg">The color spectrum</a></li>
+</ul>
 <figure>
 <img src="sketchnotes/farbkreis.png" alt="Farbkreis by @DenkFlowRR CC-BY" id="mid" class="center" height="300" /><figcaption>Farbkreis by <span class="citation" data-cites="DenkFlowRR">@DenkFlowRR</span> CC-BY</figcaption>
 </figure>
@@ -646,14 +831,19 @@
 <h2 id="kata-16-videosketching-did-you-get-it">Kata 16: Videosketching: Did you get it?</h2>
 <p>Teilt euch in 2er Teams auf. Sucht euch beide ein kurzes Video zu einem interessanten Thema aus und sketchnotet es (ohne zu verraten, was ihr sketchnotet). Teilt dann das Ergebnis mit eurer Partnerin / eurem Partner. Diese/r schaut sich zuerst die Sketchnote an und schaut dann das Video. Bereitet euer Feedback vor, entweder macht ihr einen Einzeltermin oder ihr teilt euer Feedback im Circle.</p>
 <p><strong>Leitfragen für die Analyse und das Feedback:</strong></p>
-<p>Wie lesbar ist die Sketchnote?</p>
-<p>Wie verständlich ist die Sketchnote?</p>
-<p>Wie fesselnd findest du die Sketchnote?</p>
-<p>Wie informativ ist die Sketchnote?</p>
-<p>Wie ist die Sketchnote strukturiert?</p>
+<ul>
+<li><p>Wie lesbar ist die Sketchnote?</p></li>
+<li><p>Wie verständlich ist die Sketchnote?</p></li>
+<li><p>Wie fesselnd findest du die Sketchnote?</p></li>
+<li><p>Wie informativ ist die Sketchnote?</p></li>
+<li><p>Wie ist die Sketchnote strukturiert?</p></li>
+</ul>
 <h2 id="kata-17-feedback-zum-inhalt">Kata 17: Feedback zum Inhalt</h2>
 <p>Für Sketchnotes ist aktives Zuhören und die wichtigsten Informationen (Kernthesen), beispielsweise eines Vortrags zu erfassen, sehr wichtig.</p>
-<p>Warum dann nicht direkt auf die Vortragenden und Veranstaltungsorganisatoren zugehen und diese um Feedback zum Inhalt deiner Sketchnote bitten? Wurden die Informationen vollständig erfasst? Sind die Kernthesen enthalten? Zum Ende eines Meetings könntest du bei den Teilnehmenden Rückmeldungen zu deiner Sketchnote erfragen. Sind die Teilnehmer der Meinung, dass du die wichtigsten Punkte aus dem Meeting erfasst und entsprechend gewichtet hast? Wenn es von einem Vortrag mehrere Sketchnotes unterschiedlicher Sketchnoter gibt, könntest du den Informationsgehalt der Sketchnotes miteinander vergleichen und die jeweils erfassten Informationen bewerten. Teilt eure Erfahrungen über Möglichkeiten, Feedback zum Inhalt eurer Sketchnotes zu erhalten in eurem Circle (20 Minuten). Sprecht über eure Erkenntnisse und reflektiert darüber, wie euch Feedback zum Inhalt dabei helfen kann eure Sketchnote-Fähigkeiten zu verbessern.</p>
+<p>Warum dann nicht direkt auf die Vortragenden und Veranstaltungsorganisatoren zugehen und diese um Feedback zum Inhalt deiner Sketchnote bitten? Wurden die Informationen vollständig erfasst? Sind die Kernthesen enthalten?</p>
+<p>Zum Ende eines Meetings könntest du bei den Teilnehmenden Rückmeldungen zu deiner Sketchnote erfragen. Sind die Teilnehmer der Meinung, dass du die wichtigsten Punkte aus dem Meeting erfasst und entsprechend gewichtet hast?</p>
+<p>Wenn es von einem Vortrag mehrere Sketchnotes unterschiedlicher Sketchnoter gibt, könntest du den Informationsgehalt der Sketchnotes miteinander vergleichen und die jeweils erfassten Informationen bewerten.</p>
+<p>Teilt eure Erfahrungen über Möglichkeiten, Feedback zum Inhalt eurer Sketchnotes zu erhalten in eurem Circle (20 Minuten). Sprecht über eure Erkenntnisse und reflektiert darüber, wie euch Feedback zum Inhalt dabei helfen kann eure Sketchnote-Fähigkeiten zu verbessern.</p>
 <h2 id="kata-18-top5-ressourcen">Kata 18: Top5 Ressourcen</h2>
 <p>Vielleicht hast du schon Zeit gehabt euch die Ressourcen-Liste am Ende des Leitfadens anzuschauen. Was hat dir besonders gefallen? Fehlt dir etwas, das dich inspiriert hat oder etwas, das dich Sketchnoting aus einer ganz anderen Perspektive sehen lässt? Schreib eine Liste mit deinen Top5 auf und stellt euch eure Listen im Weekly vor. Findet eine Möglichkeit, euch die Listen gegenseitig zur Verfügung zu stellen.</p>
 <h2 id="kata-19-soulshineselfie">Kata 19: SoulshineSelfie</h2>
@@ -688,7 +878,10 @@
 <p>Nimm einen zweiten, andersfarbigen Stift und vervollständige die Kringel mit Schnäbeln, Beinen, Flügeln, füge Schatten und Schattierungen hinzu wenn du möchtest.</p>
 <p>Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest du sie auch später auf Twitter oder Instagram teilen?</p>
 <p><strong>Weitere Informationen:</strong></p>
-<p>Video <a href="https://www.youtube.com/watch?v=vK3yQBouzNs">Dave Gray - Squiggle birds</a>Video <a href="https://www.youtube.com/watch?v=IrLwkyWBB7w">Hirameki - draw what you see</a></p>
+<ul>
+<li>Video: <a href="https://www.youtube.com/watch?v=vK3yQBouzNs">Dave Gray - Squiggle birds</a></li>
+<li>Video: <a href="https://www.youtube.com/watch?v=IrLwkyWBB7w">Hirameki - draw what you see</a></li>
+</ul>
 <h2 id="ziele-woche-1">Ziele (Woche 1)</h2>
 <p>Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander Wie visualisiert ihr, dass die Ziele erreicht wurden?</p>
 <h2 id="ganz-groß-und-ganz-klein-woche-2">Ganz groß und ganz klein (Woche 2)</h2>
@@ -726,12 +919,12 @@
 <h2 id="figuren-in-aktion-woche-10">Figuren in Aktion (Woche 10)</h2>
 <p>Zeichnet verschiedene Figuren-Typen und zeigt sie einander.</p>
 <p>Einigt Euch auf 5 Tätigkeiten und zeichnet Eure Figuren in Aktion. Vergleicht, wie ihr die Tätigkeiten dargestellt habt!</p>
-<p>Weitere Informationen: (Sketchnote-Game Kapitel Figuren)[https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf]</p>
+<p>Weitere Informationen: <a href="https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf">Sketchnote-Game Kapitel Figuren</a></p>
 <h2 id="emotionen-woche-11">Emotionen (Woche 11)</h2>
 <p>Weiter geht es mit den Figuren – auch Emotionen lassen sich mit ihnen darstellen!</p>
 <p><em>Variante 1</em>: Alle zeichnen verschiedene Emotionen und drücken sie durch Körperhaltung aus. Teilt Eure Ergebnisse und findet heraus, welche Emotion dargestellt wurde.</p>
 <p><em>Variante 2</em>: Experimentiert mit dem Gesichtsgenerator aus dem Sketchnote-Spiel und stellt verschiedene Emotionen durch Gesichtsausdrücke dar!</p>
-<p>Weitere Informationen: (Sketchnote-Game Kapitel Figuren)[https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf]</p>
+<p>Weitere Informationen: <a href="https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf">Sketchnote-Game Kapitel Figuren</a></p>
 <h2 id="besondere-merkmale-woche-12">Besondere Merkmale (Woche 12)</h2>
 <p>Sammelt verschiedene Augen, Nasen, Frisuren, Brillen, Bärte… und weitere Merkmale (Kleidung, Accessoires). Teilt und vergleicht Eure Sammlungen miteinander.</p>
 <p>Spielt eine Runde Mensch-O-Mat oder generiert selbst die Zutaten für skurrile Figuren!</p>
@@ -784,8 +977,8 @@
 <p><strong>Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops</strong> - Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)</p>
 <p><strong>Giorgia Lupi &amp; Stefanie Posavec - Observe, collect, draw (data visualization)</strong> - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)</p>
 <h2 id="communities">Communities</h2>
-<p>(Sketchnote Army)[https://sketchnotearmy.com/] (Slack channel)[https://sketchnote-army.slack.com/join/shared_invite/enQtMzkwNDQ5MDk5NjM2LTkxNDk0ODAyMDEzMDViNzM3Mzg4NWVjM2YxNTZlMjE3MmEzMTNkYTA0NzIzZmU2NzY3ZDBiMTc3MTNkMjljMTQ]</p>
-<p>Sketchnotes Germany auf (XING)[https://www.xing.com/communities/groups/sketchnotes-germany-1094723] und (Facebook)[https://www.facebook.com/groups/sketchnotesgermany/]</p>
+<p><a href="https://sketchnotearmy.com/">Sketchnote Army</a> <a href="https://sketchnote-army.slack.com/join/shared_invite/enQtMzkwNDQ5MDk5NjM2LTkxNDk0ODAyMDEzMDViNzM3Mzg4NWVjM2YxNTZlMjE3MmEzMTNkYTA0NzIzZmU2NzY3ZDBiMTc3MTNkMjljMTQ">Slack channel</a></p>
+<p>Sketchnotes Germany auf <a href="https://www.xing.com/communities/groups/sketchnotes-germany-1094723">XING</a> und <a href="https://www.facebook.com/groups/sketchnotesgermany/">Facebook</a></p>
 <h2 id="inspirierende-menschen-newsletter-social-media-accounts">Inspirierende Menschen / Newsletter / Social Media Accounts</h2>
 <p>Malte von Tiesenhausen - <a href="https://www.instagram.com/malte_von_tiesenhausen/">Instagram</a></p>
 <p>Eva-Lotta Lamm - <a href="https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&amp;id=2ba2f4f8a3">Newsletter</a>, <a href="https://www.instagram.com/evalottchen/">Instagram</a></p>

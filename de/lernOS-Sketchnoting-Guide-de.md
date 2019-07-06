@@ -734,6 +734,8 @@ Nimm dir für diese Kata ein DIN-A5-Blatt und einen nicht zu langen Spruch deine
 - Video: [How to Improve your Handwriting | For Note-Taking and Journaling](https://www.youtube.com/watch?v=1YXjAu9o11o)
 - Video: [5 tips on how I improved my handwriting](https://www.youtube.com/watch?v=aK2SLQx6j9Q)
 
+![Beispiele für Schrift by @katja.visualisiert CC-BY](sketchnotes/fonts_sample.png){#mid .center height=300}
+
 ## Kata 7: Nimm dir Zeit beim Schreiben 
 
 Ein Killer-Kriterium für eine gute Sketchnote ist ihre Lesbarkeit. Vor allem, wenn wir oft viel zu viel auf Tastaturen herumtippen und im Alltag nicht viel mit der Hand schreiben, ist die antrainierte  Schönschrift aus der Grundschule oft nur noch eine blasse Erinnerung.
@@ -822,10 +824,6 @@ Welche dieser Layouts nutzt du bereits?
 Welches Layout wolltest du immer schon einmal einsetzen?
 
 Trainier deine Container!
-
-….
-
-….
 
 ![Layout Inspiration by @DenkFlowRR CC-BY](sketchnotes\layout_inspiration.png){#mid .center height=300}
 
@@ -1256,7 +1254,25 @@ Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, sol
 
 **Keep Calm & Sketch On!**
 
+# Übungsblatt "Architects Handwriting" Seite 1
+
+![](sketchnotes/architect_pg1.png){#mid .center height=770}
+
+# Übungsblatt "Architects Handwriting" Seite 2
+
+![](sketchnotes/architect_pg2.png){#mid .center height=770}
+
+# Übungsblatt "Kreise"
+
+![](sketchnotes/circles.png){#mid .center height=770}
+
+# Reflexionsnetz
+
+![](sketchnotes/reflections.png){#mid .center height=770}
+
 \newpage
+
+
 
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |

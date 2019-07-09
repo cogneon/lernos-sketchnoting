@@ -44,9 +44,13 @@ Wenn du mehr wissen willst, kannst alles über lernOS [bei Cogneon](https://cogn
 
 **Warum ein Sketchnote Lernpfad?**
 
-Na klar, Übung macht den Meister und Sketchnotes sind für jeden etwas anderes.
+In der aktuellen [VUCA](https://de.wikipedia.org/wiki/VUCA)-Welt können Sketchnotes ein supernützliches Werkzeug sein, dass dir hilft Informationen zu strukturieren und tief zu durchdringen. Sie können dir aber auch beim Lernen von neuen Dingen helfen oder dich und dein Team unterstützen, ein gemeinsames Bild zu bekommen
 
-Was aber immer hilft beim besser werden, sind Motivation, konstruktives Feedback und Zugang zu guten Ressourcen zum Thema. Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
+Wie bei allem gilt auch beim Sketchnoten: Übung macht den Meister! 
+
+ Motivation, konstruktives Feedback und Zugang zu guten Ressourcen sind die Grundlage für Üben, das Spaß macht. Und nur wenn es Spaß macht, bleibst du dran... 
+ 
+ Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
 
 a) eine Einführung ins Sketchnoting & Wissen zu Material und Grundlagen (Kapitel 4) 
 
@@ -170,11 +174,13 @@ Wie schon Stift und Papier, hat auch das Sketchnoten auf dem Tablet ein paar Nac
 
 Apps zum Sketchen: 
 
-- [ProCreate](https://procreate.art/) - kostenpflichtig, für iOS
+- [ProCreate](https://procreate.art/) - kostenpflichtig, für iOS (Doug Neill stellt [ProCreate als Sketchnote-Tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) in einem Video vor)
 - [Paper by WeTransfer](https://paper.bywetransfer.com/) (früher by 53) - Basisversion kostenlos, Abomodell, für iOS
 - [Concepts](https://concepts.app/) - Basisversion kostenlos, für iOS, Android, Windows
 - Tayasui Sketches - Basisversion kostenlos, für [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=de)
 - [GoodNotes 5](https://www.goodnotes.com/) - kostenpflichtig, für IOS 
+
+Eine Übersicht über verschiedene Apps kannst du bei [Timo](https://sketchnoting.net/sketchnotes-apps/) finden. 
 
 ## Sketchnote Elemente
 

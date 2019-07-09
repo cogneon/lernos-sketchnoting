@@ -1,6 +1,6 @@
 # Preface
 
-The verb "lernos" is the future tense of "learning" in the Esperanto language (mi lernos = I will learn, ni lernos = we will learn). **lernOS** is an **operating system** for **lifelong learning** and **learning organizations**. But lernOS is not software, it's "brainware". It is a way to think and act to be successful in the 21st century as an individual, a team or a whole organization.
+The verb "lernos" is the future tense of "learning" in the Esperanto language (mi lernos = I will learn, ni lernos = we will learn). **lernOS** is an **operating system** for **lifelong learning** and **learning organizations**. But lernOS is not a software package, it's "brainware". It is a way to think and act created to be successful in the 21st century as an individual, a team or a whole organization.
 
 There are **three guides** that describe the approach on the **individual level** (lernOS for You), the **team level** (lernOS for Teams), and the **organizational level** (lernOS for Organizations).  Additionally there is the **lernOS Toolbox** describing commonly used methods and tools (e.g. Podcasting, Expert Debriefing, Barcamps, Sketchnoting). lernOS is not invented on the green field but a compilation of existing and tested methods. All guides are available under the **open Creative Commons Attribution (CC BY) license** on the [lernOS Website](https://lernos.org). 
 
@@ -8,7 +8,7 @@ If you have **further questions** regarding lernOS or need **peer support** you 
 
 # Acknowledgments
 
-Many thanks to Simon Dückert for the original lernOS, and his technical and moral support! This guide was written by: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke)
+Many thanks to Simon Dückert for creating lernOS, and his technical and moral support! This guide was written by: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke)
 
 The authors have been massively supported by: 
 
@@ -33,70 +33,70 @@ A big "thank you" for constructive feedback and improvements of the guide goes t
 
 # Introduction
 
-To get the most out of this guide, you should know lernOS on which this guide is based. The most important thing in a sketch note:
+To really profit the most from this guide, you should know the basics of lernOS. We based this guide on the original lernOS guides by Simon. The essence of lernOS is captured in the following Sketchnote:
 
 ![LernOS in a nutshell by Karl Damke CC-BY](sketchnotes/lernos_in_a_nutshell.png)
 
-If you want to know more, you can read all about lernOS [at Cogneon](https://cogneon.github.io/lernos-core/), download the guide or listen to [this podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) with lernOS mastermind Simon Dückert. In the lernOS Sketchnote Guide we will refer to certain content from the lernOS Guide or further resources in some places. But don't stress yourself and concentrate on the contents and methods that are immediately important for you - so you still have something left for the next sprints. ;)  
+If you want to know more, you can dive into lernOS at the [Cogneon website](https://cogneon.github.io/lernos-core/), download the guides or listen to [this podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) (in German) with lernOS mastermind Simon Dückert himself. In the lernOS Sketchnote Guide we will refer to certain content from the lernOS Guide or further resources in some places. But don't stress yourself and concentrate only on what's important to you. That way, you'll still have something left for the following sprints. ;)  
 
-**Why a Sketchnote Learning Path?
+**Why a Sketchnote Learning Path?**
 
-Of course, practice makes perfect and sketch notes are different for everyone.
+The current world, mainly in a business context, is often described using the acronym [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity), volatile, uncertain, complex and ambigous. Sketchnotes, also known as visual notes, can be used as a super helpful tool. They can be utilized to structure complex information and foster comprehension. They can also support learning something new or create the literal common picture in your project team. 
 
-But what always helps to get better is motivation, constructive feedback and access to good resources on the subject. Therefore we have developed the lernOS Sketchnote Learning Path. It contains 
+Therefor, we create the lernOS Sketchnote Learning Path. It consists of 
 
-a) an introduction to sketching & knowledge of material and basics (chapter 4) 
+a) an introduction to sketchnoting, its basic materials and elements (chapter 4) 
 
-b) 23 Katas (exercises) on the most important areas of sketching (Chapter 5)
+b) 23 Katas (exercises) striving to improve the most important qualities of Sketchnotes (Chapter 5)
 
-(c) to provide resources for learning, networking and inspiration
+(c) a [brobdingnagian](https://en.wikipedia.org/wiki/Brobdingnag) list of resources for learning, networking and as a source of inspiration
 
-The learning path works for all "levels", no matter if you have been sketching for 5 minutes or 5 years. If you are at the very beginning, chapter 4 will surely help you to get started.
+The learning path works for all "levels", no matter if you sketchnote since 5 minutes or 5 years. If you are at the very beginning, chapter 4 will kickstart your Sketchnoting capabilities. 
 
 # Basics
 
-No practice without a little theory. In the following chapter we will discuss the basics of sketching.
+Theory is base for everything practical, isn't it? So, in the following chapter we are discussing the basics of Sketchnoting.
 
-## What are sketch notes?
+## What are Sketchnotes?
 
-"*Sketch notes are visual notes consisting of a mixture of handwriting, drawings, hand-drawn typography, shapes, and graphic elements such as arrows, boxes & lines. "* *- Mike Rohde, author of the * [*Sketchnote Handbook*](http://rohdesign.com/) *and "inventor" of the term sketchnote.
+"*Sketchnotes are visual notes consisting of a mixture of handwriting, drawings, hand-drawn typography, shapes, and graphic elements such as arrows, boxes & lines. "* *- Mike Rohde, author of the * [*Sketchnote Handbook*](http://rohdesign.com/) *and "inventor" of the term sketchnote.
 
 *"Sketchnotes is scribbling while you take notes "* *- Kevin Thorn,* [*Nuggethead*](http://nuggethead.net/2013/01/what-are-sketch-notes/)
 
 ![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png){#mid .center height=400}
 
-Who hasn't painted, drawn and above all scribbled on all surfaces as a child? Doodling is a super-easy way to understand and share information. Sunni Brown describes this very impressively in her TED talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In her book "The Doodle Revolution", Sunni shows how sketching information can motivate innovation and creative thinking by being succinct, concise and easy to understand.
+Who hasn't doodled, drawn and scribbled on every nearly even surface as a kid? Doodling is a super-easy way to understand and share information. Sunni Brown describes this very impressively in her TED talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In her book "The Doodle Revolution", Sunni shows how sketching information can foster innovative and creative thinking by being succinct, concise and easy to understand.
 
-Historically, we humans are visual beings. We have been using images for more than (20,000 years)[https://journal.lib.uoguelph.ca/index.php/perj/article/view/3137], the oldest cave paintings are even older. They are partly dated to more than (35.000 years)[https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei].
+Historically, we humans are visual beings. We have been using images for more than (20,000 years)[https://journal.lib.uoguelph.ca/index.php/perj/article/view/3137], the oldest cave paintings are even older. They are partly dated to more than (35.000 years)[https://en.wikipedia.org/wiki/Cave_painting].
 
-From a scientific point of view, sketch notes are supported by the "[Dual Encoding Theory](https://en.wikipedia.org/wiki/Dual-coding_theory)". This theory describes that information that is encoded and stored twice, i.e. in our case as text and image, is more strongly anchored. They can later be remembered more quickly and accurately than "simple" text notes. The use of pen and paper, or even digital stylus and tablet, has immense advantages over, for example, typing on a laptop in a lecture or a meeting. (see article by [Oppenheimer and Mueller](https://journals.sagepub.com/doi/10.1177/0956797614524581)) The Sketchnoter's deep understanding of concepts and ideas is therefore much easier and quicker to grasp than the "clerk" who puts everything down on paper word for word or hacks it into his notebook.
+From a scientific point of view, Sketchnotes are supported by the "[Dual Encoding Theory](https://en.wikipedia.org/wiki/Dual-coding_theory)". This theory describes how information that is encoded and stored twice, i.e. in our case as text and image, is more strongly anchored. These information or data can later be remembered more quickly and accurately than those anchored by the use of "simple" text notes. The use of pen and paper, or even digital stylus and tablet, has immense advantages over, for example, typing on a laptop in a lecture or a meeting. (see article by [Oppenheimer and Mueller](https://journals.sagepub.com/doi/10.1177/0956797614524581)) The Sketchnoter's therefore is able to create a deep understanding of concepts and ideas much easier and quicker than the "clerk" who puts everything down on paper word for word or hacks it into his laptop computer.
 
-Perhaps this is because when scribbling and sketching, a constructive process takes place in the brain. We have to assemble the various elements like Lego bricks and integrate and organize our knowledge so that there is no total chaos on the paper. As Hazel Messenger further writes in her article "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)", the connection of feeling, feeling, thinking and doing also generates new knowledge, i.e. is constructed from all these components. 
+Perhaps this is because when we are scribbling and sketching, a constructive process takes place in our brain. We have to assemble the various elements like Lego bricks to integrate and organize our knowledge to avoid creating total chaos on the paper. As Hazel Messenger further discusses in her article "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)", the connection of experiencing by feeling, thinking and doing also generates new knowledge, which is constructed from all these components. 
 
-Simply to the point: Images, especially in combination with text, are simply superior to pure text. Literature speaks of the [Picture Superiority Effect](https://psycnet.apa.org/record/2011-13423-001). 
+Simply on point: Images, especially in combination with text, are vastly superior to pure text. Scientific literature knows this as the aptly named [Picture Superiority Effect](https://psycnet.apa.org/record/2011-13423-001). 
 
-If this is too complex and text-heavy for you, we have created a sketch note for you: 
+If this is too complex and text-heavy for you, we created a Sketchnote for you: 
 
 ![Sketchnotes - An Academic Approach by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=500}
 
-## What can I do with sketch notes?
+## What can I do with Sketchnotes?
 
-You can sketch practically anything. Here are just a few examples:
+You can sketchnote anything, literally. Here are just a few examples:
 
 - Recipes
-- lawsuits
-- organizations
-- tales
-- marketing plans
-- business models
-- university lectures
-- maths lesson
+- Processes
+- Organizational structures
+- Stories
+- Marketing campaings
+- Business models
+- University lectures
+- Maths lesson
 - Sermons in the Church
-- relationship maps
-- plays
-- book contents
+- Relationship maps
+- Plays
+- Book contents
 
-So you can do sketch notes:
+So you can use Sketchnotes to:
 
 - Sketch solutions to problems
 - Find ideas
@@ -104,55 +104,57 @@ So you can do sketch notes:
 - accumulate wealth (perhaps...)
 - have fun
 - Improve collaboration
-- Sharing knowledge with other people!
-- Creating participation and understanding
-- dismantle barriers
+- Share knowledge with other people!
+- Create participation and understanding
+- overcome mental or physical barriers, e.g. by communicating with differently able persons
 
-## What do I need for sketching?
+## What do I need to Sketchnote?
 
-It all sounds nice, but what do I need to start with the sketching? Isn't it all totally complicated? Fortunately not! The only thing you really need is a pen and a pad on which you can sketch notes, that can be a pad, a notebook, a napkin or the famous beer mat. Of course, you can also digitally sketch notes on your tablet.
+But what do I need to start Sketchnoting? Isn't it all overly complicated? You are lucky, it's not! The only thing you really need is a pen and a paper on which you can Sketchnotes, that can be a notepad, a sheet of copier paper, a napkin or the famous beer mat. Of course, you can also digitally Sketchnotes on your tablet.
 
-### Sketch notes with pen and paper
+### Sketchnotes with pen and paper
 
-Pen and paper sketch notes are the "original" type of visual notes. This "analogue" approach has many advantages. Some are very subjective, it is best to form your own opinion:
+Pen and paper Sketchnotes are the "vanilla" type of visual notes. This "analogue" approach has many advantages. Some are very subjective. It might be best to form your own opinion:
 
-- Your paper doesn't have a battery, which is empty exactly when you want sketch notes ...
+- Your paper doesn't contain a battery, which is empty exactly when you want to do some Sketchnotes ...
 - Pen and paper don't constantly send you notifications and distract you with your Insta feed ...
-- If your notebook gets wet, you can dry it and it will probably still be legible afterwards. Throw your tablet into the bathtub ...
+- If your notebook gets wet, you can dry it and it will probably still be legible afterwards. Drop your tablet into the bathtub once...
 - Writing and drawing on paper just feels "right" ...
 - Pen and paper have a very intuitive user interface
-- In a digital age you are almost a rebel with pen and paper ...
-- You can put a sketch note on paper in someone's hand, you can touch it and experience it haptically. 
-- A sheet of paper has limits - with time you learn through this limitation to focus on the essential, the core messages!
-- Pen and paper are the cheapest way to sketch notes!
+- In a digital age you are almost some kind of a rebel with pen and paper ...
+- You can put a sketchnote on paper in someone's hand, you can touch it and experience it haptically. 
+- A sheet of paper has limits - with time you learn to focus on the essential, the core!
+- Pen and paper are the cheapest way to Sketchnotes!
 
 Of course each medal has two sides, a few things pen and paper can't do so well:
 
 - To share an analog sketch note online, you first have to scan or photograph it (the apps [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=de), [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de) or [Adobe Scan](https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834)) are very useful here, by the way.
-- Copy and Paste or Cut and Paste are basically possible with paper, but very expensive!
-- Corrections are not so easy or "disturb" the overall picture.
-- Enlarging and reducing elements is also not really possible ...
-- A leaf has limits - "Full is full", you can't extend analog sketch notes at will. (Except with enough tape...) 
+- Copy and Paste or Cut and Paste are basically possible with paper, but that comes with a lot of effort!
+- Corrections are not so easy or "disturb" the overall picture, all that glue residue...
+- Enlarging and shrinking elements is also not really possible ...
+- A sheet of paper has limits - you can't extend analog Sketchnotes at will. (Except with enough tape or glue...) 
 
-Even if many websites tell you something different, you don't need special paper or expensive notebooks, nor are expensive pens necessary. To start, simply take a piece of paper from the printer and the first pen on your desk.
+Even if many websites tell you something different, you don't need special paper or expensive notebooks, nor are expensive pens necessary. To start, simply take a piece of paper from the printer and the first pen ou find on your desk.
 
 #### Paper and pen recommendations
 
 You can find an extensive list on the [Sketchnote Hangouts] website (https://sketchnotehangout.com/resources/). 
 
-We have decided not to list brands and products here. We think Sketchnote doesn't need expensive pens and special notebooks. The simplest promotional gift pen and a back of a failed printout are perfect. 
+We have decided not to list brands and products here. We think Sketchnote do not need expensive pens and special notebooks. The simplest promotional gift pen and the back of a misprint are perfectly fine. 
 
-A "too beautiful" sketchbook is sometimes just that, too beautiful. You don't dare to start, out of concern to "ruin" the beauty. So: [KISS - Keep it simple, stupid!](https://de.wikipedia.org/wiki/KISS-Prinzip)
+Also, a "too beautiful" sketchbook is sometimes just that, too beautiful. You don't dare to start, out of concern to "ruin" the beauty. So: [KISS - Keep it simple, stupid!](https://de.wikipedia.org/wiki/KISS-Prinzip)
 
-### Digital Sketch Notes
+[comment]: # (2019-07-09 manual correction of machine translation up to this point by Lars Bartschat)
 
-Meanwhile you can also do super digital sketch notes. A tablet computer is usually recommended for this, most smartphones are still too small. (A Samsung Galaxy note might be enough, as Opels Art [here](https://www.youtube.com/watch?v=Lai-GBlRq9Y) shows...) Most tablets are somewhat more comfortable, such as the Apple iPad (Pro), the Samsung Galaxy Tab or the Microsoft Surface series.
+### Digital Sketchnotes
+
+Meanwhile you can also do super digital Sketchnotes. A tablet computer is usually recommended for this, most smartphones are still too small. (A Samsung Galaxy note might be enough, as Opels Art [here](https://www.youtube.com/watch?v=Lai-GBlRq9Y) shows...) Most tablets are somewhat more comfortable, such as the Apple iPad (Pro), the Samsung Galaxy Tab or the Microsoft Surface series.
 
 The digital sketch note has some immense advantages:
 
 - You can (depending on the app) easily move, zoom in and out, cut and copy elements.
 - Online sharing is built in...
-- Your sketch notes are stored in a file system and maybe even searchable...
+- Your Sketchnotes are stored in a file system and maybe even searchable...
 - Some apps offer you unlimited space for sketching notes (e.g. the "unlimited canvas" in the Concepts app), if you can think of some important points, you can add them at any time.
 
 Like pen and paper, the sketch note on the tablet has a few disadvantages:
@@ -161,13 +163,13 @@ Like pen and paper, the sketch note on the tablet has a few disadvantages:
 - Don't let the tablet fall, either in the bathtub or on the floor!
 - Such a tablet with a stylus (pen) is not really cheap...
 - Writing and drawing on glass feels strange, at least at the beginning. **#ProTipp:** A matt screen protection film creates a rougher surface. Many DigiSketchnotters like this somewhat paper-like writing feel. 
-- You need to know your app very well if you want to have fluid sketch notes. 
+- You need to know your app very well if you want to have fluid Sketchnotes. 
 - Many options and possibilities can distract you, as well as notifications about new mails, Twitter-DMs or Insta-Likes...
 - Unlimited drawing space can also be overwhelming and you want to include even the smallest dot in your sketch note. Sometimes less is simply more...
 
 Apps for sketching: 
 
-- [ProCreate](https://procreate.art/) - fee required, for iOS
+- [ProCreate](https://procreate.art/) - fee required, for iOS (You can find a video on [ProCreate as Sketchnoting Tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) on Doug Neill's YouTube-Channel)
 - [Paper by WeTransfer](https://paper.bywetransfer.com/) (formerly by 53) - Free basic version, subscription model, for iOS
 - [Concepts](https://concepts.app/) - Basic version free of charge, for iOS, Android, Windows
 - Tayasui Sketches - Basic version for free, for [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=en)
@@ -175,7 +177,7 @@ Apps for sketching:
 
 ## Sketchnote Elements
 
-No matter what the theme, you'll always use the same elements for your sketch notes. If you want to train them fundamentally, or need some inspiration and variety, we recommend "Sketch it - Das Kartenspiel" by Wibke Tiedmann and Stefanie Maurer, which you can [download here](https://sketchnotegame.wordpress.com/download-kartenspiel/) and use under CC BY SA 4.0.  All the following examples for the Sketchnote elements are from this game.
+No matter what the theme, you'll always use the same elements for your Sketchnotes. If you want to train them fundamentally, or need some inspiration and variety, we recommend "Sketch it - Das Kartenspiel" by Wibke Tiedmann and Stefanie Maurer, which you can [download here](https://sketchnotegame.wordpress.com/download-kartenspiel/) and use under CC BY SA 4.0.  All the following examples for the Sketchnote elements are from this game.
 
 *"*[*Sketch it - Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*" by*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, License:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
@@ -211,7 +213,7 @@ Connectors and arrows are strong structural elements in sketch marking. They cre
 
 ### Figures
 
-The figures are the actors on your sketch notes. They can be used to represent actions and emotions of individuals, teams or groups in different situations. It may be helpful to add faces or facial expressions to represent emotions, but we also express a lot of our feelings and emotions through our posture. Whether you give the characters a face or not depends almost entirely on your personal taste. 
+The figures are the actors on your Sketchnotes. They can be used to represent actions and emotions of individuals, teams or groups in different situations. It may be helpful to add faces or facial expressions to represent emotions, but we also express a lot of our feelings and emotions through our posture. Whether you give the characters a face or not depends almost entirely on your personal taste. 
 
 ![](sketchnotes/figures.png){#small .left height=250 float=left}
 
@@ -224,7 +226,7 @@ With diagrams you can visualize super data in your Sketchnote. Often programs li
 
 ![Sketchnotes Workflows by @BartschatLars, CC BY 4.0](sketchnotes/workflows.png){#mid .center height=300}
 
-### "One and Done" and iterative sketch notes
+### "One and Done" and iterative Sketchnotes
 
 A "One and Done" sketcher creates its sketch note, for example, during a talk at a conference or during a meeting. "One and Done" means that the Sketchnote is finished as soon as the event is finished. Maybe the last thing to do is to correct or add one or two small details, but "One and Done" is live.
 
@@ -264,7 +266,7 @@ Let's look at this from two perspectives. First, we look at when your individual
 
 ![Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
 
-Sketch notes are something different for everyone and will always be different for you, depending on the situation. Nevertheless, there are basic qualities that characterize a sketch mark that you still like to look at after years and that is also understandable for your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been working on these qualities for years. We adopted his classification of the qualities of a sketch mark and built the katas on them. 
+Sketchnotes are something different for everyone and will always be different for you, depending on the situation. Nevertheless, there are basic qualities that characterize a sketch mark that you still like to look at after years and that is also understandable for your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been working on these qualities for years. We adopted his classification of the qualities of a sketch mark and built the katas on them. 
 
 ![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
@@ -286,7 +288,7 @@ Let's look at this from two perspectives. First, we look at when your individual
 
 ![Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
 
-Sketch notes are something different for everyone and will always be different for you, depending on the situation. Nevertheless, there are basic qualities that characterize a sketch mark that you still like to look at after years and that is also understandable for your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been working on these qualities for years. We adopted his classification of the qualities of a sketch mark and built the katas on them. 
+Sketchnotes are something different for everyone and will always be different for you, depending on the situation. Nevertheless, there are basic qualities that characterize a sketch mark that you still like to look at after years and that is also understandable for your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been working on these qualities for years. We adopted his classification of the qualities of a sketch mark and built the katas on them. 
 
 ![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
@@ -322,9 +324,9 @@ Who are you? Introduce yourself. Here, of course, you should proceed on the basi
 
 - Would you rather work digitally or analogue?
 
-- Do you use sketch notes more privately or professionally?
+- Do you use Sketchnotes more privately or professionally?
 
-- How long have you been making sketch notes?
+- How long have you been making Sketchnotes?
 
 - What are your favorite materials (paper, pens, programs)? 
 
@@ -428,7 +430,7 @@ Each language consists of individual elements: Develop the picture elements that
 
 - Do you want to keep collecting icons and how do you want to share them? 
 
-- Which icons are your top 5 icons that you use again and again in sketch notes?
+- Which icons are your top 5 icons that you use again and again in Sketchnotes?
 
 - How satisfied are you with them? 
 
@@ -440,7 +442,7 @@ Each language consists of individual elements: Develop the picture elements that
 
 ## week 4: structure by pencils and color
 
-This week you will discover the world of colours and stroke widths and how to add them to your sketch notes.
+This week you will discover the world of colours and stroke widths and how to add them to your Sketchnotes.
 
 **As preparation**
 
@@ -474,7 +476,7 @@ Week 5 is all about order: Sort and group all used elements and combine them to 
 
 **As preparation**
 
-- [ ] Kata 13: Layouts for sketch notes 
+- [ ] Kata 13: Layouts for Sketchnotes 
 
 **In the weekly**
 
@@ -508,7 +510,7 @@ Pit stop: Reflect on what you have achieved, present it to your Circle Members a
 
 ## Week 7: Comprehensibility
 
-Do you hear me? This week you are testing whether your sketch notes convey the statements you intended.
+Do you hear me? This week you are testing whether your Sketchnotes convey the statements you intended.
 
 **As preparation**
 
@@ -529,14 +531,14 @@ Do you hear me? This week you are testing whether your sketch notes convey the s
 - How was the feedback regarding readability, layout, choice of words?
 - What worked particularly well for you?
 - What was particularly challenging for you? (e.g. speaking speed in the video, filtering important things, ...)
-- What did you learn for your next sketch notes, what do you want to keep and what do you want to do differently?
+- What did you learn for your next Sketchnotes, what do you want to keep and what do you want to do differently?
 
 - [ ] Check out (1 minute per member)
 
 
 ## Week 8: Sharing for Feedback
 
-After we gave each other feedback in week 7, you are now ready to go public: Actively get feedback on the content of your sketch notes from people outside the circle.
+After we gave each other feedback in week 7, you are now ready to go public: Actively get feedback on the content of your Sketchnotes from people outside the circle.
 
 **As preparation**
 
@@ -678,7 +680,7 @@ Define a Circle Moderator to take care of event and time management. One of the 
 
 ![Feedback by @DenkFlowRR CC-BY](sketchnotes/feedback.png){#mid .center height=400}
 
-A very important function of the circle is to get feedback on your goals and sketch notes and to give feedback to the others. To help you understand each other better, take a moment to talk about your idea of constructive feedback. This includes the question "Why do you visualise? and the principle "Compare yourself with yourself". 
+A very important function of the circle is to get feedback on your goals and Sketchnotes and to give feedback to the others. To help you understand each other better, take a moment to talk about your idea of constructive feedback. This includes the question "Why do you visualise? and the principle "Compare yourself with yourself". 
 
 **Further information:**
 
@@ -758,7 +760,7 @@ Another approach is to take a lot more time to write and see how this affects yo
 
 ## Kata 8: Shopping list
 
-Create your shopping list with sketch notes instead of words. Practice different symbols for vegetables, fruits, animals, drinks, groceries, and drugstore items. After one month, look at your shopping list and create your own visual library for each of the 6 categories.
+Create your shopping list with Sketchnotes instead of words. Practice different symbols for vegetables, fruits, animals, drinks, groceries, and drugstore items. After one month, look at your shopping list and create your own visual library for each of the 6 categories.
 
 1 Shopping list - 10 minutes
 
@@ -784,7 +786,7 @@ Colours transport emotions more directly than any layout.
 Answer the following questions for yourself.
 
 - Which colours do you like?
-- Which colors do you use for your sketch notes?
+- Which colors do you use for your Sketchnotes?
 - Do you use the colors consistently?
 - Which functions do colors fulfill for you?
 - How can you use colors as code?
@@ -803,14 +805,14 @@ Does this change anything for you?
 
 ## Kata 11: #Never enough pins    
 
-You can never have enough pens ;-) But for the beginning a black and a grey pencil and another colour is enough. Have a look at other sketch notes and plan for yourself which pens you need. With which pen thickness can you draw and write best? Which colors match your themes? Draw individual motifs with different pens and find your own style. Exchange ideas with each other:
+You can never have enough pens ;-) But for the beginning a black and a grey pencil and another colour is enough. Have a look at other Sketchnotes and plan for yourself which pens you need. With which pen thickness can you draw and write best? Which colors match your themes? Draw individual motifs with different pens and find your own style. Exchange ideas with each other:
 
 - Where and how do you set shadows?
 - How can color convey meaning?
 
 ## Kata 12: 1 Sketchnote 5 Colors
 
-Prepare a sketch note in black. Make multiple copies and prepare your colored pencils. In Weekly you color your sketch notes together in different ways. 
+Prepare a sketch note in black. Make multiple copies and prepare your colored pencils. In Weekly you color your Sketchnotes together in different ways. 
 
 **Suggestions for it:** 
 
@@ -821,7 +823,7 @@ Prepare a sketch note in black. Make multiple copies and prepare your colored pe
 - Color only for one! Highlight
 - Colour as a hierarchizing aid
 
-## Kata 13: Layouts for sketch notes
+## Kata 13: Layouts for Sketchnotes
 
 **Preperation:**
 
@@ -845,7 +847,7 @@ Agree on a video that you want to sketch together live. We recommend less than 1
 
 **In the Weekly:**
 
-Watch the video together and sketch the content. Then compare the sketch notes with each other. 
+Watch the video together and sketch the content. Then compare the Sketchnotes with each other. 
 
 - Which layout did you choose and why?
 
@@ -900,9 +902,9 @@ Then why not approach the speakers and event organisers directly and ask them fo
 
 At the end of a meeting, you could ask participants for feedback on your Sketch Mark. Do participants think you have captured the most important points from the meeting and weighted them accordingly?
 
-If there are several sketch notes from different sketch notes in a lecture, you could compare the information content of the sketch notes and evaluate the information collected.
+If there are several Sketchnotes from different Sketchnotes in a lecture, you could compare the information content of the Sketchnotes and evaluate the information collected.
 
-Share your experiences about ways to get feedback on the content of your sketch notes in your circle (20 minutes). Talk about your insights and reflect on how content feedback can help you improve your sketch mark skills.
+Share your experiences about ways to get feedback on the content of your Sketchnotes in your circle (20 minutes). Talk about your insights and reflect on how content feedback can help you improve your sketch mark skills.
 
 ## Kata 18: Top5 Resources
 
@@ -1126,7 +1128,7 @@ Neuland Hand 2.0 is a handwriting designed for graphic recorders and presenters 
 
 **[Verbal to Visual YouTube Channel](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)**
 
-YouTube channel by Doug Neill / "Verbal to Visual" with lots of practical tips and instructions around learning and using sketch notes. (English)
+YouTube channel by Doug Neill / "Verbal to Visual" with lots of practical tips and instructions around learning and using Sketchnotes. (English)
 
 **Pavo and Rob - [Coffee talk about sketching notes, lettering... YouTube channel](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)** 
 
@@ -1197,7 +1199,7 @@ Katja Reiter - [Instagram](https://www.instagram.com/katja.visualisiert/)
 
 Austin Kleon - ([Newsletter](https://austinkleon.com/newsletter/))
 
-Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Mo - Fr at 9:30 am (coffee talk with Pavo and Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketch notes on the Coffee talks
+Djangonaut [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Mo - Fr at 9:30 am (coffee talk with Pavo and Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes on the Coffee talks
 
 Nick Sousanis - [Twitter](https://twitter.com/Nsousanis)
 

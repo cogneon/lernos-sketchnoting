@@ -144,82 +144,80 @@ We have decided not to list brands and products here. We think Sketchnote do not
 
 Also, a "too beautiful" sketchbook is sometimes just that, too beautiful. You don't dare to start, out of concern to "ruin" the beauty. So: [KISS - Keep it simple, stupid!](https://de.wikipedia.org/wiki/KISS-Prinzip)
 
-[comment]: # (2019-07-09 manual correction of machine translation up to this point by Lars Bartschat)
 
 ### Digital Sketchnotes
 
-Meanwhile you can also do super digital Sketchnotes. A tablet computer is usually recommended for this, most smartphones are still too small. (A Samsung Galaxy note might be enough, as Opels Art [here](https://www.youtube.com/watch?v=Lai-GBlRq9Y) shows...) Most tablets are somewhat more comfortable, such as the Apple iPad (Pro), the Samsung Galaxy Tab or the Microsoft Surface series.
+Technology enables you to digitally sketchnote to your heart's content. A tablet computer is usually recommended for this, as most smartphones are still too small. (A Samsung Galaxy note might be enough though, as Opels Art [here](https://www.youtube.com/watch?v=Lai-GBlRq9Y) shows...) Most users deem tablets as somewhat more comfortable, such as the Apple iPad (Pro), the Samsung Galaxy Tab or the Microsoft Surface series.
 
-The digital sketch note has some immense advantages:
+The digital sketchnote way of life has some imminent advantages:
 
 - You can (depending on the app) easily move, zoom in and out, cut and copy elements.
-- Online sharing is built in...
-- Your Sketchnotes are stored in a file system and maybe even searchable...
-- Some apps offer you unlimited space for sketching notes (e.g. the "unlimited canvas" in the Concepts app), if you can think of some important points, you can add them at any time.
+- Online sharing fnuctionality is built in...
+- Your Sketchnotes are stored in a file system and maybe even searchable (some apps even offer [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition))...
+- Some apps offer unlimited space for your sketchnotes (e.g. the "unlimited canvas" in the Concepts app). So, if you absolutely need to add so much more stuff, you can do it. 
 
-Like pen and paper, the sketch note on the tablet has a few disadvantages:
+Like pen and paper, digital sketchnoting also has a some disadvantages:
 
-- With an empty battery you really look into the tube.
-- Don't let the tablet fall, either in the bathtub or on the floor!
-- Such a tablet with a stylus (pen) is not really cheap...
-- Writing and drawing on glass feels strange, at least at the beginning. **#ProTipp:** A matt screen protection film creates a rougher surface. Many DigiSketchnotters like this somewhat paper-like writing feel. 
-- You need to know your app very well if you want to have fluid Sketchnotes. 
-- Many options and possibilities can distract you, as well as notifications about new mails, Twitter-DMs or Insta-Likes...
-- Unlimited drawing space can also be overwhelming and you want to include even the smallest dot in your sketch note. Sometimes less is simply more...
+- Running low on battery power means that your digital sketchnoting is kicking the bucket...
+- Don't you ever drop the tablet, neither in the bathtub nor on the floor!
+- A nice tablet with a stylus (pen) is not cheap at all (buying used or refurbished eases that pain a whee bit though)...
+- Writing and drawing on glass feels strange, at least when you are starting out. **#ProTipp:** A matt screen protection film creates a rougher surface. Many DigiSketchnoters like this somewhat paper-like feel. 
+- You need to know your app very well if you want to fluidly create Sketchnotes. 
+- Many options and possibilities can distract you, as well as notifications, like new mails, Twitter-DMs or Insta-Likes...
+- Unlimited drawing space can also be overwhelming. You might be tempted to include even the smallest detail in your Sketchnote. Sometimes less is just more...
 
-Apps for sketching: 
+Apps for Sketchnoting: 
 
-- [ProCreate](https://procreate.art/) - fee required, for iOS (You can find a video on [ProCreate as Sketchnoting Tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) on Doug Neill's YouTube-Channel)
+- [ProCreate](https://procreate.art/) - paid app, for iOS (You can find a video on [ProCreate as Sketchnoting Tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) on Doug Neill's YouTube-Channel)
 - [Paper by WeTransfer](https://paper.bywetransfer.com/) (formerly by 53) - Free basic version, subscription model, for iOS
 - [Concepts](https://concepts.app/) - Basic version free of charge, for iOS, Android, Windows
 - Tayasui Sketches - Basic version for free, for [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=en)
-- [GoodNotes 5](https://www.goodnotes.com/) - chargeable, for IOS 
+- [GoodNotes 5](https://www.goodnotes.com/) - paid app, for IOS 
 
 ## Sketchnote Elements
-
-No matter what the theme, you'll always use the same elements for your Sketchnotes. If you want to train them fundamentally, or need some inspiration and variety, we recommend "Sketch it - Das Kartenspiel" by Wibke Tiedmann and Stefanie Maurer, which you can [download here](https://sketchnotegame.wordpress.com/download-kartenspiel/) and use under CC BY SA 4.0.  All the following examples for the Sketchnote elements are from this game.
+It doesn't matter on which topic you are doing a Sketchnote, they all use the same basic elements or building blocks. If you want to train them fundamentally, or need some inspiration and variety to improve your skills, we recommend "Sketch it - The Card Game" (german) by Wibke Tiedmann and Stefanie Maurer, which you can [download here](https://sketchnotegame.wordpress.com/download-kartenspiel/) and use under CC BY SA 4.0.  All the examples below are taken from this game.
 
 *"*[*Sketch it - Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*" by*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, License:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 ### Container
 
-A container structures a sketch note by providing a frame for other elements.
+By providing a frame for other elements, containers give structure and order to your Sketchnote. 
 
 ![](sketchnotes/container.png){#small .left height=250 align=left}
 
 ### Disconnector
 
-The separator ensures that the elements of a sketch note are clearly separated from each other, creating order and clarity.
+The separator ensures that the elements of a Sketchnote are clearly separated from each other, creating order and clarity.
 
 ![](sketchnotes/separators.png){#small .right height=250 align=right}
 
 ### Text
 
-Your sketch note consists of text and graphic elements, and the text can take on a variety of shapes and colors.
+Your Sketchnote consists of text and visual elements. The text can appear in a huge variety of shapes and colors.
 
 ![](sketchnotes/text.png){#small .left height=250 float=left}
 
 ### Symbols and icons
 
-Symbols and icons can be used in different ways for sketching. For example, you can create your own icon set to identify recurring elements. A classic is the light bulb for an idea or the exclamation mark for something that is particularly important.
+Symbols and icons can be used in different ways for sketchnoting. You can create your own icon set to identify recurring elements. A classic icon is the light bulb representing an idea or the exclamation mark used to highlight something that is particularly important.
 
 ![](sketchnotes/visual_alphabet.png){#small .right height=250 float=right}
 
 ### Connectors and arrows
 
-Connectors and arrows are strong structural elements in sketch marking. They create the flow that the eye of the beholder follows. They show which part follows which part, for example, in a temporal or logical sequence. Connectors and arrows hold your sketch note together. They are the natural counterpart to the separator. 
+Connectors and arrows are strong structural elements in Sketchnotes. They create the flow leading the eye of the beholder. They define which part follows which part, in a temporal or logical sequence. Connectors and arrows glue your sketchnote elements together. They act as logical counterpart to the separator. 
 
 ![](sketchnotes/connectors.png){#small .left height=250 float=left}
 
-### Figures
+### People - Figures
 
-The figures are the actors on your Sketchnotes. They can be used to represent actions and emotions of individuals, teams or groups in different situations. It may be helpful to add faces or facial expressions to represent emotions, but we also express a lot of our feelings and emotions through our posture. Whether you give the characters a face or not depends almost entirely on your personal taste. 
+People, represented by figures, are the actors on your Sketchnotes. They can be used to represent actions and emotions of individuals, teams or groups in different situations. It may be helpful to add faces or facial expressions to represent emotions, but we also express a lot of our feelings and emotions through our posture. Whether you give the characters a face or not depends entirely on your personal taste. 
 
 ![](sketchnotes/figures.png){#small .left height=250 float=left}
 
 ### Diagrams
 
-With diagrams you can visualize super data in your Sketchnote. Often programs like Excel are a little "too much". With a little practice you can create simple but very effective diagrams from elements like bars, lines and circles. A very impressive example for analog data visualization is the project "[Dear Data](http://www.dear-data.com/theproject)" by Giorgia Lupi and Stefanie Posavec, who sent each other postcards with hand-drawn visualizations for over a year.
+Using diagrams to visualize data in your Sketchnote is some kind of super power. Computer programs like Excel are often a whee bit "too much". With little practice you can create simple but very effective diagrams from elements like bars, lines and circles. A very impressive example for this kind of "analog" data visualization is the project "[Dear Data](http://www.dear-data.com/theproject)" by Giorgia Lupi and Stefanie Posavec. The two scientists sent each other postcards with hand-drawn visualizations over the timeframe of one year.
 
 
 ## Sketchnote Workflows
@@ -228,22 +226,22 @@ With diagrams you can visualize super data in your Sketchnote. Often programs li
 
 ### "One and Done" and iterative Sketchnotes
 
-A "One and Done" sketcher creates its sketch note, for example, during a talk at a conference or during a meeting. "One and Done" means that the Sketchnote is finished as soon as the event is finished. Maybe the last thing to do is to correct or add one or two small details, but "One and Done" is live.
+A "One and Done" Sketchnoter creates his or her Sketchnote, for example, while listening to a talk at a conference or during a meeting. "One and Done" means that the Sketchnote is finished as soon as the event is finished. Maybe some final touches can be applied, but usually "One and Done" is considered as "Live"-Sketchnoting. 
 
-In iterative sketching, you work in several, usually two, steps. During the event, you create a rough draft version of your sketch note, which is then revised and finalized after the event. This allows you to work in more detail and accuracy than with the "One and Done" approach, but it also takes much more time to complete the final product.
+Applying an iterative Sketchnoting approach, you work in several, usually two or more, steps. During the event, you create a rough draft version of your Sketchnote, which is then revised and finalized after the event. This allows you to work in more detail and accuracy than with the "One and Done" approach, but it also takes much more time to complete the final product.
 
 An even deeper process is described by Mauro Toselli, known as [@xLontrax](https://twitter.com/xlontrax), in his book "[The xLontrax Theory of the Sketchnote](https://www.maurotoselli.com/the-xlontrax-theory-of-sketchnote.html)":
 
-- Mauro collects the material and creates the first sketch note
-- Then it leaves it until the next session and "matures".
-- The sketch note is then examined in detail,
-- before everything superfluous is removed
+- Mauro collects the "raw material" and creates the first Sketchnote of the process
+- Then he leaves it until the next session to "mature"
+- The Sketchnote will then be examined in detail,
+- and everything considered to be superfluous is removed
 
-Mauro defines the Eraser Critical Point, which he defines as "the number of elements you need to remove from your sketch note to compromise its meaning. Thus, his approach ensures that a Sketchnote has exactly the right number of elements to convey the desired content. According to his experience, this complex process is automated during sketching with skilled "One and Done" sketchers.
+Mauro defines the "Eraser Critical Point", which he defines as "the number of elements you need to remove from your Sketchnote to compromise its meaning. Thus, his approach ensures that a Sketchnote has exactly the right number of elements to convey the desired meaing. According to his experience, this complex process is automatically applied by highly skilled expert "One and Done" Sketchnoters.
 
-Which workflow is the right one? That depends on many things:
+Which workflow is the right one for? This can depend on many things:
 
-- What kind of guy are you?
+- What kind of Sketchnoter are you?
 - What fits the current situation?
 - How much time do you have?
 - How would you like to use your Sketchnote afterwards?
@@ -255,6 +253,9 @@ Mauro has sketched a summary especially for this learning path:
 ![The xLontrax theory of sketchnote by Mauro @xLontrax Toselli CC-BY](sketchnotes/tos_cheatsheet.png){#small .center height=500}
 
 \newpage
+
+[comment]: # (2019-07-10 manual correction of machine translation up to this point by Lars Bartschat)
+
 
 # The Sketchnote Learning Path
 

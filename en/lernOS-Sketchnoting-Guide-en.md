@@ -259,75 +259,53 @@ Mauro has sketched a summary especially for this learning path:
 
 # The Sketchnote Learning Path
 
-If you spend 12 weeks dealing with a topic, it is both very much and very little time. The Katas (exercises) in this guide are designed to help you get the most out of yourself and your circle. They are designed to be suitable for both beginners and advanced users. Before starting the sprint, take your time to take a closer look at the structure and the individual katas. Sometimes there are several katas in a week, choose one or both, depending on your mood. There is no kata police: like to swap kata or modify them to fit your goals better. You might also want to check out the other [lernOS learning paths] (https://github.com/cogneon/) to see which Katas are used there and if they are better for you...
+If you spend 12 weeks focussed on a certain topic, that's at the same time very much and very little time. The Katas (exercises) in this guide are designed to help you get the most out of this, for you and for your fellow circle members. They are designed to be suitable for both beginners and advanced users. Before starting the sprint, take your time to take a closer look at the guide's structure and the individual katas. Sometimes there is more than on kata in a given week. Choose one or more, depending on your mood, your energy level and available time. There is no kata police: If you like to swap a kata or modify it to better match your goals, more power to you. You might also want to check out the other [lernOS learning paths] (https://github.com/cogneon/) to see which Katas are being used and if they suit your current needs better...
 
 **How is this learning path structured?**
 
-Let's look at this from two perspectives. First, we look at when your individual goals are in the circle over the twelve weeks. Then we look at the system according to which the Katas are structured.
+Let's look at this from two perspectives. First, we look at when your individual goals are focussed over the course of twelve weeks. Then we take a look at the system behind the Katas' structuring. 
 
 ![Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
 
-Sketchnotes are something different for everyone and will always be different for you, depending on the situation. Nevertheless, there are basic qualities that characterize a sketch mark that you still like to look at after years and that is also understandable for your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been working on these qualities for years. We adopted his classification of the qualities of a sketch mark and built the katas on them. 
+Sketchnotes are very personal and different for everyone, depending on the situation. Nevertheless, there are basic qualities that characterize a sketchnote which you still like to look at after years. These qualities also ensure that is clearly understandable to your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been researching these qualities for many years. We adopted his classification of the qualities of a sketchnote and based the katas on them. 
 
 ![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
 ## Circle Organizers Checklist
 
-**#ProTip:** In many cases the time for doing the exercises in the Weekly is too short. We use [therefore the Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) method. For each weekly there is a kata that each Circle member prepares as a "homework" so that you have more time in the weekly to discuss the results. This is accompanied by guiding questions, which you are welcome to add, and there are always Katas, which you complete together during the Weekly.
+**#ProTip:** In many cases the time for doing the exercises "live" in the Weekly meeting is too short. Therfor, we like to employ the [Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) methodology. You and your Circle members agree on and prepare one of the week's katas a priori, as a "homework". So you have more time during the weekly to discuss the results and your individual experiences. This discussion is supported by guiding questions, which you are welcome to use, and there are always Katas, which you can complete together during the Weekly itself. 
 
-You choose your own focus for the sprint - what do you want to learn or deepen? Where do you stand? What is challenging? What's on it right now, what's next - what would be more of a focus for another sprint? "Everything at once and then perfect" (and excessive demands / frustration) or rather "practice makes progress" (Brandy Agerbeck) - practice makes progress (and fun)?
-
-![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.png){#small .center height=500}
-
-The Katas listed here are suggestions. Look at them through your own glasses. If there are different katas to choose from - which one suits your focus best? Or do you all want to do it? If you have ideas for katas (or variations) that fit your focus even better, use them! And if you then share them with us or complete the learning path yourself, you will help everyone else who follows the learning path after you! (... and of course earns a lot of Karma points!)
-
-On the following pages you'll find a short schedule for the sprint. The explanations for the single Katas and Warm-Ups will follow on the following pages.
-
-**How is this learning path structured?**
-
-Let's look at this from two perspectives. First, we look at when your individual goals are in the circle over the twelve weeks. Then we look at the system according to which the Katas are structured.
-
-![Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
-
-Sketchnotes are something different for everyone and will always be different for you, depending on the situation. Nevertheless, there are basic qualities that characterize a sketch mark that you still like to look at after years and that is also understandable for your colleagues, for example. Sketchnoter Mauro Toselli, whom we mentioned above, has been working on these qualities for years. We adopted his classification of the qualities of a sketch mark and built the katas on them. 
-
-![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
-
-## Circle Organizers Checklist
-
-**#ProTip:** In many cases the time for doing the exercises in the Weekly is too short. We use [therefore the Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) method. For each weekly there is a kata that each Circle member prepares as a "homework" so that you have more time in the weekly to discuss the results. This is accompanied by guiding questions, which you are welcome to add, and there are always Katas, which you complete together during the Weekly.
-
-You choose your own focus for the sprint - what do you want to learn or deepen? Where do you stand? What is challenging? What's on it right now, what's next - what would be more of a focus for another sprint? "Everything at once and then perfect" (and excessive demands / frustration) or rather "practice makes progress" (Brandy Agerbeck) - practice makes progress (and fun)?
+You choose your own focus for the sprint - what do you want to learn or improve? Where are your skill at right now, where to you want to develop them? What is challenging? What's on your plate right now, what's next - what would be better pushed to the next sprint? "Everything at once and perfectly done" (and excessive demands / frustration) or rather "practice makes progress" (Brandy Agerbeck) - practice makes progress (and fun)?
 
 ![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.png){#small .center height=500}
 
-The Katas listed here are suggestions. Look at them through your own glasses. If there are different katas to choose from - which one suits your focus best? Or do you all want to do it? If you have ideas for katas (or variations) that fit your focus even better, use them! And if you then share them with us or complete the learning path yourself, you will help everyone else who follows the learning path after you! (... and of course earns a lot of Karma points!)
+The Katas collected, created and compiled below are mere suggestions. Look at them through your eyes. If there are multiple katas to choose from - which one suits your focus best? Or do you wanna give all of them a go? If you have ideas for new katas (or variations), use them! And if you then share them with us or even add them to the learning path (that's this guide you're reading right now, by the way...) yourself, you will help everyone else who follows the learning path after you! (... and of course you'll earn a lot of Karma points!)
 
-On the following pages you'll find a short schedule for the sprint. The explanations for the single Katas and Warm-Ups will follow on the following pages.
+The following pages will show a short schedule for the sprint. The explanations for the single Katas and Warm-Ups can be found after this section.
 
 ## Week 0: Planning the sprint and making arrangements
 
-Before you start, invest some time to get to know each other and to discuss the conditions for your sprint.
+Before you start, invest some time to get to know each other and to discuss the setup for your sprint.
 
 **As preparation**
 
 - [ ] Kata 1: Sketchnote-Selfie
 
-**In the weekly**
+**During the weekly**
 
 - [ ] Check in (2 minutes per member)
 
-- [ ] Warm Up: Curly birds (5 minutes)
+- [ ] Warm Up: Squiggle birds (5 minutes)
 
-Who are you? Introduce yourself. Here, of course, you should proceed on the basis of your Sketchnote-Selfie.  (5 minutes per member)
+Who are you? Introduce yourself. Of course, you can make good use of your Sketchnote-Selfie now.  (5 minutes per member)
 
-**guiding questions**:
+**Guiding questions**:
 
 - Would you rather work digitally or analogue?
 
-- Do you use Sketchnotes more privately or professionally?
+- Do you use Sketchnotes more for personal stuff or professionally?
 
-- How long have you been making Sketchnotes?
+- How long have you been doing Sketchnotes?
 
 - What are your favorite materials (paper, pens, programs)? 
 
@@ -340,7 +318,7 @@ Who are you? Introduce yourself. Here, of course, you should proceed on the basi
 
 ## Week 1: Set goals
 
-This week, you choose your destination for the sprint. 
+This week, you choose your personal goal(s) for the sprint. 
 
 **As preparation**
 
@@ -364,7 +342,7 @@ How do you visualize goals? Draw icons and compare them with each other. How do 
 
 - Why are you doing this?  
 
-- What inspires you about it?
+- What inspires you to do this?
 
 - What does it mean to you to have achieved a goal?
 
@@ -374,19 +352,19 @@ How do you visualize goals? Draw icons and compare them with each other. How do 
 
 **Exchange: an appointment with yourself (5 minutes)**
 
-- [ ] Have you all made an appointment with yourself in the calendar? What helped you?
+- [ ] Have you all made an appointment with yourself in the calendar? What did help you to complete this?
 
 - [ ] Check-Out (1 minute per member)
 
 ## Week 2: Font & Readability
 
-Week 2 is about the written word: How does it best support the message of your sketch mark and how do you get there?
+Week 2 is about written text: How does it best support the message of your sketchnote? How to create text that's legible and carries meaning? 
 
 **As preparation**
 
-- [ ] Kata 6: Letter your favorite saying
+- [ ] Kata 6: Letter your favorite proverb
 
-- [ ] Kata 7: Take your time writing 
+- [ ] Kata 7: Take your time while writing text 
 
 **In the weekly**
 
@@ -396,14 +374,25 @@ Week 2 is about the written word: How does it best support the message of your s
 
 - [ ] Feedback, exchange and tips on the Katas (40 minutes)
 
-**guiding questions**:
+**Guiding questions**:
 
-- How do you use different scripts?
+- How do you use different fonts?
+- Which font do you employ for which effect?
+- Which of your font do love the most? Which one is your least favorite one?
+- Do you want to lean a new font? What could you use it for?
+- What's your personal connection between pen and font? Which pen thickness is the best for you for sketching? Which does suit you the most for writing?
+- How do you create a hierarchie of different fonts, sizes and pen thicknesses?
+
+
+- [ ] Choose some examples, of your own or others, that you deem excellently done.
+- [ ] Check-Out (1 Minute pro Member)
+
+[comment]: # (2019-07-11 manual correction of machine translation up to this point by Lars Bartschat)
 
 
 ## Week 3: Visual vocabulary
 
-Each language consists of individual elements: Develop the picture elements that best match your language and find your style.
+Each language consists of individual elements: Develop those visual elements that best match your language and find your personal style.
 
 **As preparation**
 
@@ -417,7 +406,7 @@ Each language consists of individual elements: Develop the picture elements that
 
 - [ ] Warm Up: Icons 
 
-- [ ] Everyone brings along a term that they find exciting or difficult to visualize. All terms are chained in 30 seconds and then compared. (5 minutes)
+- [ ] Everyone chooses one term that they find exciting or difficult to visualize. All terms have to be sketched in 30 seconds each. Compare your results. (5 minutes)
 
 - [ ] Exchange about the Kata(s) (40 minutes)
 

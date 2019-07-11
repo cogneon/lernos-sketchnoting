@@ -174,6 +174,8 @@ Apps for Sketchnoting:
 - Tayasui Sketches - Basic version for free, for [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=en)
 - [GoodNotes 5](https://www.goodnotes.com/) - paid app, for IOS 
 
+A very detailed overview on drawing apps, which can be used for Sketchnoting of course, can found on [Pixpa](https://www.pixpa.com/blog/drawing-apps). [Timo](https://sketchnoting.net/sketchnotes-apps/) also has compiled a list, especially focussed on Sketchnoting. 
+
 ## Sketchnote Elements
 It doesn't matter on which topic you are doing a Sketchnote, they all use the same basic elements or building blocks. If you want to train them fundamentally, or need some inspiration and variety to improve your skills, we recommend "Sketch it - The Card Game" (german) by Wibke Tiedmann and Stefanie Maurer, which you can [download here](https://sketchnotegame.wordpress.com/download-kartenspiel/) and use under CC BY SA 4.0.  All the examples below are taken from this game.
 

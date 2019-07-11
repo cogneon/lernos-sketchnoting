@@ -49,7 +49,7 @@ In der aktuellen [VUCA](https://de.wikipedia.org/wiki/VUCA)-Welt können Sketchn
 Wie bei allem gilt auch beim Sketchnoten: Übung macht den Meister! 
 
  Motivation, konstruktives Feedback und Zugang zu guten Ressourcen sind die Grundlage für Üben, das Spaß macht. Und nur wenn es Spaß macht, bleibst du dran... 
- 
+
  Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
 
 a) eine Einführung ins Sketchnoting & Wissen zu Material und Grundlagen (Kapitel 4) 
@@ -70,7 +70,7 @@ Keine Praxis ohne ein bisschen Theorie. Im folgenden Kapitel werden wir auf die 
 
 *"Sketchnotes ist Rumkritzeln während du dir Notizen machst"* *- Kevin Thorn,* [*Nuggethead*](http://nuggethead.net/2013/01/what-are-sketch-notes/)
 
-![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png){#mid .center height=400}
+![What are Sketchnotes - by @BartschatLars, CC BY 4.0](sketchnotes/lernos_why.png){#mid .center height=350}
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
@@ -84,7 +84,7 @@ Einfach auf den Punkt gebracht: Bilder, vor allem in Kombination mit Text, sind 
 
 Wenn dir das alles zu komplex und textlastig ist, wir haben dir dazu eine Sketchnote erstellt: 
 
-![Sketchnotes - An Academic Approach by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=500}
+![Sketchnotes - An Academic Approach by @BartschatLars, CC BY 4.0](sketchnotes/sketchnotes_science.png){#mid .center height=350}
 
 ## Was kann ich denn Sketchnoten?
 
@@ -232,7 +232,7 @@ Mit Diagrammen kannst du super Daten in deiner Sketchnote visualisieren. Oft sin
 
 ## Sketchnote Workflows
 
-![Sketchnotes Workflows by @BartschatLars, CC BY 4.0](sketchnotes/workflows.png){#mid .center height=300}
+![Sketchnotes Workflows by @BartschatLars, CC BY 4.0](sketchnotes/workflows.png){#mid .center height=200}
 
 ### "One and Done" und iteratives Sketchnoten
 
@@ -260,7 +260,7 @@ Hier gibt es kein Richtig oder Falsch, Sketchnote wie du es brauchst!
 
 Mauro hat extra für diesen Lernpfad eine Zusammenfassung gesketchnotet: 
 
-![The xLontrax theory of sketchnote by Mauro @xLontrax Toselli CC-BY](sketchnotes/tos_cheatsheet.png){#small .center height=500}
+![The xLontrax theory of sketchnote by Mauro @xLontrax Toselli CC-BY](sketchnotes/tos_cheatsheet.png){#small .center height=480}
 
 \newpage
 

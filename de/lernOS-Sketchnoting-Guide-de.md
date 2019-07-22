@@ -661,6 +661,8 @@ Beispiel eines Sketchnote-Selfies beim Start eines LernOS Circle zum Thema "Sket
 
 ![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=300}
 
+Wenn du noch ganz frisch beim Sketchnoten dabei bist, kann dir die Kata ["25 Fakten über mich"](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de.md#kata-25-fakten-%C3%BCber-mich) vielleicht als Starthilfe dienen. Und um das Visualisieren der 25 oder wieviele Fakten auch immer du gern auf deinem Selfie haben möchtest, zu vereinfachen, kannst du dir vielleicht beim [Noun Project](https://thenounproject.com/) ein wenig Inspiration abholen. 
+
 ## Kata 2: Circle Setup 
 
 Wenn ihr euch im Circle noch nicht kennt, lernt euch in der Woche 0 kennen. Plant, wann Ihr euch trefft, welche Tools ihr nutzt und wer der Moderator ist.

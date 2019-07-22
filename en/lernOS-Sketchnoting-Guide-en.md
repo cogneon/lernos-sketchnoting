@@ -657,6 +657,8 @@ Example of a Sketchnote-Selfie at the start of a LernOS Circle on the topic "Ske
 
 ![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=300}
 
+If you are a Sketchnote Newbie/Youngling/Freshman/Freshwoman and are maybe even experiencing the "horror of the blank page", maybe the lernOS Kata ["25 Fact about me"](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/en/lernOS-Guide-for-You-en.md#kata-25-facts-about-me) might help you to think of what to put in your Selfie. And if you need a little bit inspiration on how to visualise all those facts, a peek at [The Noun Project](https://thenounproject.com/) might inspire you just enough to get going. 
+
 ## Kata 2: Circle Setup 
 
 If you don't know each other in the circle yet, get to know each other in week 0. Plan when you meet, what tools you use and who the moderator is.

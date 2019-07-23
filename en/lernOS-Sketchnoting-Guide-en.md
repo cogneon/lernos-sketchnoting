@@ -159,7 +159,7 @@ The digital sketchnote way of life has some imminent advantages:
 Like pen and paper, digital sketchnoting also has a some disadvantages:
 
 - Running low on battery power means that your digital sketchnoting is kicking the bucket...
-- Don't you ever drop the tablet, neither in the bathtub nor on the floor!
+- You better don't ever drop the tablet, neither in the bathtub nor on the floor!
 - A nice tablet with a stylus (pen) is not cheap at all (buying used or refurbished eases that pain a whee bit though)...
 - Writing and drawing on glass feels strange, at least when you are starting out. **#ProTipp:** A matt screen protection film creates a rougher surface. Many DigiSketchnoters like this somewhat paper-like feel. 
 - You need to know your app very well if you want to fluidly create Sketchnotes. 

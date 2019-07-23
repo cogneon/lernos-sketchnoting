@@ -133,7 +133,7 @@ Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Not
 - Ein Blatt hat Grenzen - Mit der Zeit lernst du durch diese Begrenzung, dich auf das Wesentliche, die Kernaussagen, zu fokussieren!
 - Stift und Papier sind die günstigste Art zu Sketchnoten!
 
-Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papier nicht so gut:
+Natürlich hat jede Medaille zwei Seiten. Ein paar Dinge können Stift und Papier tatsächlich nicht so gut:
 
 - Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=de), [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de) oder [Adobe Scan](https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834)).
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!

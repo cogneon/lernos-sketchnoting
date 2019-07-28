@@ -159,7 +159,7 @@ The digital sketchnote way of life has some imminent advantages:
 Like pen and paper, digital sketchnoting also has a some disadvantages:
 
 - Running low on battery power means that your digital sketchnoting is kicking the bucket...
-- Don't you ever drop the tablet, neither in the bathtub nor on the floor!
+- You better don't ever drop the tablet, neither in the bathtub nor on the floor!
 - A nice tablet with a stylus (pen) is not cheap at all (buying used or refurbished eases that pain a whee bit though)...
 - Writing and drawing on glass feels strange, at least when you are starting out. **#ProTipp:** A matt screen protection film creates a rougher surface. Many DigiSketchnoters like this somewhat paper-like feel. 
 - You need to know your app very well if you want to fluidly create Sketchnotes. 
@@ -256,12 +256,11 @@ Mauro has sketched a summary especially for this learning path:
 
 \newpage
 
-[comment]: # (2019-07-10 manual correction of machine translation up to this point by Lars Bartschat)
 
 
 # The Sketchnote Learning Path
 
-If you spend 12 weeks focussed on a certain topic, that's at the same time very much and very little time. The Katas (exercises) in this guide are designed to help you get the most out of this, for you and for your fellow circle members. They are designed to be suitable for both beginners and advanced users. Before starting the sprint, take your time to take a closer look at the guide's structure and the individual katas. Sometimes there is more than on kata in a given week. Choose one or more, depending on your mood, your energy level and available time. There is no kata police: If you like to swap a kata or modify it to better match your goals, more power to you. You might also want to check out the other [lernOS learning paths] (https://github.com/cogneon/) to see which Katas are being used and if they suit your current needs better...
+Spending 12 weeks focussed on one defined goal is at a lot of time and yet so little. The Katas (exercises) in this guide are designed to help you getting the most out of this. They are designed to be suitable for both beginners and advanced users. Before starting the sprint, take your time to take a closer look at the guide's structure and the individual katas. Sometimes there is more than on kata in a given week. Choose one or more, depending on your mood, your energy level and available time. There is no kata police: If you like to swap a kata or modify it to better match your goals, more power to you. You might also want to check out the other [lernOS learning paths] (https://github.com/cogneon/) to see which Katas are being used and if they suit your current needs better...
 
 **How is this learning path structured?**
 
@@ -389,12 +388,10 @@ Week 2 is about written text: How does it best support the message of your sketc
 - [ ] Choose some examples, of your own or others, that you deem excellently done.
 - [ ] Check-Out (1 Minute pro Member)
 
-[comment]: # (2019-07-11 manual correction of machine translation up to this point by Lars Bartschat)
-
 
 ## Week 3: Visual vocabulary
 
-Each language consists of individual elements: Develop those visual elements that best match your language and find your personal style.
+Every language consists of several distinct elements. This is also true for the Visual Language expressed by Sketchnoting. Develop those visual elements that best match your individual language and find your personal style. This personal style is just like a dialect or idiom of a spoken language. The core elements are shared, but there subtle and not so subtle differences. These personal styles even lead to making your Sketchnotes recognizable to someone who knows your personal way of Sketchnoting. 
 
 **As preparation**
 
@@ -408,7 +405,7 @@ Each language consists of individual elements: Develop those visual elements tha
 
 - [ ] Warm Up: Icons 
 
-- [ ] Everyone chooses one term that they find exciting or difficult to visualize. All terms have to be sketched in 30 seconds each. Compare your results. (5 minutes)
+- [ ] Everyone chooses one specific word, term or expression that one finds exciting or difficult to visualize. The go round-robin and announce your term. All circle members get 30 seconds to sketch each of them. Compare your results. (5 minutes)
 
 - [ ] Exchange about the Kata(s) (40 minutes)
 
@@ -418,23 +415,26 @@ Each language consists of individual elements: Develop those visual elements tha
 
 - How do you collect/document your icons?
 
-- What methods do you use to make them always tangible?
+- What methods do you use to make them more tangible?
 
-- Do you want to keep collecting icons and how do you want to share them? 
+- Do you want to keep growing your library of icons?
 
-- Which icons are your top 5 icons that you use again and again in Sketchnotes?
+- How do you like to share your icons? 
+
+- Which icons are your top 5 icons that you repeatedly use in your Sketchnotes?
 
 - How satisfied are you with them? 
 
 - Can you do anything to improve them? 
 
-- Sketch the icon you want to improve and ask the others.
+- Sketch the icon you want to improve and gather feedback from your fellow circle members. 
 
 - [ ] Check out (1 minute per member)
 
+
 ## week 4: structure by pencils and color
 
-This week you will discover the world of colours and stroke widths and how to add them to your Sketchnotes.
+This week is going to let you discover a world of colours and stroke widths. You will learn how to add those tools to your Sketchnotes toolkit.
 
 **As preparation**
 
@@ -448,7 +448,7 @@ This week you will discover the world of colours and stroke widths and how to ad
 
 - [ ] Warm Up: Less details please (5 minutes)
 
-- [ ] Kata 12: 1 Sketch note 5 colors (20 minutes)
+- [ ] Kata 12: 1 Sketchnote 5 colors (20 minutes)
 
 Prepare the kata and finish it together
 
@@ -457,14 +457,14 @@ Prepare the kata and finish it together
 **guiding questions**:
 
 - Which colours match your themes?
-- Do you change the colors depending on the topics?
+- Do you change the colors used, depending on the topics?
 - How do you create structure, even if you only have a few pens?
 
 - [ ] Check Out (1 minute per member)
 
-## Week 5: Structure through layout
+## Week 5: Structure by layout
 
-Week 5 is all about order: Sort and group all used elements and combine them to a harmonious layout.
+Week 5 is all about structure and order: Connect and structure elements, then combine them to a harmonious overall layout.
 
 **As preparation**
 
@@ -476,7 +476,7 @@ Week 5 is all about order: Sort and group all used elements and combine them to 
 
 - [ ] Warm Up: Container (5 minutes)
 
-Draws various containers and discusses what they are suitable for. (A cloud, for example, stands for an idea rather than a result/decision.)
+Draws various containers and discusse in the circle what they might be suitable for. (A cloud, for example, could stand for an idea rather than a result/decision.)
 
 - [ ] Kata 14: Videosketching (40 min)
 
@@ -484,11 +484,11 @@ Draws various containers and discusses what they are suitable for. (A cloud, for
 
 ## Week 6: Your intermediate score
 
-Pit stop: Reflect on what you have achieved, present it to your Circle Members and give you feedback together. Get fit for the second half of the circle.
+Pit stop: Reflect on what you have achieved already, present it to your Circle Members and provide each other constructive feedback together. Get ready for the second half of the circle and don't forget to be proud of yourself!!
 
 **As preparation**
 
-- [ ] Prepare for your presentation at Weekly. 
+- [ ] Prepare for your presentation at the Weekly. 
 
 **In the Weekly**
 
@@ -496,13 +496,13 @@ Pit stop: Reflect on what you have achieved, present it to your Circle Members a
 
 - [ ] Warm Up: Draw your counterpart (5 minutes)
 
-- [ ] Kata 15: Present intermediate result (10 minutes per member)
+- [ ] Kata 15: Present your half time results (10 minutes per member)
 
 - [ ] Check out (1 minute per member)
 
 ## Week 7: Comprehensibility
 
-Do you hear me? This week you are testing whether your Sketchnotes convey the statements you intended.
+Do you get me? This week you are testing whether your Sketchnotes convey the statements you intend them to do.
 
 **As preparation**
 
@@ -520,17 +520,18 @@ Do you hear me? This week you are testing whether your Sketchnotes convey the st
 
 - What expectations did you have for the comprehensibility of your sketch mark?
 - Were these fulfilled?
-- How was the feedback regarding readability, layout, choice of words?
+- How was the feedback regarding legibility, layout, choice of words?
 - What worked particularly well for you?
-- What was particularly challenging for you? (e.g. speaking speed in the video, filtering important things, ...)
-- What did you learn for your next Sketchnotes, what do you want to keep and what do you want to do differently?
+- What was particularly challenging for you? (e.g. speaking rate in the video, filtering out the important things, ...)
+- What did you learn for your next Sketchnotes, what do you want to keep and what do you want to do differently next time?
 
 - [ ] Check out (1 minute per member)
 
 
+
 ## Week 8: Sharing for Feedback
 
-After we gave each other feedback in week 7, you are now ready to go public: Actively get feedback on the content of your Sketchnotes from people outside the circle.
+After we learnt to give each other good feedback in week 7, now you areready to go public: Actively get feedback on the content of your Sketchnotes from people outside the circle.
 
 **As preparation**
 
@@ -546,18 +547,20 @@ After we gave each other feedback in week 7, you are now ready to go public: Act
 
 **guiding questions**:
 
-- Where and how did you share your sketch mark? 
+- Where and how did you share your Sketchnote? 
 
 - How comfortable/uncomfortable was it? 
 
 - What kind of feedback did you get?
 
-- How exactly do you ask for feedback?
+- How exactly did you ask for feedback?
 
 
 - [ ] Kata 18: Top5 Resources (20 minutes)
 
 - [ ] Check out (1 minute per member)
+
+[comment]: # (2019-07-22 Initial do-over of machine translation up to this point. Lars B.)
 
 ## Week 9: Deepening your own project 
 
@@ -656,6 +659,8 @@ To introduce yourself to others in your circle, draw a sketch note about yoursel
 Example of a Sketchnote-Selfie at the start of a LernOS Circle on the topic "SketchnoteOutLoud":
 
 ![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=300}
+
+If you are a Sketchnote Newbie/Youngling/Freshman/Freshwoman and are maybe even experiencing the "horror of the blank page", maybe the lernOS Kata ["25 Fact about me"](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/en/lernOS-Guide-for-You-en.md#kata-25-facts-about-me) might help you to think of what to put in your Selfie. And if you need a little bit inspiration on how to visualise all those facts, a peek at [The Noun Project](https://thenounproject.com/) might inspire you just enough to get going. 
 
 ## Kata 2: Circle Setup 
 

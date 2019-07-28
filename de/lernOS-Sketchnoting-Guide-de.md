@@ -133,7 +133,7 @@ Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Not
 - Ein Blatt hat Grenzen - Mit der Zeit lernst du durch diese Begrenzung, dich auf das Wesentliche, die Kernaussagen, zu fokussieren!
 - Stift und Papier sind die günstigste Art zu Sketchnoten!
 
-Natürlich hat jede Medaille zwei Seiten, ein paar Dinge können Stift und Papier nicht so gut:
+Natürlich hat jede Medaille zwei Seiten. Ein paar Dinge können Stift und Papier tatsächlich nicht so gut:
 
 - Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=de), [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de) oder [Adobe Scan](https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834)).
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!
@@ -660,6 +660,8 @@ Um dich den anderen in deinem Circle vorzustellen, zeichne eine Sketchnote über
 Beispiel eines Sketchnote-Selfies beim Start eines LernOS Circle zum Thema "SketchnoteOutLoud":
 
 ![Sketchnote-Selfie by @ben1kk CC-BY](sketchnotes\selfie.png){#mid .center height=300}
+
+Wenn du noch ganz frisch beim Sketchnoten dabei bist, kann dir die Kata ["25 Fakten über mich"](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de.md#kata-25-fakten-%C3%BCber-mich) vielleicht als Starthilfe dienen. Und um das Visualisieren der 25 oder wieviele Fakten auch immer du gern auf deinem Selfie haben möchtest, zu vereinfachen, kannst du dir vielleicht beim [Noun Project](https://thenounproject.com/) ein wenig Inspiration abholen. 
 
 ## Kata 2: Circle Setup 
 

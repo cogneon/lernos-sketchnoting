@@ -29,13 +29,13 @@ echo -- HTML document created
 
 REM Create PDF Version (pdf)
 echo -- Create PDF document
-pandoc %filename%.md metadata/metadata.yaml -o %filename%.pdf --from markdown --template sketchnotes --number-sections -V lang=de-en
+pandoc %filename%.md metadata/metadata.yaml -o %filename%.pdf --from markdown --template sketchnotes --number-sections -V lang=en-en
 echo -- PDF document created
 
 REM Create eBook Versions (epub, mobi)
 echo -- Create eBook dokuments
 echo - Create cover
-magick -ennsity 300 %filename%.pdf[0] images/ebook-cover.png
+magick convert -density 300 %filename%.pdf[0] images/ebook-cover.png
 echo - Create epub-document
 pandoc -s --epub-cover-image=images/ebook-cover.png -o %filename%.epub %filename%.md --metadata-file metadata/metadata.yaml
 echo - Convert epub-document to epub-document

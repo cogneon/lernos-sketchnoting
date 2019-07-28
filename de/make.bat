@@ -35,7 +35,7 @@ echo -- PDF document created
 REM Create eBook Versions (epub, mobi)
 echo -- Create eBook dokuments
 echo - Create cover
-magick -density 300 %filename%.pdf[0] images/ebook-cover.png
+magick convert -density 300 %filename%.pdf[0] images/ebook-cover.png
 echo - Create epub-document
 pandoc -s --epub-cover-image=images/ebook-cover.png -o %filename%.epub %filename%.md --metadata-file metadata/metadata.yaml
 echo - Convert epub-document to epub-document

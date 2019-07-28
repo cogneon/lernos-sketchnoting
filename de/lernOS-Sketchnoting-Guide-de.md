@@ -22,6 +22,7 @@ Geholfen haben dabei:
 - Britta Ullrich (vizworks.de im Web & auf Instagram): Kata "Soulshine Selfie"
 - Conni Eybisch-Klimpel (@connieybisch auf Instagram): Kata "Reflexionen"
 - Susanne Speer (@designpiranha auf Twitter): Kata "Montagsmaler"
+- Katja Reiter (@katja.visualisiert auf Instagram): Sketchnote "Beispiele für Schrift"
 - Simon Dückert (@simondueckert auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
 
 Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 

@@ -187,7 +187,7 @@ By providing a frame for other elements, containers give structure and order to 
 
 ![](sketchnotes/container.png){#small .left height=250 align=left}
 
-### Disconnector
+### Separator
 
 The separator ensures that the elements of a Sketchnote are clearly separated from each other, creating order and clarity.
 

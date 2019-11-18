@@ -562,17 +562,17 @@ After we learnt to give each other good feedback in week 7, now you areready to 
 
 [comment]: # (2019-07-22 Initial do-over of machine translation up to this point. Lars B.)
 
-## Week 9: Deepening your own project 
+## Week 9: Going deeper - Intensifying your own project 
 
-Setting the course for the final spurt: Develop your own project further or deepen what you have learned so far - use the feedback to develop yourself further.
+Setting the course for the final steps: Develop your own project further or deepen what you have learned so far - use the valuable feedback from your circle to develop yourself further.
 
 **As preparation**
 
 Decide what you want to focus on: 
 
-- [ ] If you are working on your own project in this sprint, which you would like to have completed by week 11, take some time now to work on it again and get feedback on it.
+- [ ] If you are working on your own project in this sprint, to be completed by week 11, take some time to work on it and get feedback on it.
 
-- If you don't have a specific project/product, use Katas 19 and 20/21 to reflect on the sprint and what you have learned so far.
+- If you don't have a specific project/product, use Katas 19 and 20/21 to reflect on this sprint's experiences and what you have learned so far.
 
 - [ ] Kata 19: Soulshine-Selfie
 
@@ -588,9 +588,9 @@ Decide what you want to focus on:
 
 - [ ] Check out (1 minute per member)
 
-## Week 10: Fun must be!
+## Week 10: Fun is mandatory!
 
-Or also: "Embarrass yourself daily" :-) - Try your hand at improvising and the spontaneous presentation of your associations.
+Also known as: "Embarrass yourself daily" :-) - Try your hand at improvising and the spontaneous presentation of your associations.
 
 **As preparation**
 
@@ -612,11 +612,11 @@ Or also: "Embarrass yourself daily" :-) - Try your hand at improvising and the s
 
 ## Week 11: Final Products and Lessons Learned
 
-You get to be proud, too: Show your Circle Member what you have achieved and gained in knowledge (also about yourself).
+Time to be proud of your hard work's results: Show your Circle Member what you have achieved and gained in knowledge (also about yourself).
 
 **As preparation**
 
-- [ ] Kata 23: Miss & show your success 
+- [ ] Kata 23: Measure & show your success 
 
 **In the weekly**
 

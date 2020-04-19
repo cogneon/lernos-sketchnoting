@@ -1,0 +1,3 @@
+\newpage
+
+# **Kata-Log**

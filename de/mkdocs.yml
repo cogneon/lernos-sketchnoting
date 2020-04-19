@@ -1,0 +1,60 @@
+site_name: lernOS Sketchnoting-Guide
+site_url: https://cogneon.github.io/
+
+docs_dir: src
+
+site_dir: docs
+
+nav:
+    - Vorwort: index.md
+    - Danksagung: 0200_Danksagung.md
+    - Grundlagen: 0300_Grundlagen.md 
+    - Sketchnote Lernpfad: 0400_Sketchnode_Lernpfad.md 
+    - Kata-Log:
+        - Kata 1 (Sketchnote-Selfie): 0500_Kata_01.md 
+        - Kata 2 (Circle Setup): 0500_Kata_02.md
+        - Kata 3 (Feedback !): 0500_Kata_03.md 
+        - Kata 4 (Meine Ziele für die nächsten 4 Wochen): 0500_Kata_04.md
+        - Kata 5 (Ein Termin mit dir selbst): 0500_Kata_05.md 
+        - Kata 6 (Letter deinen Lieblingsspruch): 0500_Kata_06.md
+        - Kata 7 (Nimm dir Zeit beim Schreiben): 0500_Kata_07.md 
+        - Kata 8 (Einkaufszettel): 0500_Kata_08.md
+        - Kata 9 (Bildersammlung): 0500_Kata_09.md 
+        - Kata 10 (Was bedeuten Farben für dich?): 0500_Kata_10.md
+        - Kata 11 (#NieGenugStifte): 0500_Kata_11.md 
+        - Kata 12 (1 Sketchnote 5 Farben): 0500_Kata_12.md
+        - Kata 13 (Layouts für Sketchnotes): 0500_Kata_13.md 
+        - Kata 14 (Videosketching): 0500_Kata_14.md
+        - Kata 15 (Zwischenstand präsentieren): 0500_Kata_15.md 
+        - Kata 16 (Videosketching - Did you get it?): 0500_Kata_16.md
+        - Kata 17 (Feedback zum Inhalt): 0500_Kata_17.md 
+        - Kata 18 (Top5 Ressourcen): 0500_Kata_18.md
+        - Kata 19 (SoulshineSelfie): 0500_Kata_19.md 
+        - Kata 20 (Reflexions - Sketchnote (Teil1) "Struktur-Gedanken"): 0500_Kata_20.md
+        - Kata 21 (Reflexions-Sketchnote (Teil 2) "Der strukturierte Pfad"): 0500_Kata_21.md 
+        - Kata 22 (Montagsmaler): 0500_Kata_22.md
+        - Kata 23 (Miss & zeig deinen Erfolg): 0500_Kata_23.md 
+    - Warmups: 0600_Warmups.md 
+    - Ressourcen: 0700_Ressourcen.md 
+    - Start Doing: 0800_Start_Doing.md 
+    - Anhang: 0900_Anhang.md 
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+    language: de
+
+repo_name: 'cogneon/lernos-sketchnoting'
+repo_url: 'https://github.com/cogneon/lernos-sketchnoting'
+
+extra:
+    social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/lern_os
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/showcase/lern-os
+        - icon: fontawesome/brands/github
+          link: https://github.com/cogneon
+    disqus: lernos

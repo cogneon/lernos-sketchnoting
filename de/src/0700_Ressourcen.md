@@ -79,11 +79,31 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 
 **Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen** - Praktische Anleitungen und Tipps, durch Visualisierung die eigenen Ideen verständlicher und nachhaltiger zu vermitteln und als Ressourcen bei der Ideenfindung. (Deutsch)
 
-**Brandy Agerbeck - The graphic facilitator’s field guide/Der Wegweiser für den Graphic Facilitator** - Wie Sie mit Zuhören, Denken und Zeichnen Bedeutung schaffen. Bezieht sich auf Graphic Facilitatation, Graphic Recording, Visueller Moderation / dem Erstellen visueller Protokolle. (Englisch/Deutsch)
+**Brandy Agerbeck - The graphic facilitator’s field guide/Der Wegweiser für den Graphic Facilitator** - Wie Sie mit Zuhören, Denken und Zeichnen Bedeutung schaffen. Bezieht sich auf Graphic Facilitation, Graphic Recording, Visueller Moderation / dem Erstellen visueller Protokolle. (Englisch/Deutsch)
 
 **Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
 
 **Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)
+
+**Heidrun Künzel - Sketchnotes im Alltag: Schritt für Schritt Sketchnotes anwenden** - Schritt-für-Schritt-Anleitungen  zum Einsatz von Sketchnotes im Alltag (To-Do- und Have-Fun-Listen, Checklisten, Pläne für Urlaub, Garten, Rezepte, persönliche Grüße, Gutscheine, Einladungen und Inspirationen für Tagebuch und Kalender). (Deutsch)
+
+**Martin Haussmann - UZMO - Denken mit dem Stift: Visuell präsentieren, dokumentieren und erkunden** - Praxisratgeber für Visual Facilitating mit praktischen Zeichenanleitungen. (Deutsch)
+
+**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) 1** -  Der Bilder-Karten-Block als Nachschlagewerk der Bildsprache mit hunderten Bildsymbolen. (Deutsch/Englisch/Französisch)
+
+**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) 2.0: Neue Bilder für Meeting, Training & Learning** -  Bildsymbole aus den Themen "Workshop/Meeting/Seminar/Training", "Unternehmen/Organisation/Markt" und weiteren. Tipps für professionelle Visualisierungen und Plakat-Layouts. (Deutsch/Englisch/Französisch)
+
+**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) emotions: Visuelles Wörterbuch** -   Im Mittelpunkt dieses visuellen Wörterbuchs steht der Mensch, seine Gefühle, sein Zusammenleben und -arbeiten mit anderen. (Deutsch/Englisch/Französisch)
+
+**Nadine Roßa - Visuelle Notizen für alles: von Business-Meetings über Partyplanung bis hin zu Rezepten** - Aufbau von Sketchnotes, visuelles Alphabet, Tipps und Tricks. (Deutsch)
+
+**Willemien Brand - Visuelles Denken: Stärkung von Menschen und Unternehmen durch visuelle Zusammenarbeit** - Visuelle Kommunikation erfolgreich im (Berufs-) Alltag einsetzen. (Deutsch/Englisch)
+
+**Willemien Brand - Visual Doing: Applying Visual Thinking in your Day to Day Business** - Fokus auf dem Einsatz von Visualisierungstechniken im Business-Alltag. (Englisch)
+
+**Ben Crothers - Presto Sketching: The Magic of Simple Drawing for Brilliant Product Thinking and Design** - Tipps, Vorlagen und Übungen zum Aufbau eines visuellen Vokabulars und zur Entwicklung der Zeichen-Fähigkeiten zur Kommunikation von Ideen. (Englisch)
+
+
 
 ## Communities
 
@@ -117,7 +137,7 @@ Sandra Martin - [Twitter](https://twitter.com/sam_HH)
 
 Ania Staskiewicz - [Twitter](https://twitter.com/AniaStaskiewicz)
 
-Der kleine Wahnsinn - [Twitter](https://twitter.com/kleinerW4hnsinn)
+Katrin Mäntele (Der kleine Wahnsinn) - [Twitter](https://twitter.com/kleinerW4hnsinn)
 
 Karen Forkish - [Twitter](https://twitter.com/kforkish)
 

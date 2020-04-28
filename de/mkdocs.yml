@@ -9,7 +9,21 @@ nav:
     - Vorwort: index.md
     - Danksagung: 0200_Danksagung.md
     - Grundlagen: 0300_Grundlagen.md 
-    - Sketchnote Lernpfad: 0400_Sketchnode_Lernpfad.md 
+    - Sketchnote Lernpfad: 0400_Sketchnode_Lernpfad.md
+    - Die Wochen des Sprints: 
+        - Woche 0 (Den Sprint planen und Absprachen treffen): 0410_Woche_00.md
+        - Woche 1 (Ziele festlegen): 0410_Woche_01.md
+        - Woche 2 (Schrift & Lesbarkeit): 0410_Woche_02.md
+        - Woche 3 (Visuelles Vokabular): 0410_Woche_03.md
+        - Woche 4 (Struktur durch Stifte und Farbe): 0410_Woche_04.md
+        - Woche 5 (Struktur durch Layout): 0410_Woche_05.md
+        - Woche 6 (Dein Zwischenstand): 0410_Woche_06.md
+        - Woche 7 (Verständlichkeit): 0410_Woche_07.md
+        - Woche 8 (Sharing for Feedback): 0410_Woche_08.md
+        - Woche 9 (Vertiefen des eigenen Projekts): 0410_Woche_09.md
+        - Woche 10 (Spaß muss sein!): 0410_Woche_10.md
+        - Woche 11 (Finale Produkte und Lessons Learned): 0410_Woche_11.md
+        - Woche 12 (Reflexion und Abschluss): 0410_Woche_12.md
     - Kata-Log:
         - Kata 1 (Sketchnote-Selfie): 0500_Kata_01.md 
         - Kata 2 (Circle Setup): 0500_Kata_02.md

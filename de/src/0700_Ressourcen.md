@@ -80,7 +80,7 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 
 **Martin Haussmann - UZMO - Denken mit dem Stift: Visuell präsentieren, dokumentieren und erkunden** - Praxisratgeber für Visual Facilitating mit praktischen Zeichenanleitungen. (Deutsch)
 
-**Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
+**Robert Klanten, Anna Lena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
 
 **Heidrun Künzel - Sketchnotes im Alltag: Schritt für Schritt Sketchnotes anwenden** - Schritt-für-Schritt-Anleitungen  zum Einsatz von Sketchnotes im Alltag (To-Do- und Have-Fun-Listen, Checklisten, Pläne für Urlaub, Garten, Rezepte, persönliche Grüße, Gutscheine, Einladungen und Inspirationen für Tagebuch und Kalender). (Deutsch)
 
@@ -93,6 +93,8 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 **Dan Roam - Blah blah blah - What to do, when words don’t work** - Spannende Geschichten mit Illustrationen erzählen. (Englisch/Deutsch).
 
 **Mike Rohde - The sketchnote handbook** - Der Klassiker! 
+
+**Nadine Roßa: Sketchnotes. Die große Symbol-Bibliothek: 1000 Vorlagen mit vielen Zeichenanleitungen** - Strich für Strich Anleitungen und Variationen von Symbolen
 
 **Nadine Roßa - Visuelle Notizen für alles: von Business-Meetings über Partyplanung bis hin zu Rezepten** - Aufbau von Sketchnotes, visuelles Alphabet, Tipps und Tricks. (Deutsch)
 
@@ -116,7 +118,7 @@ Sketchnotes Germany auf [XING](https://www.xing.com/communities/groups/sketchnot
 
 Brandy Agerbeck - [Twitter](https://twitter.com/loosetooth)
 
-Katharina Blum - [Twitter](https://twitter.com/kuestenkonfetti)
+Katharina Bluhm - [Twitter](https://twitter.com/kuestenkonfetti) [Newsletter](https://katharinabluhm.de/newsletter/)
 
 Marc Bourguignon - [Twitter](https://twitter.com/100978Marc)
 

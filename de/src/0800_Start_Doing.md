@@ -6,7 +6,7 @@ Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt, sol
 
 2. Ziele und Schlüsselergebnisse definieren: nutze Woche 0, um Deine Ziele und messbare Ergebnisse für den Sprint festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
 
-3. Einen Circle gründen: suche nach 3-4 Mitstreitern, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann er die Rolle des Circle-Moderator übernehmen.
+3. Einen Circle gründen: suche nach 3-4 Mitstreiter\*innen, die im selben Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle war, kann die Person die Rolle er Circle-Moderation übernehmen.
 
 4. Organisiere das Weekly: wenn Ihr Euch im Circle nicht kennt, trefft Euch in Woche 0 am besten persönlich. Nutzt soziale Netzwerke oder Messenger, um zwischen den Treffen zu kommunizieren. Nutzt Videokonferenzen, um virtuelle Treffen zu organisieren.
 

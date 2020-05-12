@@ -4,7 +4,7 @@
 
 Schritt 1: Kritzle auf einem Blatt Papier  innerhalb von einer Minute so viele Kringel wie möglich.
 
-Schritt 2:Wenn ihr zu zweit arbeitet: tauscht eure Blätter, bist du allein (vor deinem Bildschirm), dann mach mit deinen eigenen Kringeln weiter.
+Schritt 2: Wenn ihr zu zweit arbeitet: tauscht eure Blätter, bist du allein (vor deinem Bildschirm), dann mach mit deinen eigenen Kringeln weiter.
 
 Nimm einen zweiten, andersfarbigen Stift und vervollständige die Kringel mit Schnäbeln, Beinen, Flügeln, füge Schatten und Schattierungen hinzu wenn du möchtest.
 
@@ -70,7 +70,7 @@ Sketcht den Ablauf der Morgenroutine vom aktuellen Morgen (bis zum Verlassen des
 
 ## Visuelle Kommunikation macht den Unterschied (Woche 9)
 
-Schritt 1: Einer zeichnet für sich einen Kreis, ein Dreieck und ein Viereck auf ein Blatt Papier.  Ohne den anderen das Bild zu zeigen erklärt er nun sein Bild. Die anderen zeichnen nach seiner Erklärung das Bild nach. (In der ersten Runde sind keine Fragen erlaubt, Kommunikation nur in einer Richtung) Anschließend zeigen sich alle ihre Bilder.
+Schritt 1: Eine Person zeichnet für sich einen Kreis, ein Dreieck und ein Viereck auf ein Blatt Papier.  Ohne den anderen das Bild zu zeigen erklärt er oder sie nun das eigene Bild. Die anderen zeichnen nach der Erklärung das Bild nach. (In der ersten Runde sind keine Fragen erlaubt, Kommunikation nur in einer Richtung) Anschließend zeigen sich alle ihre Bilder.
 
 Schritt 2: Wie Schritt 1, nun dürfen Verständnisfragen gestellt werden.
 

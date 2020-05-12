@@ -1,10 +1,10 @@
-# Einleitung
+Einleitung
 
 Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. Dazu das Wichtigste in einer Sketchnote:
 
 ![LernOS in a nutshell by Karl Damke CC-BY](sketchnotes/lernos_in_a_nutshell.png)
 
-Wenn du mehr wissen willst, kannst alles über lernOS [bei Cogneon](https://cogneon.github.io/lernos-core/) nachlesen, dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints. ;)  
+Wenn du mehr wissen willst, kannst alles über lernOS [bei Cogneon](https://cogneon.github.io/lernos-core/de/) nachlesen, dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints. ;)  
 
 **Warum ein Sketchnote Lernpfad?**
 
@@ -38,11 +38,11 @@ Keine Praxis ohne ein bisschen Theorie. Im folgenden Kapitel werden wir auf die 
 
 Wer hat nicht als Kind auf sämtliche Oberflächen gemalt, gezeichnet und vor allem gekritzelt? Das Kritzeln (englisch: Doodling) ist ein super-einfacher Weg, Informationen zu verstehen und mit anderen zu teilen. Sunni Brown beschreibt das sehr eindrücklich in ihrem TED Talk "[Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en#t-29444)". In ihrem Buch "The Doodle Revolution" zeigt Sunni, wie stark das Skizzieren von Informationen Innovation und kreatives Denken motiviert, indem sie kurz und bündig, sowie einfach verständlich auf den Punkt gebracht werden.
 
-Historisch gesehen, sind wir Menschen visuelle Wesen. Bilder verwenden wir seit mehr als (20.000 Jahren)[https://journal.lib.uoguelph.ca/index.php/perj/article/view/3137], die ältesten Höhlenmalerein sind sogar noch älter. Sie werden teilweise auf mehr als (35.000 Jahre datiert)[https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei].
+Historisch gesehen, sind wir Menschen visuelle Wesen. Bilder verwenden wir seit mehr als [20.000 Jahren](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3137), die ältesten Höhlenmalerein sind sogar noch älter. Sie werden teilweise auf mehr als [35.000 Jahre datiert](https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei).
 
 Von einem wissenschaftlichen Standpunkt aus werden Sketchnotes durch die "[Dual Encoding Theorie](https://en.wikipedia.org/wiki/Dual-coding_theory)" gestützt. Diese beschreibt, dass Informationen die doppelt, also in unserem Fall als Text und Bild, kodiert und abgespeichert werden, stärker verankert werden. Sie lassen sich später schneller und genauer wieder erinnern, als "einfache" Textnotizen. Das Nutzen von Stift und Papier, oder auch digitalem Stylus und Tablet, hat also immense Vorteile gegenüber z. B. dem Mittippen am Laptop in einer Vorlesung oder einem Meeting. (s. Artikel von [Oppenheimer und Mueller](https://journals.sagepub.com/doi/10.1177/0956797614524581)) Das tiefe Verständnis von Konzepten und Ideen erschließt sich den Sketchnoter\*innen also viel schneller und einfacher als den "Mitschreiber\*innen", die Wort für Wort alles zu Papier bringen oder in das Notebook hackt.
 
-Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](http://creativeapproachestoresearch.net/wp-content/uploads/CAR9_1_Messenger.pdf)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert. 
+Vielleicht liegt das daran, dass beim Rumkritzeln und Skizzieren ein Prozess im Gehirn abläuft, der konstruktiv ist. Wir müssen dafür die verschiedenen Elemente wie Legosteine zusammenbauen und dabei unser Wissen integrieren und organisieren, damit kein totales Chaos auf dem Papier entsteht. Wie Hazel Messenger in ihrem Artikel "[Drawing Out Ideas](https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=18359442&AN=120666112&h=j66cPhqDECmzFTzdusRYarMmVfAAlKKDXnRef90BzvF9NuVMYq8%2fTh%2fERMpVyXIr8FJNnm8i0T0Vhw%2fkJW0hZQ%3d%3d&crl=f&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d18359442%26AN%3d120666112)" weiter schreibt, wird durch die Verbindung von Spüren, Fühlen, Denken und Tun auch neues Wissen erzeugt, also aus all diesen Bauelementen konstruiert. 
 
 Einfach auf den Punkt gebracht: Bilder, vor allem in Kombination mit Text, sind purem Text einfach überlegen. In der Literatur spricht man vom [Picture Superiority Effect](https://psycnet.apa.org/record/2011-13423-001). 
 
@@ -99,7 +99,7 @@ Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Not
 
 Natürlich hat jede Medaille zwei Seiten. Ein paar Dinge können Stift und Papier tatsächlich nicht so gut:
 
-- Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=de), [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de) oder [Adobe Scan](https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834)).
+- Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps (Android/IOS) [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=de)/[CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783), [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de)/[Office Lens](https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059) oder [Adobe Scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=de) [Adobe Scan](https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834)).
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!
 - Korrekturen sind nicht so einfach bzw. “stören” das Gesamtbild
 - Elemente vergrößern und verkleinern ist auch nicht so wirklich drin ...
@@ -144,8 +144,7 @@ Apps zum Sketchen:
 - Tayasui Sketches - Basisversion kostenlos, für [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=de)
 - [GoodNotes 5](https://www.goodnotes.com/) - kostenpflichtig, für IOS 
 
-Eine Übersicht über verschiedene Apps kannst du bei [Timo](https://sketchnoting.net/sketchnotes-apps/) und auf [Pixpa](A very detailed overview on drawing apps, which can be used for Sketchnoting of course, can found on [Pixpa](https://www.pixpa.com/blog/drawing-apps).
-) finden. 
+Eine Übersicht über verschiedene Apps kannst du bei [Timo](https://sketchnoting.net/sketchnotes-apps/) und auf [Pixpa](https://www.pixpa.com/blog/drawing-apps) finden. 
 
 ## Sketchnote Elemente
 

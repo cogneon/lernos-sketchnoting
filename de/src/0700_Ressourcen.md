@@ -108,9 +108,9 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 
 ## Communities
 
-[Sketchnote Army](https://sketchnotearmy.com/) [Slack channel](https://sketchnote-army.slack.com/join/shared_invite/enQtMzkwNDQ5MDk5NjM2LTkxNDk0ODAyMDEzMDViNzM3Mzg4NWVjM2YxNTZlMjE3MmEzMTNkYTA0NzIzZmU2NzY3ZDBiMTc3MTNkMjljMTQ)
+[Sketchnote Army](https://sketchnotearmy.com/) [Slack channel](https://sketchnotearmy.com/slack)
 
-Sketchnotes Germany auf [XING](https://www.xing.com/communities/groups/sketchnotes-germany-1094723) und [Facebook](https://www.facebook.com/groups/sketchnotesgermany/)
+Sketchnotes Germany auf [Facebook](https://www.facebook.com/groups/sketchnotesgermany/)
 
 
 
@@ -138,7 +138,7 @@ Marcel van Hove - [Twitter](https://twitter.com/marcelvanhove)
 
 Pavo Ivcovic (Djangonaut) [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Fr um 9:30 Uhr (coffee talk mit Pavo und Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
 
-Austin Kleon - ([Newsletter](https://austinkleon.com/newsletter/))
+Austin Kleon - [Newsletter](https://austinkleon.com/newsletter/)
 
 Eva-Lotta Lamm - [Newsletter](https://sketchnotesbook.us2.list-manage.com/subscribe?u=6002ba391bca80877955f964d&id=2ba2f4f8a3), [Instagram](https://www.instagram.com/evalottchen/)
 

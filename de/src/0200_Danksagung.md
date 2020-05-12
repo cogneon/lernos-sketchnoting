@@ -1,6 +1,6 @@
 # Danksagung
 
-Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke)
+Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Unterstützung! Geschrieben wurde der Leitfaden von: [Marjukka Zsagar-Renneberg](https://twitter.com/m4rjukka), [Raffaelina Rossetti](https://twitter.com/denkflowrr), [Benjamin Krüger](https://twitter.com/ben1kk), [Lars Bartschat](https://twitter.com/BartschatLars) und [Karl Damke](https://twitter.com/karlcdamke).
 
 Geholfen haben dabei: 
 

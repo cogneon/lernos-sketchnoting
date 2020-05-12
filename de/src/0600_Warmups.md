@@ -102,7 +102,7 @@ Sammelt verschiedene Augen, Nasen, Frisuren, Brillen, Bärte... und weitere Merk
 Spielt eine Runde Mensch-O-Mat oder generiert selbst die Zutaten für skurrile Figuren!
 
 Weitere Informationen:
-Der (Mensch-O-Mat)[https://www.ein-bild.com/menschomat] von Sandra Martin @SamHH generiert die „Zutaten“ als Zufallsrezept.
+Der [Mensch-O-Mat](https://www.ein-bild.com/menschomat) von Sandra Martin [@Sam_HH](https://twitter.com/sam_HH) generiert die „Zutaten“ als Zufallsrezept.
 
 
 ## Weitere Warm-Ups zur Auswahl

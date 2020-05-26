@@ -14,6 +14,12 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 ![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
+## Wie finde ich weitere Circle Member?
+
+Du willst jetzt loslegen, aber weißt nicht so genau, wo die anderen Circle Member herkommen sollen? 
+
+Wenn du dich in Sozialen Netzwerken, wie Facebook, Instagram oder Twitter bewegst, dann frag dort in einem Post nach weiteren Interessierten. Nutze dafür auch die die Hashtags  #lernOS und #sketchnoting. Du kannst die Autor\*innen des Lernpfades taggen, so kann dein Post einfacher gesehen und weitergeleitet werden. 
+
 ## Circle Organisator\*innen Checkliste
 
 **#ProTipp:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.

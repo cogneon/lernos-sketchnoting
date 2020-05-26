@@ -4,7 +4,7 @@ Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lern
 
 ![lernos_in_a_nutshell_neu](sketchnotes/lernos_in_a_nutshell_neu.png)
 
-Wenn du mehr wissen willst, kannst alles über lernOS [bei Cogneon](https://cogneon.github.io/lernos-core/de/) nachlesen, dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints. ;)  
+Wenn du mehr wissen willst, kannst alles über lernOS [bei Cogneon](https://cogneon.de/lernos/) nachlesen, dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints. ;)  
 
 **Warum ein Sketchnote Lernpfad?**
 
@@ -99,7 +99,7 @@ Sketchnotes mit Stift und Papier sind die "ursprüngliche" Art der visuellen Not
 
 Natürlich hat jede Medaille zwei Seiten. Ein paar Dinge können Stift und Papier tatsächlich nicht so gut:
 
-- Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die Apps (Android/IOS) [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=de)/[CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783), [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de)/[Office Lens](https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059) oder [Adobe Scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=de) [Adobe Scan](https://apps.apple.com/de/app/adobe-scan-dokumenten-scanner/id1199564834)).
+- Um eine analoge Sketchnote online zu teilen, musst du sie erst einscannen oder abfotografieren (gute Dienste leisten hier übrigens die folgenden Apps [CamScanner](https://www.camscanner.com/), [Office Lens](https://www.microsoft.com/de-de/p/office-lens/9wzdncrfj3t8?activetab=pivot:overviewtab) oder [Adobe Scan](https://acrobat.adobe.com/de/de/mobile/scanner-app.html).
 - Copy and Paste bzw. Cut and Paste sind mit Papier zwar grundsätzlich möglich, aber sehr sehr aufwändig!
 - Korrekturen sind nicht so einfach bzw. “stören” das Gesamtbild
 - Elemente vergrößern und verkleinern ist auch nicht so wirklich drin ...
@@ -141,7 +141,7 @@ Apps zum Sketchen:
 - [ProCreate](https://procreate.art/) - kostenpflichtig, für iOS (Doug Neill stellt [ProCreate als Sketchnote-Tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) in einem Video vor)
 - [Paper by WeTransfer](https://paper.bywetransfer.com/) (früher by 53) - Basisversion kostenlos, Abomodell, für iOS
 - [Concepts](https://concepts.app/) - Basisversion kostenlos, für iOS, Android, Windows
-- Tayasui Sketches - Basisversion kostenlos, für [iOS](https://apps.apple.com/de/app/tayasui-sketches/id641900855), [Android](https://play.google.com/store/apps/details?id=com.tayasui.sketches.lite&hl=de)
+- [Tayasui Sketches](https://tayasui.com/sketches/) - Basisversion kostenlos, für iOS, Android
 - [GoodNotes 5](https://www.goodnotes.com/) - kostenpflichtig, für IOS 
 
 Eine Übersicht über verschiedene Apps kannst du bei [Timo](https://sketchnoting.net/sketchnotes-apps/) und auf [Pixpa](https://www.pixpa.com/blog/drawing-apps) finden. 

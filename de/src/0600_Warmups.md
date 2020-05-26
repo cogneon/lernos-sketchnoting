@@ -17,7 +17,7 @@ Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest 
 
 ## Ziele (Woche 1)
 
-Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander  Wie visualisiert ihr, dass die Ziele erreicht wurden? 
+Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander.  Wie visualisiert ihr, dass die Ziele erreicht wurden? 
 
 ## Ganz groß und ganz klein (Woche 2) 
 

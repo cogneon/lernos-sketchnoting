@@ -3,7 +3,7 @@ site_url: https://cogneon.github.io/
 
 docs_dir: src
 
-site_dir: docs
+site_dir: ../../de/docs
 
 nav:
     - Vorwort: index.md

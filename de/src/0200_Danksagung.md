@@ -11,8 +11,9 @@ Geholfen haben dabei:
 - Conni Eybisch-Klimpel (@connieybisch auf Instagram): Kata "Reflexionen"
 - Susanne Speer (@designpiranha auf Twitter): Kata "Montagsmaler"
 - Katja Reiter (@katja.visualisiert auf Instagram): Sketchnote "Beispiele für Schrift"
-- Mascha D. Reinelt (@sketchhenne auf Instagram): Sketchnote "Lettering"
+- Mascha D. Reinelt (@sketchhenne auf Instagram): Sketchnote "SoulshineSelfie"
 - Telse Ahrweiler (@telse_ahrweiler auf Instagram): Sketchnote "Lettering"
+- Daniela Engelhard (@mindfullmindful auf Instagram): Sketchnote "Lettering"
 - Andrea Wendt (@anwendtbar auf Instagram): Sketchnote "Lettering"
 - Simon Dückert (@simondueckert auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
 

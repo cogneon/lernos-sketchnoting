@@ -13,6 +13,7 @@ Geholfen haben dabei:
 - Katja Reiter (@katja.visualisiert auf Instagram): Sketchnote "Beispiele für Schrift"
 - Mascha D. Reinelt (@sketchhenne auf Instagram): Sketchnote "Lettering"
 - Telse Ahrweiler (@telse_ahrweiler auf Instagram): Sketchnote "Lettering"
+- Andrea Wendt (@anwendtbar auf Instagram): Sketchnote "Lettering"
 - Simon Dückert (@simondueckert auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
 
 Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
@@ -23,3 +24,4 @@ Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an:
 - Susanne Kitlinski
 - Wibke Tiedmann
 - Tobias Leisgang
+- Andrea Wendt

@@ -2,7 +2,7 @@
 
 # Der Sketchnote Lernpfad
 
-Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger\*innen als auch für Fortgeschrittene geeignet sind. Nimm dir vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen. Vielleicht schaut ihr auch einfach mal in den anderen [lernOS Lernpfaden](https://github.com/cogneon/), welche Katas dort genutzt werden und ob diese nicht besser für euch sind...
+Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger\*innen als auch für Fortgeschrittene geeignet sind. Nimm dir vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen. Vielleicht schaut ihr auch einfach mal in den anderen [lernOS Leitfäden](https://github.com/cogneon/), welche Katas dort genutzt werden und ob diese nicht besser für euch sind...
 
 **Wie ist dieser Lernpfad aufgebaut?**
 
@@ -18,7 +18,7 @@ Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situat
 
 Du willst jetzt loslegen, aber weißt nicht so genau, wo die anderen Circle Member herkommen sollen? 
 
-Wenn du dich in Sozialen Netzwerken, wie Facebook, Instagram oder Twitter bewegst, dann frag dort in einem Post nach weiteren Interessierten. Nutze dafür auch die die Hashtags  #lernOS und #sketchnoting. Du kannst die Autor\*innen des Lernpfades taggen, so kann dein Post einfacher gesehen und weitergeleitet werden. 
+Wenn du dich in Sozialen Netzwerken, wie Facebook, Instagram oder Twitter bewegst, dann frag dort in einem Post nach weiteren Interessierten. Nutze dafür auch die die Hashtags  #lernOS und #sketchnoting. Du kannst die Autor\*innen des Leitfadens taggen, so kann dein Post einfacher gesehen und weitergeleitet werden. 
 
 ## Circle Organisator\*innen Checkliste
 

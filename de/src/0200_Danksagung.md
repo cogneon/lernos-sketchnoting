@@ -4,18 +4,18 @@ Vielen Dank an Simon Dückert für die inhaltliche, technische und moralische Un
 
 Geholfen haben dabei: 
 
-- Natalia Zlateva (@nataliaoro auf instagram): Kata "Einkaufszettel"
-- Mike Meister (@mm_mikemeister auf Twitter): Warm Up "Kritzelvögel", Warm Up "Visuelle Kommunikation macht den Unterschied"
-- Sabine Erkens (@Sabine_Erkens auf Twitter): Kata "Bildersammlung", Kata "#Nie genug Stifte"
-- Britta Ullrich (vizworks.de im Web & auf Instagram): Kata "Soulshine Selfie"
-- Conni Eybisch-Klimpel (@connieybisch auf Instagram): Kata "Reflexionen"
-- Susanne Speer (@designpiranha auf Twitter): Kata "Montagsmaler"
-- Katja Reiter (@katja.visualisiert auf Instagram): Sketchnote "Beispiele für Schrift"
-- Mascha D. Reinelt (@sketchhenne auf Instagram): Sketchnote "SoulshineSelfie"
-- Telse Ahrweiler (@telse_ahrweiler auf Instagram): Sketchnote "Lettering"
-- Daniela Engelhard (@mindfullmindful auf Instagram): Sketchnote "Lettering"
-- Andrea Wendt (@anwendtbar auf Instagram): Sketchnote "Lettering"
-- Simon Dückert (@simondueckert auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
+- Natalia Zlateva ([@nataliaoro](https://www.instagram.com/nataliaoro) auf Instagram): Kata "Einkaufszettel"
+- Mike Meister ([@mm_mikemeister](https://www.twitter.com/mm_mikemeister) auf Twitter): Warm Up "Kritzelvögel", Warm Up "Visuelle Kommunikation macht den Unterschied"
+- Sabine Erkens ([@Sabine_Erkens](https://www.twitter.com/Sabine_Erkens) auf Twitter): Kata "Bildersammlung", Kata "#Nie genug Stifte"
+- Britta Ullrich ([vizworks.de](https://www.vizworks.de) im Web & auf Instagram): Kata "Soulshine Selfie"
+- Conni Eybisch-Klimpel ([@conni.eybisch](https://www.instagram.com/conni.eybisch) auf Instagram): Kata "Reflexionen"
+- Susanne Speer ([@designpiranha](https://www.twitter.com/designpiranha) auf Twitter): Kata "Montagsmaler"
+- Katja Reiter ([@katja.visualisiert](https://www.instagram.com/katja.visualisiert) auf Instagram): Sketchnote "Beispiele für Schrift"
+- Mascha D. Reinelt ([@sketchhenne](https://www.instagram.com/sketchhenne) auf Instagram): Sketchnote "SoulshineSelfie"
+- Telse Ahrweiler ([@telse_ahrweiler](https://www.instagram.com/telse_ahrweiler) auf Instagram): Sketchnote "Lettering"
+- Daniela Engelhard ([@mindfullmindful](https://www.instagram.com/mindfullmindful) auf Instagram): Sketchnote "Lettering"
+- Andrea Wendt ([@anwendtbar](https://www.instagram.com/anwendtbar) auf Instagram): Sketchnote "Lettering"
+- Simon Dückert ([@simondueckert](https://www.twitter.com/simondueckert) auf Twitter): aus dem lernOS übernommene Katas: "Circle Setup", "Meine Ziele für die nächsten 12 Wochen", "Ein Termin mit dir selbst" und Inspiration für die Kata "Top 5 Ressourcen". 
 
 Ein großes Dankeschön für konstruktives Feedback und Korrekturen geht an: 
 

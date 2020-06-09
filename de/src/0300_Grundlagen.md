@@ -2,7 +2,7 @@ Einleitung
 
 Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. Dazu das Wichtigste in einer Sketchnote:
 
-![lernos_in_a_nutshell_neu](sketchnotes/lernos_in_a_nutshell_neu.png)
+![lernOS in an Nutshell](sketchnotes/lernos_in_a_nutshell.png)
 
 Wenn du mehr wissen willst, kannst alles über lernOS [bei Cogneon](https://cogneon.de/lernos/) nachlesen, dort den Leitfaden herunterladen oder dir [diesen Podcast](https://colearn.de/clp066-aufzeichnung-cl-sprint-12-4-2019-die-kunst-des-selbstgesteuerten-lebenslangen-lernens/) mit lernOS Mastermind Simon Dückert anhören. Im lernOS Sketchnote Leitfaden werden wir an einigen Stellen auf bestimmte Inhalte aus dem lernOS Leitfaden oder weiterführende Ressourcen verweisen. Mach dir aber keinen Stress und konzentriere dich auf die Inhalte und Methoden, die für dich unmittelbar wichtig sind - so hast du noch etwas übrig für die nächsten Sprints. ;)  
 
@@ -14,7 +14,7 @@ Wie bei allem gilt auch beim Sketchnoten: Übung macht den Meister!
 
  Motivation, konstruktives Feedback und Zugang zu guten Ressourcen sind die Grundlage für Üben, das Spaß macht. Und nur wenn es Spaß macht, bleibst du dran... 
 
- ![lernos_sketchnoting_in_a_nutshell](sketchnotes/lernOS_sketchnoting_in_a_nutshell.png)
+ ![lernOS sketchnoting in a nutshell](sketchnotes/lernos_sketchnoting_in_a_nutshell.png)
 
  Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
 

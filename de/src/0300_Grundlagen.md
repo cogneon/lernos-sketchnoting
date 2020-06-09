@@ -13,7 +13,7 @@ In der aktuellen [VUCA](https://de.wikipedia.org/wiki/VUCA)-Welt können Sketchn
 Wie bei allem gilt auch beim Sketchnoten: Übung macht den Meister! 
 
  Motivation, konstruktives Feedback und Zugang zu guten Ressourcen sind die Grundlage für Üben, das Spaß macht. Und nur wenn es Spaß macht, bleibst du dran... 
- 
+
  ![lernos_sketchnoting_in_a_nutshell](sketchnotes/lernOS_sketchnoting_in_a_nutshell.png)
 
  Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 

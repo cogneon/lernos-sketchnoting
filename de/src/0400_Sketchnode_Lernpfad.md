@@ -26,7 +26,7 @@ Wenn du dich in Sozialen Netzwerken, wie Facebook, Instagram oder Twitter bewegs
 
 Du wählst deinen eigenen Schwerpunkt für den Sprint – was willst du neu lernen oder vertiefen? Wo stehst du? Was ist herausfordernd? Was ist jetzt gerade dran, wie geht es dann weiter – was wäre eher ein Schwerpunkt für einen weiteren Sprint? „Alles auf einmal und dann perfekt“ (und Überforderung / Frust) oder lieber doch „practice makes progress“ (Brandy Agerbeck) – Übung macht Fortschritte (und Spaß)?
 
-![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.png){#small .center height=500}
+![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.jpg){#small .center height=500}
 
 Die hier aufgeführten Katas sind Vorschläge. Betrachte sie durch deine eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu deinem Schwerpunkt? Oder willst du alle machen? Wenn du selbst Ideen für Katas (oder Variationen) hast, die noch besser zu deinem Schwerpunkt passen, nutze diese! Und wenn du die dann mit uns teilst oder den Lernpfad selbst ergänzt, hilfst du allen anderen, die nach dir dem Lernpfad folgen! (... und verdient natürlich einen Haufen Karma-Punkte!)
 

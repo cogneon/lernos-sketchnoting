@@ -14,22 +14,18 @@ Wie bei allem gilt auch beim Sketchnoten: Übung macht den Meister!
 
  Motivation, konstruktives Feedback und Zugang zu guten Ressourcen sind die Grundlage für Üben, das Spaß macht. Und nur wenn es Spaß macht, bleibst du dran... 
 
- ![lernOS sketchnoting in a nutshell](sketchnotes/lernos_sketchnoting_in_a_nutshell.png)
- ![lernos](sketchnotes/lernOS_sketchnoting_in_a_nutshell.png)
+
+ ![lernos_sketchnnoting_in_a_nutshell](sketchnotes/lernOS_sketchnoting_in_a_nutshell.png)
 
  Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
 
-a) eine Einführung ins Sketchnoting & Wissen zu Material und Grundlagen (Kapitel 4) 
+a) eine Einführung ins Sketchnoting & Wissen zu Material und Grundlagen  
 
-b) 23 Katas (Übungen) zu den wichtigsten Bereichen des Sketchnotens (Kapitel 5)
+b) 23 Katas (Übungen) zu den wichtigsten Bereichen des Sketchnotens 
 
 c) Ressourcen zum Weiterlernen, Vernetzen und Inspirieren lassen
 
-Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich Kapitel 4 dabei helfen den Einstieg zu schaffen.
-
-# Grundlagen
-
-Keine Praxis ohne ein bisschen Theorie. Im folgenden Kapitel werden wir auf die Basics des Sketchnotens eingehen.
+Der Lernpfad funktioniert für alle “Level”, egal ob du erst seit 5 Minuten oder schon seit 5 Jahren sketchnotest. Wenn du ganz am Anfang stehst, wird dir sicherlich das folgende Kapitel dabei helfen den Einstieg zu schaffen.
 
 ## Was sind Sketchnotes?
 

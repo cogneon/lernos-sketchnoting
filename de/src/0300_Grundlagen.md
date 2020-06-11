@@ -15,7 +15,7 @@ Wie bei allem gilt auch beim Sketchnoten: Übung macht den Meister!
  Motivation, konstruktives Feedback und Zugang zu guten Ressourcen sind die Grundlage für Üben, das Spaß macht. Und nur wenn es Spaß macht, bleibst du dran... 
 
 
- ![lernos_sketchnnoting_in_a_nutshell](sketchnotes/lernOS_sketchnoting_in_a_nutshell.png)
+ ![lernos_sketchnnoting_in_a_nutshell](sketchnotes/lernos_sketchnoting_in_a_nutshell.png)
 
  Dafür haben wir den lernOS Sketchnote Lernpfad entwickelt. Er enthält: 
 

@@ -1,12 +1,12 @@
 site_name: lernOS Sketchnoting-Guide
 site_url: https://cogneon.github.io/
 
-docs_dir: src
+docs_dir: tmp
 
 site_dir: ../docs/de
 
 nav:
-    - Vorwort: index.md
+    - Vorwort: 0100_Vorwort.md
     - Danksagung: 0200_Danksagung.md
     - Grundlagen: 0300_Grundlagen.md 
     - Sketchnote Lernpfad: 0400_Sketchnode_Lernpfad.md

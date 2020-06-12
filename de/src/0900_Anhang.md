@@ -13,12 +13,3 @@
 # Reflexionsnetz
 
 ![](sketchnotes/reflections.png){#mid .center height=770}
-
-\newpage
-
-
-
-# Änderungshistorie
-| Version | Bearbeitet von | Beschreibung Änderung | Datum |
-|---------|----------------|-----------------------|-------|
-| 0.1 | Benjamin Krüger | Initial Commit. Texte und Bilder sind eingefügt, Verlinkungen gerade gezogen. | 2019-06-19 |

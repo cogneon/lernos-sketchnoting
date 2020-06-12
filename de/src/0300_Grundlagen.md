@@ -1,4 +1,4 @@
-Einleitung
+## Einleitung
 
 Um diesen Leitfaden bestmöglich nutzen zu können, solltest du etwas über lernOS wissen, auf dem dieser Leitfaden aufbaut. Dazu das Wichtigste in einer Sketchnote:
 

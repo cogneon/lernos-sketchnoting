@@ -11,7 +11,7 @@ Geholfen haben dabei:
 - Conni Eybisch-Klimpel ([@conni.eybisch](https://www.instagram.com/conni.eybisch) auf Instagram): Kata "Reflexionen"
 - Susanne Speer ([@designpiranha](https://www.twitter.com/designpiranha) auf Twitter): Kata "Montagsmaler"
 - Steffi Altmann ([@mygreensketchnotes](https://www.instagram.com/mygreensketchnotes) auf Instagram): Sketchnote "Sketchnote-Selfie"
-- Hannah ([@kritzelpunk](https://www.instagram.com/kritzelpunk) auf Instagram): Sketchnote "Sketchnote-Selfie"
+- Hannah Birr ([@kritzelpunk](https://www.instagram.com/kritzelpunk) auf Instagram): Sketchnote "Sketchnote-Selfie"
 - Katja Reiter ([@katja.visualisiert](https://www.instagram.com/katja.visualisiert) auf Instagram): Sketchnote "Beispiele für Schrift"
 - Mascha D. Reinelt ([@sketchhenne](https://www.instagram.com/sketchhenne) auf Instagram): Sketchnote "SoulshineSelfie"
 - Telse Ahrweiler ([@telse_ahrweiler](https://www.instagram.com/telse_ahrweiler) auf Instagram): Sketchnote "Lettering"

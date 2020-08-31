@@ -1,0 +1,8 @@
+# Foreword
+
+The verb "lernos" is the future form of “to learn” in Esperanto (mi lernos = I will learn, ni lernos = we will learn). lernOS is an operating system for lifelong learning and learning organizations. lernOS is not software, however, but "brainware." It is a way of thinking and acting to be successful as an individual, team or organization in the 21st century. The capital "OS" in the name emphasizes the importance of digitalization for our globally connected knowledge society.
+
+There are three basic guidelines described for lernOS. They represent the approach on the individual level (lernOS for you), the level of teams (lernOS for teams) and the level of organizations (lernOS for organizations). Additionally, there is the lernOS Toolbox, which explains frequently used methods and tools (e.g. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS was not invented anew but is a compilation of already existing and proven methods. All lernOS guides are available under the open licence Creative Commons Attribution (CC BY) on the lernOS website and can be adapted to your own needs.
+If you have further questions regarding lernOS or need support from like-minded people, you can use the community platform CONNECT or post on Twitter with #lernOS. Note: Much of the twitter content is in German, and the mastery of lernOS is a question of months or years, not hours or days.
+
+So: Keep Calm & Sketch On!

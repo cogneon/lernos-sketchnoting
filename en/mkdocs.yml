@@ -1,0 +1,74 @@
+site_name: lernOS Sketchnoting Guide
+site_url: https://cogneon.github.io/lernos-sketchnoting/en/
+
+docs_dir: tmp4web
+
+site_dir: ../docs/en
+
+nav:
+    - Preface: 0100_Preface.md
+    - Acknowledgements: 0200_Acknowledgements.md
+    - Introduction: 0300_Introduction.md 
+    - The Sketchnote Learning Path: 0400_Sketchnote_Learning_Path.md
+    - The weeks of the sprint: 
+        - Week 0 (Planning the sprint and making arrangements): 0410_Week_00.md
+        - Week 1 (Setting goals): 0410_Week_01.md
+        - Week 2 (Writing & Readability): 0410_Week_02.md
+        - Week 3 (Visual vocabulary): 0410_Week_03.md
+        - Week 4 (Structure through pens and color): 0410_Week_04.md
+        - Week 5 (Structure through layout): 0410_Week_05.md
+        - Week 6 (Your preliminary score): 0410_Week_06.md
+        - Week 7 (Comprehensibility): 0410_Week_07.md
+        - Week 8 (Sharing for feedback): 0410_Week_08.md
+        - Week 9 (Deepening your own project): 0410_Week_09.md
+        - Week 10 (We all need a little fun!): 0410_Week_10.md
+        - Week 11 (Final Products and Lessons Learned): 0410_Week_11.md
+        - Week 12 (Reflection and conclusion): 0410_Week_12.md
+    - Kata-Log:
+        - Kata 1 (Sketchnote-Selfie): 0500_Kata_01.md 
+        - Kata 2 (Circle Setup): 0500_Kata_02.md
+        - Kata 3 (Feedback!): 0500_Kata_03.md 
+        - Kata 4 (My goals for the next twelve weeks): 0500_Kata_04.md
+        - Kata 5 (An appointment with yourself): 0500_Kata_05.md 
+        - Kata 6 (Lettering of your favourite saying): 0500_Kata_06.md
+        - Kata 7 (Take your time while writing): 0500_Kata_07.md 
+        - Kata 8 (Shopping list): 0500_Kata_08.md
+        - Kata 9 (Image collection): 0500_Kata_09.md 
+        - Kata 10 (What do colors mean for you?): 0500_Kata_10.md
+        - Kata 11 (#NeverEnoughPens): 0500_Kata_11.md 
+        - Kata 12 (1 sketchnote, 5 colours): 0500_Kata_12.md
+        - Kata 13 (Layouts for Sketchnotes): 0500_Kata_13.md 
+        - Kata 14 (Video Sketching): 0500_Kata_14.md
+        - Kata 15 (Presenting the preliminary result): 0500_Kata_15.md 
+        - Kata 16 (Video Sketching - Did you get it?): 0500_Kata_16.md
+        - Kata 17 (Feedback on content): 0500_Kata_17.md 
+        - Kata 18 (Top 5 Resources): 0500_Kata_18.md
+        - Kata 19 (Soulshine Selfie): 0500_Kata_19.md 
+        - Kata 20 (Reflecting sketchnote (Part 1) "Structural Thoughts"): 0500_Kata_20.md
+        - Kata 21 (Reflecting sketchnote (part 2) "The structured path"): 0500_Kata_21.md 
+        - Kata 22 (Pictionary): 0500_Kata_22.md
+        - Kata 23 (Measure & show your success): 0500_Kata_23.md 
+    - Warm-Ups: 0600_Warmups.md 
+    - Resources: 0700_Resources.md 
+    - Stop talking. Start doing!: 0800_Start_Doing.md 
+    - Appendix: 0900_Appendix.md 
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+    language: en
+
+repo_name: 'cogneon/lernos-sketchnoting'
+repo_url: 'https://github.com/cogneon/lernos-sketchnoting'
+
+extra:
+    social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/lern_os
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/showcase/lern-os
+        - icon: fontawesome/brands/github
+          link: https://github.com/cogneon
+    disqus: lernos

@@ -1,123 +1,121 @@
 # **Warm-Ups**
 
-## Kringel-Vögel (Woche 0)
+## "Kringel" or Squiggle birds (week 0)
 
-Schritt 1: Kritzle auf einem Blatt Papier  innerhalb von einer Minute so viele Kringel wie möglich.
+Step 1: Draw as many random squiggles as possible on a sheet of paper within one minute.
 
-Schritt 2: Wenn ihr zu zweit arbeitet: tauscht eure Blätter, bist du allein (vor deinem Bildschirm), dann mach mit deinen eigenen Kringeln weiter.
+Step 2: If you work in pairs: swap your sheets, if you are alone (in front of your screen), then continue with your squiggles.
 
-Nimm einen zweiten, andersfarbigen Stift und vervollständige die Kringel mit Schnäbeln, Beinen, Flügeln, füge Schatten und Schattierungen hinzu wenn du möchtest.
+Take a second, different coloured pen and add some beaks, legs, wings, or add shadows and shades if you like.
 
-Schritt 3: Zeige deine Kringel-Vogel Sammlung den anderen. Vielleicht möchtest du sie auch später auf Twitter oder Instagram teilen?
+Step 3: Show your squiggle-bird collection to the others. Maybe you want to share it later on Twitter or Instagram?
 
-**Weitere Informationen:**
+**More information:**
 
 - Video: [Dave Gray - Squiggle birds](https://www.youtube.com/watch?v=vK3yQBouzNs)
 - Video: [Hirameki - draw what you see](https://www.youtube.com/watch?v=IrLwkyWBB7w)
 
-## Ziele (Woche 1)
+## Goals (week 1)
 
-Wie visualisiert ihr Ziele? Zeichnet Icons und vergleicht sie miteinander.  Wie visualisiert ihr, dass die Ziele erreicht wurden? 
+How do you visualize goals? Draw icons and compare them. How do you visualize that the goals have been achieved?
 
-## Ganz groß und ganz klein (Woche 2) 
+## Very big and very small (week 2) 
 
-Einigt euch auf ein Wort. Alle schreiben es mit einem dicken Stift zuerst ganz groß und dann ganz klein. Wechselt dann den Stift und schreibt das Wort mit einem dünnen Stift erst ganz klein und dann ganz groß. Vergleicht die Ergebnisse miteinander: Wie schafft ihr es, dass alles immer lesbar ist und gut aussieht?  (5 Minuten)
+Agree on a word. Everyone writes it with a thick pen, first in really big letters and then in really small letters. Then change the pen and write the word with a thin pencil first very small and then very big. Compare the results: How do you make everything readable and also look good? (5 minutes)
 
-## Icons (Woche 3)
+## Icons (week 3)
 
-Alle bringen einen Begriff mit, den sie spannend oder schwer zu visualisieren finden. Alle Begriffe werden in je 30 Sekunden gesketcht und dann verglichen. (5 Minuten)
+Everyone brings along a word that they find exciting or challenging to visualize. All words are sketched in 30 seconds each and then compared. (5 minutes)
 
-*Variante 1: Danach mit #20secchallenge im Sketchnote Army Slack vergleichen*
+*Option 1: Compare the results with the #20secchallenge in the Sketchnote Army Slack*
+*Option 2: Tell a mini-story out of the 5 words*
 
-*Variante 2: Aus den 5 Begriffen eine Mini-Geschichte machen*
+## Fewer details, please (week 4)
 
-## Weniger Details bitte (Woche 4)
+Remember to share with the circle your favorite icon from last week. 
 
-Erinnert euch gemeinsam an euer Lieblings-Icon aus der letzten Woche. 
+*Option 1: Everyone draws the same icon in 30 seconds, then in 15 seconds, then in 5 seconds. Compare the results.*
 
-Variante 1: Alle zeichnen das Icon in 30 Sekunden, dann noch einmal in 15 Sekunden, dann noch einmal in 5 Sekunden. Vergleicht die Ergebnisse.
+*Option 2: Draw the icon once with a normal pen and then with a much thicker pen. How do you make the icon well recognized?*
 
-Variante 2: Zeichnet das Icon einmal mit einem normalen Stift und dann mit einem viel dickereren Stift. Wie schafft ihr es, dass die Icons gut zu erkennen bleiben?
+## Container (week 5)
 
-## Container (Woche 5)
+Draw various containers and discuss what they are suitable for. (For example, a cloud stands for an idea rather than a result or a decision).
 
-Zeichnet verschiedene Container und besprecht, wofür sie sich eignen. (Eine Wolke steht zum Beispiel eher für eine Idee als für ein Ergebnis/Beschluss.)
+## Warm-Up (week 6)
 
-## Warm Up (Woche 6)
-
-Bildet Paare und zeichnet euer Gegenüber (über die Webcam), ohne auf euer Blatt zu sehen, und fokussiert euch auf wesentliche Merkmale.
+Pair up and draw your counterpart (via webcam) without looking at your sheet and focus on essential features. Time: 30 seconds.
 Zeit: 30 Sekunden
-Variante 1: Ihr könnt den Stift abheben und neu ansetzen.
-Variante 2: Zeichnet, ohne den Stift vom Blatt zu heben – mit einer Linie!
+*Option 1: You can pick up the pen and put it back down as normal.*
+*Option 2: Draw without lifting the pen from the sheet, i.e., with one continuous line!*
 
-## Draw Toast (Woche 7)
+## Draw Toast (week 7)
 
-Die Übung "[Draw Toast](https://www.drawtoast.com/)" stammt von Tom Wujec, der sie als "Einführung in das Systemische Denken und Abgefahrenes Problem-Lösen" bezeichnet. Hier benutzt ihr sie als Warm Up für das heutige Weekly, deswegen ist sie etwas verkürzt. Der Ablauf ist einfach: 
+The exercis "[Draw Toast](https://www.drawtoast.com/)" was created by Tom Wujec, who calls it an "Introduction to Systemic Thinking and Wacky Problem Solving". Here you use it as a warm-up for today's weekly, so it's a little shortened. The process is simple: 
 
-1. Legt euch Stift und Papier (digital geht natürlich auch) bereit. 
+1. Have pen and paper (or respective digital tools) ready.
+2. Draw a sketch of how to make toast – in 3 minutes!
+3. Show each other your results, maybe ask yourself the following questions:
+    - Which sketchnote is simple, which is complex?
+    - Where do you see people, where don’t you?
+    - What similarities and differences can you find?
 
-2. Zeichnet ein Bild davon, wie man Toast macht - in 3 Minuten!
+If you like "Draw Toast", Tom has posted it on CC-BY-SA at https://www.drawtoast.com/ You can use it to open meetings and workshops if you go through the whole process. Maybe you can even introduce newcomers to sketchnoting.
 
-3. Zeigt euch gegenseitig eure Ergbnisse, vielleicht stellt ihr euch folgende Fragen: 
-    - Welches Bild/welche Sketchnote ist simpel, welche komplex?
-    - Wo seht ihr Personen, wo nicht? 
-    - Welche Gemeinsamkeiten und Unterschiede entdeckt ihr? 
+## Process (week 8)
+Sketch the sequence of your morning routine of the current morning (until leaving home) or from the way to work.
 
-Wenn euch "Draw Toast" gefällt, Tom hat es unter CC-BY-SA auf https://www.drawtoast.com/ veröffentlicht. Ihr könnt damit Meetings und Workshops eröffnen, wenn ihr den kompletten Ablauf durchgeht. Vielleicht könnt ihr so auch Neulinge vom Sketchnoten überzeugen...
+## Visual communication makes the difference (week 9)
 
-## Ablauf (Woche 8)
-Sketcht den Ablauf der Morgenroutine vom aktuellen Morgen (bis zum Verlassen des Hauses) oder vom Weg zur Arbeit.
+Step 1: A person draws a circle, triangle, and square on a piece of paper. Without showing the picture, they now describe the image. The others draw the picture following the explanation.  Afterwards, everyone shows their pictures. In the first round no questions are allowed.
 
-## Visuelle Kommunikation macht den Unterschied (Woche 9)
+Step 2: Repeat the exercise, but clarifying questions may be asked.
 
-Schritt 1: Eine Person zeichnet für sich einen Kreis, ein Dreieck und ein Viereck auf ein Blatt Papier.  Ohne den anderen das Bild zu zeigen erklärt er oder sie nun das eigene Bild. Die anderen zeichnen nach der Erklärung das Bild nach. (In der ersten Runde sind keine Fragen erlaubt, Kommunikation nur in einer Richtung) Anschließend zeigen sich alle ihre Bilder.
+## Figures in action (week 10)
 
-Schritt 2: Wie Schritt 1, nun dürfen Verständnisfragen gestellt werden.
+Draw different types of characters and show them to each other.
 
-## Figuren in Aktion (Woche 10)
+Agree on 5 activities and draw your characters in action. Compare how you have visualized the activities!
 
-Zeichnet verschiedene Figuren-Typen und zeigt sie einander.
-
-Einigt Euch auf 5 Tätigkeiten und zeichnet Eure Figuren in Aktion. Vergleicht, wie ihr die Tätigkeiten dargestellt habt!
-
-Weitere Informationen:
-[Sketchnote-Game Kapitel Figuren](https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf)
+More information:
+[Sketchnote Game Chapter Figures](https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf)
 
 
-## Emotionen (Woche 11)
+## Emotions (week 11)
 
-Weiter geht es mit den Figuren – auch Emotionen lassen sich mit ihnen darstellen!
+Continue with the characters - help them show emotions!
 
-*Variante 1*: Alle zeichnen verschiedene Emotionen und drücken sie durch Körperhaltung aus. Teilt Eure Ergebnisse und findet heraus, welche Emotion dargestellt wurde.
+*Option 1*: Everyone draws different emotions, expressesing them by characters’  body postures. Share your results and have others guess which emotion was represented.
 
-*Variante 2*: Experimentiert mit dem Gesichtsgenerator aus dem Sketchnote-Spiel und stellt verschiedene Emotionen durch Gesichtsausdrücke dar!
+*Option 2*: Experiment with the face generator of the Sketchnote game and express different emotions through facial expressions!
 
-Weitere Informationen:
-[Sketchnote-Game Kapitel Figuren](https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf)
+Further information:
+[Sketchnote Game Chapter Figures](https://sketchnotegame.files.wordpress.com/2017/08/sketchnotes_a6-figuren.pdf)
 
-## Besondere Merkmale (Woche 12)
+## Special features (week 12)
 
-Sammelt verschiedene Augen, Nasen, Frisuren, Brillen, Bärte... und weitere Merkmale (Kleidung, Accessoires). Teilt und vergleicht Eure Sammlungen miteinander.
+Collect different eyes, noses, hairstyles, glasses, beards... and other features (clothes, accessories). Share and compare your collections.
 
-Spielt eine Runde Mensch-O-Mat oder generiert selbst die Zutaten für skurrile Figuren!
+Play a round of Human-O-Mat or generate the ingredients for bizarre characters yourself!
 
-Weitere Informationen:
-Der [Mensch-O-Mat](https://www.ein-bild.com/menschomat) von Sandra Martin [@Sam_HH](https://twitter.com/sam_HH) generiert die „Zutaten“ als Zufallsrezept.
+More information:
+The [The Human-O-Mat](https://www.ein-bild.com/menschomat) by Sandra Martin [@Sam_HH](https://twitter.com/sam_HH) generates the "ingredients" at random.
 
 
-## Weitere Warm-Ups zur Auswahl
+## More warm-ups to choose from
 
-**Äpfel**
-Zeichnet so viele Begriffe wie möglich, die das Wort „Apfel“ enthalten.
-Oder einigt euch auf einen anderen Begriff.
-Weitere Infos:
-In Anlehnung an https://www.tbd.community/de/a/3-kreativitaetsuebung-team
+**Apples**
+Draw as many things as possible that contain the word "apple". Or agree on another word. 
+
+More info: Based on  https://www.tbd.community/de/a/3-kreativitaetsuebung-team
 
 **Story Cubes**
-Wenn jemand von Euch die Storycubes hat, nutzt diese, um eine kurze visuelle Geschichte zu erzählen.
-Alternativ könnt ihr den Zufallswortgenerator für mehrere Wörter oder den für einzelne Wörter (Substantive) nutzen!
-Oder die App “Inspire me”, ein Wortgenerator, bei dem auch eigene Wortlisten angelegt werden können. (Nur für Apple-Geräte).
+If any of you have Storycubes dice, use them to tell a short visual story. Alternatively, you can use a random word generator for several words. Make sure they’re nouns.
 
-**Kreise**
-Welche Bildsymbole fallen Euch ein, die den Kreis als Grundform enthalten? Zeichnet diese und vergleicht Eure Ergebnisse!
-Nutzt gerne die A4 Vorlage PDF mit 15 Kreisen im Anhang.
+Generators:
+- The  app "Inspire me," allows you to create your own word lists. (Only for Apple devices).
+- A random word generator: https://randomwordgenerator.com/
+- TVtropes.org has a generator that focuses on stories. https://tvtropes.org/pmwiki/storygen.php
+
+**Circles**
+Which pictures come to  mind that contain a circle as a primary form? Draw them and compare your results! Find an A4 template PDF with 15 circles in the attachment.

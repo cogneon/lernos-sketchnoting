@@ -1,108 +1,108 @@
 \newpage
 
-# **Ressourcen**
+# **Resources**
 
 ## Videos
 
 **Brandy Agerbeck - [The essential 8](https://www.youtube.com/watch?v=3sXsXveYQtc)**
 
-Der Gedanke, vor anderen Menschen zu zeichnen, kann einschüchternd sein. Brandy Agerbeck bricht Zeichnen im Kontext von Graphic Facilitation (Moderation mit Visualisierung) in 8 wesentliche Komponenten herunter. Alle visuell Praktizierenden können dieses Video nutzen. Es hilft dir, dich auf das Wesentliche zu fokussieren und die Ideen aus dem Kopf aufs Papier zu bringen. (Englisch)
+The thought of drawing in front of other people can be intimidating. Brandy Agerbeck breaks down drawing in the context of Graphic Facilitation (moderation with visualization) into 8 essential components. All visual practitioners can use this video. It helps you to focus on the essentials and to bring your ideas from a picture in your mind to the paper. (English)
 
 **Brandy Agerbeck - [what is visual thinking?](https://www.youtube.com/watch?v=Yr6DN20NHvs)**
 
-Was ist visuelles Denken? Kein Anleitungsvideo, mehr ein „warum sollte ich?“-Video – warum Zeichnen so ein fantastisches Denkwerkzeug ist und warum Brandy sich auf das DENKEN in visuellem Denken fokussiert. (Englisch)
+What is visual thinking? Not an instructional video, more a "why should I?" video. hy drawing is such a fantastic thinking tool and why Brandy focuses on THINKING in visual thinking. (English)
 
 **Karen Bosch - [Sketchnote elements](https://www.youtube.com/watch?v=sH-sJXMQjro&feature=share)**
 
-Überblick über die Basiselemente einer Sketchnote. (Englisch)
+Overview of the essential elements of a sketchnote. (English)
 
 **Willemien Brand - [VISUAL THINKING](https://www.youtube.com/watch?v=pUelkBYu9jU)**
 
-Visuelles Denken – integrieren von Visualisierungen in Business-Kommunikation
+Visual thinking - integrating visualizations into business communication
 
-Willemien präsentiert ein Webinar, in dem sie den Sinn und Zweck visuellen Denkens im Business-Kontext erklärt. Enthält einen kurzen live Business-Zeichen-Workshop. (Englisch)
+Willemien presents a webinar in which she explains the meaning and purpose of visual thinking in a business context. It includes a short live business drawing workshop. (English)
 
 **Sunni Brown - [Doodlers, unite!](https://www.ted.com/talks/sunni_brown?share=11cb8401a9&language=en)**
 
-Studien zeigen, dass Sketchen und Zeichnen unser Verständnis verbessert – und unser kreatives Denken. Warum ist es uns immer noch peinlich, wenn wir in einem Meeting beim Doodeln ertappt werden? Sunni Brown sagt: Doodlers, vereinigt Euch! Sie tritt dafür ein, Dein Gehirn mit Papier und Stift zu befreien! (Englisch)
+Studies show that sketching and drawing improve our understanding - and our creative thinking. Why are we still embarrassed when we get caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She advocates freeing your brain with paper and pencil! (English)
 
 **Kate Hayward - [Draw like a child, see like a master](https://www.youtube.com/watch?v=ZA92l6KwuT4)**
 
-Zeichne wie ein Kind, sehe wie ein Meister. 
+Draw like a child, see like a master.
 
-Hayward erklärt, wie scheinbar einfache Zeichentechniken uns erlauben können, klarer zu kommunizieren, indem wir ein umfangreiches visuelles Vokabular an einfachen, kindhaften Bildern aufbauen. (Englisch)
+Hayward explains how seemingly simple drawing techniques can allow us to communicate more clearly by building an extensive visual vocabulary of simple, childlike images. (English)
 
-**Pavo und Rob (Pavo Ivcovic und Robert Bree) - [Coffee talk rund um Sketchnotes, Lettering… YouTube-Kanal](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)** 
+**Pavo und Rob (Pavo Ivcovic und Robert Bree) - [ Coffee talk around sketchnotes, lettering… 
+YouTube channel](https://www.youtube.com/channel/UCY7b7ox2oKeFL61KNRQNGHw)** 
 
 **Heather Martinez - Neuland Hand 2.0 :: [Lettering Tips Tuesdays](https://www.youtube.com/watch?v=0O8PoYsxaT4)**
 
-Neuland Hand 2.0 ist eine Handschrift, die für für Graphic Recorder und Moderatoren entwickelt wurde, die sich gut für Titel und Überschriften eignet. (Englisch)
+Neuland Hand 2.0 is handwriting designed for graphic recorders and presenters that works well for titles and headlines. (English)
 
 **Doug Neill - [Verbal to Visual YouTube-Kanal](https://www.youtube.com/channel/UCuFm4ARxn306lX_OWMnz0-w)**
 
-YouTube-Kanal von Doug Neill / „Verbal to Visual“ mit sehr vielen praktischen Tipps und Anleitungen rund um das Lernen und Anwenden von Sketchnotes. (Englisch)
+YouTube channel by Doug Neill / "Verbal to Visual" with lots of practical tips and instructions on how to learn and use sketchnotes. (English)
 
 **Onda - [Visual Thinking Crash Course!](https://www.youtube.com/watch?v=IdVBjZbqOSk)**
 
-Ein Crashkurs in visuellem Denken. (Englisch)
+A crash course in visual thinking. (English)
 
 **Mike Rohde - [Sketchnote mini workshop](https://www.youtube.com/watch?v=39Xq4tSQ31A&feature=share)**
 
-Halbstündiger Sketchnote Workshop. (Englisch)
+Half-hour sketchnote workshop. (English)
 
 **Scriberia - [What is visual thinking?](https://www.youtube.com/watch?v=rZikhQ5w5Ck)**
 
-Was ist visuelles Denken? Ein kleiner Animatiosfilm. (Englisch)
+What is visual thinking? A small animated film. (English)
 
 **Graham Shaw - [Why people believe they can’t draw - and how to prove they can](https://www.youtube.com/watch?v=7TXEZ4tP06c)**
 
-Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann haben wir diese Überzeugung entwickelt? Graham Shaw zerstört diese Illusion auf eine sehr pragmatische Art und Weise. Er demonstriert eindrücklich wie der einfache Akt des Zeichnens die Macht hat, einen positiven Wandel in unserer Welt zu bewirken!
+Why do so many people think that they can't draw? Where and when did we develop this conviction? Graham Shaw destroys this illusion in a very pragmatic way. He demonstrates impressively how the simple act of drawing has the power to bring about a positive change in our world!!
 
-## Bücher 
+## Books 
 
-**Brandy Agerbeck - The idea shapers - The power of putting your thinking into your own hands** - Von der Kraft, dein Denken in deine eigenen Hände zu legen. Ausführliches Grundlagenwerk zu Zeichnen als Denkwerkzeug. Sehr systematisch, mit 24 „idea shapers“ / Konzepten, Ideen visuell zu gestalten. (Englisch)
+**Brandy Agerbeck - The idea shapers - The power of putting your thinking into your own hands** - The power of putting your thinking into your own hands. Detailed essential work on drawing as a tool for thinking. Very systematic, with 24 "idea shapers," concepts to design ideas visually. (English)
 
-**Brandy Agerbeck - The graphic facilitator’s field guide/Der Wegweiser für den Graphic Facilitator** - Wie Sie mit Zuhören, Denken und Zeichnen Bedeutung schaffen. Bezieht sich auf Graphic Facilitation, Graphic Recording, Visueller Moderation / dem Erstellen visueller Protokolle. (Englisch/Deutsch)
+**Brandy Agerbeck - The graphic facilitator’s field guide/Der Wegweiser für den Graphic Facilitator** - How to create meaning through listening, thinking and drawing. Refers to Graphic Facilitation, Graphic Recording, Visual Moderation / creating visual protocols. (English/German)
 
-**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) 1** -  Der Bilder-Karten-Block als Nachschlagewerk der Bildsprache mit hunderten Bildsymbolen. (Deutsch/Englisch/Französisch)
+**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) 1** -  The picture-card block as a reference book of visual language with hundreds of picture symbols. (German/English/French)
 
-**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) 2.0: Neue Bilder für Meeting, Training & Learning** -  Bildsymbole aus den Themen "Workshop/Meeting/Seminar/Training", "Unternehmen/Organisation/Markt" und weiteren. Tipps für professionelle Visualisierungen und Plakat-Layouts. (Deutsch/Englisch/Französisch)
+**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) 2.0: New images for Meeting, Training & Learning** - Pictorial symbols from the topics "Workshop/Meeting/Seminar/Training", "Company/Organization/Market" and others. Tips for professional visualizations and poster layouts. (German/English/French)
 
-**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) emotions: Visuelles Wörterbuch** -   Im Mittelpunkt dieses visuellen Wörterbuchs steht der Mensch, seine Gefühle, sein Zusammenleben und -arbeiten mit anderen. (Deutsch/Englisch/Französisch)
+**bikablo akademie GmbH & Co. KG, Martin Haussmann - bikablo(R) emotions: Visuelles Wörterbuch** - This visual dictionary focuses on people, their feelings, their living and working together with others. (German/English/French)
+**Willemien Brand - Visuelles Denken: Stärkung von Menschen und Unternehmen durch visuelle Zusammenarbeit** - Using visual communication successfully in (professional) everyday life. (German/English)
 
-**Willemien Brand - Visuelles Denken: Stärkung von Menschen und Unternehmen durch visuelle Zusammenarbeit** - Visuelle Kommunikation erfolgreich im (Berufs-) Alltag einsetzen. (Deutsch/Englisch)
+**Willemien Brand - Visual Doing: Applying Visual Thinking in your Day to Day Business** - Focusing on the use of visualization techniques in everyday business. (English)
 
-**Willemien Brand - Visual Doing: Applying Visual Thinking in your Day to Day Business** - Fokus auf dem Einsatz von Visualisierungstechniken im Business-Alltag. (Englisch)
+**Sunni Brown - The doodle revolution** - UUnlock the power to think differently - about the how and why of Doodles (English)
 
-**Sunni Brown - The doodle revolution** - Unlock the power to think differently: Entriegele die Kraft, anders zu denken – über das wie und warum von Doodles. (Englisch)
+**Ben Crothers - Presto Sketching: The Magic of Simple Drawing for Brilliant Product Thinking and Design** - Tips, templates and exercises for building a visual vocabulary and developing the drawing skills needed to communicate ideas. (English)
 
-**Ben Crothers - Presto Sketching: The Magic of Simple Drawing for Brilliant Product Thinking and Design** - Tipps, Vorlagen und Übungen zum Aufbau eines visuellen Vokabulars und zur Entwicklung der Zeichen-Fähigkeiten zur Kommunikation von Ideen. (Englisch)
+**Martin Haussmann - UZMO - Denken mit dem Stift: Visuell präsentieren, dokumentieren und erkunden** - Thinking with the pen: Visual presentation, documentation and exploration: Practical guide for Visual Facilitating with practical drawing instructions. (German)
 
-**Martin Haussmann - UZMO - Denken mit dem Stift: Visuell präsentieren, dokumentieren und erkunden** - Praxisratgeber für Visual Facilitating mit praktischen Zeichenanleitungen. (Deutsch)
+**Robert Klanten, Anna Lena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  A comprehensive manual with many examples of different graphic recordings. (German)
 
-**Robert Klanten, Anna Lena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
+**Heidrun Künzel - Sketchnotes im Alltag: Schritt für Schritt Sketchnotes anwenden** - Step-by-step instructions for using Sketchnotes in everyday life (to-do and have-fun lists, checklists, plans for holidays, garden, recipes, personal greetings, vouchers, invitations and inspiration for diary and calendar). (German)
 
-**Heidrun Künzel - Sketchnotes im Alltag: Schritt für Schritt Sketchnotes anwenden** - Schritt-für-Schritt-Anleitungen  zum Einsatz von Sketchnotes im Alltag (To-Do- und Have-Fun-Listen, Checklisten, Pläne für Urlaub, Garten, Rezepte, persönliche Grüße, Gutscheine, Einladungen und Inspirationen für Tagebuch und Kalender). (Deutsch)
+**Maja Larsson - Alla kan rita symboler** - In Swedish, but very lively and individual templates and inspirations for figures. (Swedish)
 
-**Maja Larsson - Alla kan rita symboler** - Auf schwedisch, aber sehr lebendige und individuelle Vorlagen und Inspirationen für Figuren.
+**Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** -  A visual "diary" with lots of inspiration to find patterns in your daily life by observing, collecting and drawing (visualization of data). A very vivid, concrete and personal introduction to / experience with data visualization. (English)
 
-**Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)
+**Dan Roam - The back of the napkin/Auf der Serviette erklärt** - Convince quickly with a few strokes instead of presenting for a long time. Solving problems and selling ideas with pictures - very tactical! (English/German)
 
-**Dan Roam - The back of the napkin/Auf der Serviette erklärt** - Mit ein paar Strichen schnell überzeugen statt lange präsentieren. Probleme lösen und Ideen verkaufen mit Bildern - sehr taktisch! (Englisch/Deutsch)
+**Dan Roam - Blah blah blah - What to do, when words don’t work** - Tell exciting stories with illustrations. (English/German).
 
-**Dan Roam - Blah blah blah - What to do, when words don’t work** - Spannende Geschichten mit Illustrationen erzählen. (Englisch/Deutsch).
+**Mike Rohde - The sketchnote handbook** - The classic!
 
-**Mike Rohde - The sketchnote handbook** - Der Klassiker! 
+**Nadine Roßa: Sketchnotes. Die große Symbol-Bibliothek: 1000 Vorlagen mit vielen Zeichenanleitungen** - 1000 templates with many drawing instructions: Line by line instructions and variations of symbols
 
-**Nadine Roßa: Sketchnotes. Die große Symbol-Bibliothek: 1000 Vorlagen mit vielen Zeichenanleitungen** - Strich für Strich Anleitungen und Variationen von Symbolen
+**Nadine Roßa - Visuelle Notizen für alles: von Business-Meetings über Partyplanung bis hin zu Rezepten** - Visual notes for everything: from business meetings and party planning to recipes - building sketchnotes, visual alphabet, tips and tricks (German)
 
-**Nadine Roßa - Visuelle Notizen für alles: von Business-Meetings über Partyplanung bis hin zu Rezepten** - Aufbau von Sketchnotes, visuelles Alphabet, Tipps und Tricks. (Deutsch)
+**Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen** - Making thinking visible: practical instructions and tips on how to use visualization to communicate one's ideas more understandably and sustainably and as a resource for finding ideas. (German)
 
-**Malte von Tiesenhausen: Ad hoc visualisieren - Denken sichtbar machen** - Praktische Anleitungen und Tipps, durch Visualisierung die eigenen Ideen verständlicher und nachhaltiger zu vermitteln und als Ressourcen bei der Ideenfindung. (Deutsch)
+**Tanja Wehr - Die Sketchnote-Starthilfe** - Over 200 line-by-line instructions and fonts for tracing (German)
 
-**Tanja Wehr - Die Sketchnote-Starthilfe** - Über 200 Strich-für-Strich-Anleitungen und Schriften zum Nachzeichnen (Deutsch)
-
-**Tanja Wehr - Die Sketchnote-Starthilfe Neue Bilderwelten** - Umfangreicher Business- und Sketchnote-Bildwortschatz- Über 300 neue Bildvokabeln (Deutsch)
+**Tanja Wehr - Die Sketchnote-Starthilfe Neue Bilderwelten** - Extensive business and sketchnote picture vocabulary: Over 300 new picture words (German)
 
 
 
@@ -110,11 +110,11 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 
 [Sketchnote Army](https://sketchnotearmy.com/) [Slack channel](https://sketchnotearmy.com/slack)
 
-Sketchnotes Germany auf [Facebook](https://www.facebook.com/groups/sketchnotesgermany/)
+Sketchnotes Germany on [Facebook](https://www.facebook.com/groups/sketchnotesgermany/)
 
 
 
-## Inspirierende Menschen / Newsletter / Social Media Accounts
+## Inspiring People / Newsletter / Social Media Accounts
 
 Brandy Agerbeck - [Twitter](https://twitter.com/loosetooth)
 
@@ -136,7 +136,7 @@ Magalie Le Gall - [Twitter](https://twitter.com/magalielegall)
 
 Marcel van Hove - [Twitter](https://twitter.com/marcelvanhove)
 
-Pavo Ivcovic (Djangonaut) [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Fr um 9:30 Uhr (coffee talk mit Pavo und Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
+Pavo Ivcovic (Djangonaut) [Instagram](https://www.instagram.com/djangonaut/) - Instagram Live Talk / Fr at 9:30 am (coffee talk with Pavo and Rob) Instagram [#pavoundrob](https://www.instagram.com/explore/tags/pavoundrob/) - Sketchnotes zu den Coffee talks
 
 Austin Kleon - [Newsletter](https://austinkleon.com/newsletter/)
 

@@ -1,15 +1,15 @@
-# Übungsblatt "Architects Handwriting" Seite 1
+# Practice sheet "Architects Handwriting" Page 1
 
 ![](sketchnotes/architect_pg1.png){#mid .center height=770}
 
-# Übungsblatt "Architects Handwriting" Seite 2
+# Practice sheet "Architects Handwriting" Page 2
 
 ![](sketchnotes/architect_pg2.png){#mid .center height=770}
 
-# Übungsblatt "Kreise"
+# Practice sheet "Circles"
 
 ![](sketchnotes/circles.png){#mid .center height=770}
 
-# Reflexionsnetz
+# Reflection grid
 
 ![](sketchnotes/reflections.png){#mid .center height=770}

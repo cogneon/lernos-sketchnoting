@@ -1,33 +1,41 @@
 \newpage
 
-# Der Sketchnote Lernpfad
+# The Sketchnote Learning Path
 
-Wenn du dich 12 Wochen mit einem Thema beschäftigst, ist das gleichzeitig sehr viel und sehr wenig Zeit. Die Katas (Übungen) in diesem Leitfaden sollen dir dabei helfen, das Beste aus dir und deinem Circle herauszuholen. Sie sind so aufgebaut, dass sie sowohl für Anfänger\*innen als auch für Fortgeschrittene geeignet sind. Nimm dir vor Start des Sprints Zeit, den Aufbau und die einzelnen Katas genauer anzuschauen. Manchmal gibt es mehrere Katas in einer Woche, sucht euch eine aus, oder macht beide, je nach Lust und Laune. Es gibt keine Kata-Polizei: Tauscht gerne Katas aus oder modifiziert sie, damit sie besser zu euren Zielen passen. Vielleicht schaut ihr auch einfach mal in den anderen [lernOS Leitfäden](https://github.com/cogneon/), welche Katas dort genutzt werden und ob diese nicht besser für euch sind...
+This course recommends that you spend 12 weeks working on a topic. That could be both a lot of time and also very little time. The katas (exercises) in this guide are designed to help you get the most out of yourself and your circle. They are designed to be suitable for both beginners and advanced students. Before you start the sprint, take some time to look at the structure and the individual katas. Sometimes there are several katas in one week.hoose one or do both, depending on your mood. There is no kata police: simply exchange katas or modify them to fit your goals better. You can also have a look at the other [ernOS guides](https://github.com/cogneon/): Which katas do they suggest? Are they better suited for you?
 
-**Wie ist dieser Lernpfad aufgebaut?**
+**How is this learning path structured?**
 
-Lass uns das aus zwei Perspektiven betrachten. Zuerst schauen wir, wann deine individuellen Ziele im Laufe der zwölf Wochen Thema im Circle sind. Dann schauen wir uns an, nach welchem System die Katas aufgebaut sind.
+Let's look at it from two perspectives. First, we look at when you are part of a learning circle over the twelve weeks. Then we look at the katas regarding the structure.
 
 ![Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
 
-Sketchnoten ist für jeden etwas anderes und wird auch für dich, je nach Situation, immer anders sein. Trotzdem gibt es grundlegende Qualitäten, die eine Sketchnote auszeichnen, die du dir nach Jahren noch gerne anschaust und die z. B. auch für deine Kolleg\*innen verständlich ist. Der Sketchnoter Mauro Toselli, den wir oben schon erwähnt haben, hat sich jahrelang mit diesen Qualitäten beschäftigt. Wir haben seine Einteilung der Qualitäten einer Sketchnote übernommen und die Katas auf ihnen aufgebaut. 
+Sketchnoting is different for everyone and will always be different for you too, depending on the situation. Nevertheless, there are essential qualities that characterize a sketchnote that bears returning to even after years, and which can be understood by your colleagues. Toselli, mentioned above, has been developing a working list of these qualities for years. We took his list and built the Katas on them.
 
 ![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
 
-## Wie finde ich weitere Circle Member?
+## How do I find more Circle Members?
 
-Du willst jetzt loslegen, aber weißt nicht so genau, wo die anderen Circle Member herkommen sollen? 
+A group of students studying the same thing is called a learning circle in this text. If you’re eager to start, but don't know where to find other circle members, what can you do? 
 
-Wenn du dich in Sozialen Netzwerken, wie Facebook, Instagram oder Twitter bewegst, dann frag dort in einem Post nach weiteren Interessierten. Nutze dafür auch die die Hashtags  #lernOS und #sketchnoting. Du kannst die Autor\*innen des Leitfadens taggen, so kann dein Post einfacher gesehen und weitergeleitet werden. 
+If you are in social networks like Facebook, Instagram or Twitter, post there and ask for interested people. If you use the hashtags #lernOS and #sketchnoting in your post, people following those threads will see it as well. You can also tag the authors of the guide, so your post can be seen and forwarded more easily.
 
-## Circle Organisator\*innen Checkliste
+## Circle Organizer Checklist
 
-**#ProTipp:** in vielen Fällen ist die Zeit für das Ausführen der Übungen im Weekly zu kurz. Wir nutzen [daher die Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) Methode. Für jedes Weekly gibt es eine Kata, die jedes Circle-Mitglied als “Hausaufgabe” vorbereitet, so dass ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen. Das wird begleitet durch Leitfragen, die ihr gerne ergänzen könnt, und immer wieder gibt es auch Katas, die ihr gemeinsam während des Weeklys absolviert.
+**#ProTipp:** in many cases, the weekly meeting does not have enough time for doing the exercises. Therefore we use the [flipped classroom method](https://en.wikipedia.org/wiki/Flipped_classroom). For each weekly, there is a kata, which each circle member prepares as "homework," so you have more time to discuss the results in the weekly. This is accompanied by guiding questions, which you are welcome to add.here are also shorter katas that you do together during the weekly.
 
-Du wählst deinen eigenen Schwerpunkt für den Sprint – was willst du neu lernen oder vertiefen? Wo stehst du? Was ist herausfordernd? Was ist jetzt gerade dran, wie geht es dann weiter – was wäre eher ein Schwerpunkt für einen weiteren Sprint? „Alles auf einmal und dann perfekt“ (und Überforderung / Frust) oder lieber doch „practice makes progress“ (Brandy Agerbeck) – Übung macht Fortschritte (und Spaß)?
+You should choose your focus for the sprint:
+- What do you want to learn or deepen?
+- In which skills are you already confident?
+- What is challenging?
+- What's up right now?
+- What's next?
+- What would be a better  focus for a different  sprint?
+- Are you “one-and-done” but find it frustrating?
+- Or would you rather aim at "practice makes progress (and fun)" (building on Brandy Agerbeck’s awesome phrase.)
 
 ![Kata-Log by @DenkFlowRR CC-BY](sketchnotes/kata_log.jpg){#small .center height=500}
 
-Die hier aufgeführten Katas sind Vorschläge. Betrachte sie durch deine eigene Brille. Wenn verschiedene Katas zur Auswahl stehen – welche passt am besten zu deinem Schwerpunkt? Oder willst du alle machen? Wenn du selbst Ideen für Katas (oder Variationen) hast, die noch besser zu deinem Schwerpunkt passen, nutze diese! Und wenn du die dann mit uns teilst oder den Lernpfad selbst ergänzt, hilfst du allen anderen, die nach dir dem Lernpfad folgen! (... und verdient natürlich einen Haufen Karma-Punkte!)
+The katas listed here are suggestions. Think of them not as prescriptive, but as inspirational.. If there are different katas to choose from, which one fits your focus best?  Or do you want to do them all? If you have your own ideas for katas (or variations) that suit your main emphasis, even better, use them! And if you share them with us or add them to the learning path yourself, you will help all the others who follow the learning path after you! (... and of course, earn some tasty karma!)
 
-Auf den nächsten Seiten findest du den Ablaufplan für den Sprint in Kurzform. Die Erklärungen für die einzelnen Katas und Warm-Ups folgen dann auf den Seiten danach.
+On the following pages, you will find a short version of the sprint schedule. The explanations for the individual katas and warm-ups follow on the pages after that.

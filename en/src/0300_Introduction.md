@@ -141,11 +141,11 @@ Like pen and paper, sketchnoting on the tablet has a few disadvantages:
 
 Apps that can be used for sketchnoting:
 
-- [ProCreate](https://procreate.art/) - kostenpflichtig, für iOS (Doug Neill stellt [ProCreate als Sketchnote-Tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) in einem Video vor)
-- [Paper by WeTransfer](https://paper.bywetransfer.com/) (früher by 53) - Basisversion kostenlos, Abomodell, für iOS
-- [Concepts](https://concepts.app/) - Basisversion kostenlos, für iOS, Android, Windows
-- [Tayasui Sketches](https://tayasui.com/sketches/) - Basisversion kostenlos, für iOS, Android
-- [GoodNotes 5](https://www.goodnotes.com/) - kostenpflichtig, für IOS 
+- [ProCreate](https://procreate.art/) -  with costs, for iOS (Doug Neill presents[ProCreate as sketchnote tool](https://www.youtube.com/watch?v=jhd8WQ9cBww) in a video)
+- [Paper by WeTransfer](https://paper.bywetransfer.com/) (formerly by 53) - Basic version free, subscription model, for iOS
+- [Concepts](https://concepts.app/) - Basic version free, for iOS, Android, Windows
+- [Tayasui Sketches](https://tayasui.com/sketches/) - Basic version free, for iOS, Android
+- [GoodNotes 5](https://www.goodnotes.com/) - with costs, for iOS,
 
 You can find a comparison of different apps at [Timo](https://sketchnoting.net/sketchnotes-apps/) and on [Pixpa](https://www.pixpa.com/blog/drawing-apps). 
 
@@ -153,7 +153,7 @@ You can find a comparison of different apps at [Timo](https://sketchnoting.net/s
 
 No matter what the theme is, you'll always use the same elements for your sketches. If you want to train in the fundamentals, or need some inspiration and variety, we recommend "Sketch it – The Card Game" by Wibke Tiedmann and Stefanie Maurer. You can download it  [here](https://sketchnotegame.wordpress.com/download-kartenspiel/)and use it under the Creative Commons Attribution-ShareAlike 4.0 International license. (CC BY SA 4.0). Following examples of Sketchnote elements originate from this game.
 
-*„*[*Sketch it – Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*„ von*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, Lizenz:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+*„*[*Sketch it – Das Kartenspiel*](https://sketchnotegame.wordpress.com/download-kartenspiel/)*„ by*[ *Wibke Tiedmann & Stefanie Maurer*](https://sketchnotegame.wordpress.com/ueber/)*, Lizenz:*[ *CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 ### Container
 

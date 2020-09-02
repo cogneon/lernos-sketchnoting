@@ -2,7 +2,7 @@
 
 # The Sketchnote Learning Path
 
-This course recommends that you spend 12 weeks working on a topic. That could be both a lot of time and also very little time. The katas (exercises) in this guide are designed to help you get the most out of yourself and your circle. They are designed to be suitable for both beginners and advanced students. Before you start the sprint, take some time to look at the structure and the individual katas. Sometimes there are several katas in one week.hoose one or do both, depending on your mood. There is no kata police: simply exchange katas or modify them to fit your goals better. You can also have a look at the other [ernOS guides](https://github.com/cogneon/): Which katas do they suggest? Are they better suited for you?
+This course recommends that you spend 12 weeks working on a topic. That could be both a lot of time and also very little time. The katas (exercises) in this guide are designed to help you get the most out of yourself and your circle. They are designed to be suitable for both beginners and advanced students. Before you start the sprint, take some time to look at the structure and the individual katas. Sometimes there are several katas in one week.hoose one or do both, depending on your mood. There is no kata police: simply exchange katas or modify them to fit your goals better. You can also have a look at the other [LernOS guides](https://github.com/cogneon/): Which katas do they suggest? Are they better suited for you?
 
 **How is this learning path structured?**
 

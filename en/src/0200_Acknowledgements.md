@@ -28,3 +28,14 @@ A big thank you for constructive feedback and corrections goes to
 - Tobias Leisgang
 - Andrea Wendt
 - Chris Noessel
+
+The English version was translated by
+•    Marjukka Zsagar-Renneberg
+•    Katharina Büttner
+•    Raffaelina Rossetti
+
+Special thanks goes to the members of the SketchnoteArmy Community for proofreading and feedback
+•    Rasagy Sharma
+•    Chriss Joyce
+•    Chris Noessel
+•    Anne Brassell

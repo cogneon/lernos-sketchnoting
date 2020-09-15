@@ -36,6 +36,6 @@ The English version was translated by
 
 Special thanks goes to the members of the SketchnoteArmy Community for proofreading and feedback
 •    Rasagy Sharma
-•    Chriss Joyce
+•    Chris Joyce
 •    Chris Noessel
 •    Anne Brassell

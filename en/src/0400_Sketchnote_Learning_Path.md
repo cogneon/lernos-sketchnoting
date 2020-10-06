@@ -12,8 +12,6 @@ Let's look at it from two perspectives. First, we look at when you are part of a
 
 Sketchnoting is different for everyone and will always be different for you too, depending on the situation. Nevertheless, there are essential qualities that characterize a sketchnote that bears returning to even after years, and which can be understood by your colleagues. Toselli, mentioned above, has been developing a working list of these qualities for years. We took his list and built the Katas on them.
 
-![Sketchnote Learning Path (Pt. 2) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_02.png){#small .center height=250}
-
 ## How do I find more Circle Members?
 
 A group of students studying the same thing is called a learning circle in this text. If you’re eager to start, but don't know where to find other circle members, what can you do? 

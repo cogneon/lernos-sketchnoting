@@ -8,7 +8,7 @@ This course recommends that you spend 12 weeks working on a topic. That could be
 
 Let's look at it from two perspectives. First, we look at when you are part of a learning circle over the twelve weeks. Then we look at the katas regarding the structure.
 
-![Sketchnote Learning Path (Pt. 1) by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
+![Sketchnote Learning Path by Karl Damke CC-BY](sketchnotes/sketchnote_learning_path_01.png){#small .center height=250}
 
 Sketchnoting is different for everyone and will always be different for you too, depending on the situation. Nevertheless, there are essential qualities that characterize a sketchnote that bears returning to even after years, and which can be understood by your colleagues. Toselli, mentioned above, has been developing a working list of these qualities for years. We took his list and built the Katas on them.
 

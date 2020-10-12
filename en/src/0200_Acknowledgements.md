@@ -7,7 +7,7 @@ Our contributors:
 - Natalia Zlateva ([@nataliaoro](https://www.instagram.com/nataliaoro) on Instagram): Kata "Shopping List"
 - Mike Meister ([@mm_mikemeister](https://www.twitter.com/mm_mikemeister) on Twitter): Warm Up "Doodles", Warm-Up "Visual communication makes the difference"
 - Sabine Erkens ([@Sabine_Erkens](https://www.twitter.com/Sabine_Erkens) on Twitter): Kata "image collection", Kata "#NeverEnoughPens"
-- Britta Ullrich (vizworks.de on the web & Instagram): Kata "Soulshine Selfie"
+- Britta Ullrich ([vizworks.de](https://www.vizworks.de) on the web & Instagram): Kata "Soulshine Selfie"
 - Conni Eyebisch-Klimpl ([@conni.eybisch](https://www.instagram.com/conni.eybisch) on Instagram): "Reflections" kata
 - Susanne Speer ([@designpiranha](https://www.twitter.com/designpiranha) on Twitter): Kata "Web pictionary"
 - Steffi Altmann ([@mygreensketchnotes](https://www.instagram.com/mygreensketchnotes) on Instagram): Sketchnote "Sketchnote-Selfie”

@@ -29,7 +29,7 @@ echo -- HTML document created
 
 REM Create PDF Version (pdf)
 echo -- Create PDF document
-pandoc metadata.yaml --from markdown --resource-path="./tmp4doc" --template sketchnotes --number-sections -V lang=de-de ./tmp4doc/%filename%.md -o %filename%.pdf 
+pandoc metadata.yaml --from markdown --resource-path="./tmp4doc" --template sketchnotes --number-sections -V lang=en-en ./tmp4doc/%filename%.md -o %filename%.pdf 
 echo -- PDF document created
 
 REM Create eBook Versions (epub, mobi)

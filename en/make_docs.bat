@@ -14,7 +14,7 @@ set filename="lernOS-Sketchnoting-Guide-en"
 
 REM Delete Old Versions
 echo -- Delete old files
-del %filename%.docx %filename%.epub %filename%.mobi %filename%.html %filename%.pdf images\ebook-cover.png
+del %filename%.docx %filename%.epub %filename%.mobi %filename%.html %filename%.pdf tmp4doc\images\ebook-cover.png
 echo -- Old files deleted
 
 REM Create Microsoft Word Version (docx)
